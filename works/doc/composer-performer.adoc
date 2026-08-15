@@ -1,0 +1,100 @@
+= composer-performer
+:imagesdir: ./images
+:icons: font
+:toc: left
+:toc-title:
+:nofooter:
+:sectnums!:
+:figure-caption!:
+:docinfo: shared
+:linkcss:
+:copycss!:
+:stylesheet: theme.css
+:stylesdir: /current-theme
+
+link:/../index.html[icon:home[]] | link:/works/index.html[works]
+
+.colline sur livre (2022-)
+Marianne Schuppe, voice, lute, e-ponts
+
+.Laconnex series (2022)
+[%hardbreaks]
+for instruments and voices
+composition and voice: Marianne Schuppe
+9 pieces unfolding a melody line.
+Played with long rests in a time span of 7 hours from dusk to late night.
+Opaque transparent.
+https://insub.bandcamp.com/track/marianne-schuppe-laconnex-serie-insub8tet-1[Laconnex series auf bandcamp]
+
+.behind I-IV (2018/2020)
+[%hardbreaks]
+for voice and two instruments
+text: Marianne Schuppe
+_a ransong to be sung in trio or performed with solo voice and instruments_
+
+.distant shapes – ferne Formen (2019)
+for listeners and singers
+
+.nosongs (2017/18)
+[%hardbreaks]
+for voice, lute and uber-bows
+text: Marianne Schuppe
+_came in here from side-doors_
+_found in a landscape of some other game_
+
+.notes from the hill (2015/2019)
+[%hardbreaks]
+for voice and one instrument
+an ongoing songbook of short melodies performed solo with any instrument or in duo
+
+.Sapphosongs (2015)
+[%hardbreaks]
+for voice and one instrument
+referring to a small selection of words by Sappho, commissioned by Ute Stoecklin/ maison 44
+_das Licht zurückwerfen_
+
+.slow songs (2013-15)
+[%hardbreaks]
+for voice, lute, e-bows
+text: Marianne Schuppe
+_nor silent, kind or real are things in thinking_
+
+.am Fenster (2014)
+[%hardbreaks]
+for solo voice
+_where is the stage in a high-ceiled dark concrete-room ?_
+
+.tidstrand (2009)
+[%hardbreaks]
+for voice and instruments
+text: abgelauschte Sätze
+_written for the concert series moments musicaux in Aarau, named after a swedish woolen blanket_
+
+.Avers (2008)
+[%hardbreaks]
+for voice, lute, e-bows
+longsong in seven parts based on the transkription of a witch trial in the Swiss mountainvalley of Avers in the 17th century,
+commissioned by Ina Boesch und Corinne Holtz for the opening of their performance series "Die Bühne im Avers".
+_346 Jahre später schickt mir jemand eine Postkarte_
+
+.Hitzewelle (2004)
+[%hardbreaks]
+music for videowork by Andrea Wolfensberger
+Multi-layered-tape-composition based on a conductus of Codex las Huelgas (13th century).
+_a many-voiced canon towards dissolution into wind_
+
+.stilleben (1997)
+[%hardbreaks]
+_fourteen almost wordless still-lifes for voice_
+
+.das imzu plaudern (1993)
+[%hardbreaks]
+for voice and tape
+text: Marianne Schuppe
+_Simultaneity of speaking and singing comes about by accident_
+
+.solo for voice (1988)
+[%hardbreaks]
+Kunsthaus Aarau
+
+link:/../index.html[icon:home[]] | link:/works/index.html[works]

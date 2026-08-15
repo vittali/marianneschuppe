@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.associations": {
+      "*.gradle": "groovy",
+      "cmath": "cpp"
+    },
+    "java.compile.nullAnalysis.mode": "disabled",
+    "java.configuration.updateBuildConfiguration": "disabled",
+    "cSpell.enabled": false,
+    "asciidoc.antora.enableAntoraSupport": false
+  }
+}

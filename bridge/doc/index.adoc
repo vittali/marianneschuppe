@@ -1,0 +1,681 @@
+= Bridging words and music
+:includedir: _includes
+:imagesdir: ./images
+:icons: font
+:toc: left
+:toc-title:
+:nofooter:
+:sectnums:
+:figure-caption!:
+:sectnums!:
+:docinfo: shared
+:linkcss:
+:copycss!:
+:stylesheet: theme.css
+:stylesdir: /current-theme
+
+link:/../index.html[icon:home[]] 
+
+[Abstract]
+My interest in voice draws me into the area between music and language. An area which I see as the coast between words and music, where the grain of language and the fluidity of sound converge. I have wandered in this area since the late '80s and my interest has been:
+
+- discovering the simultaneity of sound and meaning through writing texts. 
+Here sound and meaning are inextricable interwoven.
+- learning about the intersections of sound and meaning in the interplay with an instrument. Here the
+e-pont serves as a bridge between pure sound and voice, allowing shades of
+transparency and occlusion of one or the other.
+- finding out about the relation between words and music through text-scores and oral transmission.
+Here words serve as a medium to convert ideas that can not be described otherwise.
+
+'''
+
+Mein Interesse für Stimme zieht mich in das Gelände zwischen Musik und Sprache. Ein Gelände, das ich
+als Küstenlinie zwischen Wort und Musik verstehe, an der das Körnige der Sprache und das Fluide der
+Klänge zusammen treffen. Seit Ende der 80er Jahre bewege ich mich in diesem Gebiet, und mein
+Interesse gilt:
+
+- der Gleichzeitigkeit von Klang und Bedeutung beim Schreiben von Texten. Hier sind Klang und
+Bedeutung untrennbar miteinander verwoben.
+- den Schnittstellen von Klang und Bedeutung im Zusammenspiel mit einem Instrument. Hier
+dient der e-pont als Brücke zwischen reinem Klang und Stimme und ermöglicht Abstufungen von
+Transparenz.
+- der Relation von Wort und Musik in Textpartituren und mündlicher Überlieferungspraxis. Hier
+dienen Worte als Medium, um Ideen zu vermittelen, die sich anders nicht beschreiben lassen.
+
+== {nbsp}
+
+=== little luggage (2025)
+[%hardbreaks]
+_poem scores_
+text-publication with Verlag Klingental, Basel, an editor, that features works in the intersection between words and music.
+It can be read as a poem as well as a score. Individual translations / interpretations by various musicians are being developed over the next few years.
+
+[verse,Klappentext]
+____
+you may read me as a poem / you may read me as a score /
+to be spoken / sung / played / to be translated / to be
+overlayed / some or all / with or without an instrument /
+alone or with others / durations may vary between
+very short and very long
+
+tu peux me lire comme poème / tu peux me lire
+comme partition / à parler / à chanter / à jouer /
+à traduire / à superposer / partiellement ou en entier
+/ avec ou sans instrument / seul·e ou avec d’autres /
+les durées entre court et très long
+
+ich könnte ein gedicht sein / ich könnte eine partitur sein /
+zu sprechen / zu singen / zu spielen / zu übersetzen /
+zu überlagern / in teilen oder ganz / mit oder ohne
+instrument / allein oder mit anderen / kurz oder lang
+____
+
+
+
+
+=== colline sur livre (2022- )
+
+link:/../csl/index.html[_Colline sur livre_] is an ongoing work to observe and suss the intersections, overlays and dimensions between words and music on the
+basis of the growing text-corpus _colline sur livre_. 
+This process is facilitated by a lute and cableless mini-set of electronics, a device that I call e-pont, because it serves as a bridge between words and music.
+
+=== wippe (2024)
+text-publication with Verlag Klingental, Basel, an editor, that features works in the intersection between
+words and music.
+
+
+=== we need change she says (2024)
+[%hardbreaks]
+solo for voice, lute, e-ponts
+
+The Geneva Festival Archipel invited me to realize a piece, and I took this opportunity to further develop
+and present my solo work – based on my growing multilingual text corpus _colline sur livre_. +
+I wanted to
+deepen my exploration of the “longsong,” and a new generation set of e-ponts, developed by engineer
+Peter Vittali, was already in progress. +
+_we need change she says_ consists of two parts: the first spoken, the second sung. The journal-like gesture
+of two songs and one is maintained. However, while in _two songs and one_ spoken and sung passages
+alternate, in _we need change she says_ they are clearly separated, connected by a hummed passage which –
+in reference to the image of the coastline – can be heard as a “drift line” or tidal edge between word and
+music. Although the two parts are clearly distinct, I consider this piece to be a single song. +
+In both parts, including the drift line, the lute sounds are richer and more present than in my earlier works.
+I also oscillate between languages in relatively short intervals, which reveals the collage-like character of
+the text line. The multilingual nature of the text leads to a surface that shifts at times abruptly in sound,
+color, texture, and rhythm, where different layers of meaning and semantics emerge.
+
+''' 
+
+Auf eine Einladung des Genfer Festivals Archipel reagierte ich mit einer neuen Soloarbeit, basierend auf
+meinem wachsenden mehrsprachigen Textkorpus _colline sur livre_. Ich wollte meine Auseinandersetzung
+mit „longsongs“ vertiefen, und ein neuer Generationensatz von e-ponts, entwickelt vom Ingenieur Peter
+Vittali, war bereits in Arbeit. +
+_we need change she says_ besteht aus zwei Teilen: Der erste ist gesprochen, der zweite gesungen. Die
+tagebuchartige Geste von _two songs and one_ bleibt bestehen. Während sich in _two songs and one_ 
+gesprochene und gesungene Passagen abwechseln, sind sie in _we need change she says_ klar voneinander
+getrennt, verbunden durch eine gesummte Passage, die – in Anlehnung an das Bild der Küstenlinie – als
+„Driftlinie“ oder Spülsaum zwischen Wort und Musik gehört werden kann. Obwohl die beiden Teile
+deutlich unterscheidbar sind, betrachte ich dieses Stück als ein einziges Lied. +
+In beiden Teilen, einschließlich der Driftlinie, sind die Lautenklänge reicher und präsenter als in meinen
+früheren Arbeiten. Zudem oszilliere ich zwischen den Sprachen in relativ kurzen Intervallen, was den
+Collage-Charakter der Textspur hörbar macht. Die Mehrsprachigkeit des Textes führt zu einer sich
+mitunter abrupt verändernden Oberfläche aus Klang, Farbe, Textur und Rhythmus, in der verschiedene
+Bedeutungsebenen und semantische Schichten aufscheinen. +
+
+
+https://soundcloud.com/marianne-schuppe/we-need-change-she-says-excerpt?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&si=0b29b8f8ccc94b2a89649851dcd787d9[Excerpts from the performance April 14, 2024, Théâtre Pitoëff, Festival Archipel, Geneva]
+
+
+
+=== Aus dem Zeltbuch (2023)
+
+_Aus dem Zeltbuch_ was developed together with cellist Deborah Walker to be performed in a programme
+with Éliane Radigue’s OCCAM RIVER XXIV. While Radigue’s music focuses on developments and
+structures of partial tones, _Aus dem Zeltbuch_ centres on text and speaking voice. +
+The piece unfolds a surface of word–sound textures, continuing ideas from _wandern_ (1995).
+But instead of a tape, the voice enters into an interplay with a live cello – in low dynamics and on the
+edge of acoustic intelligibility. +
+_Aus dem Zeltbuch_ questions the perception of language in a musical context by creating bilingual spaces
+of sound. It is based on a text collage by Marianne Schuppe. +
+
+I am asking myself how subtle the meaning of words can become when acoustic intelligibility is absent or
+only partially given. My interest lies in the instability of understanding. The speaking voice traverses
+layers of instrumental sounds, being covered and uncovered, without ever entering a dynamically stable
+situation. +
+Several questions that have preoccupied me for some time resurface in _Aus dem Zeltbuch_:
+Which part, which level of language disappears when understanding is fragmentary? What arises when
+semantic comprehensibility vanishes ? 
+What is understanding, and how does it take place ? 
+What vanishes without vanishing ? +
+In my speaking I try to remain at the surface of language so as not to disturb the semantic spaces of the
+words.
+
+'''
+
+_Aus dem Zeltbuch_ wurde gemeinsam mit der Cellistin Deborah Walker entwickelt, um in einem
+Programm mit Éliane Radigues OCCAM RIVER XXIV aufgeführt zu werden. Während es in der Musik
+Radigues um Entwicklungen von Partialtonstrukturen geht, steht in _Aus dem Zeltbuch_ die Arbeit mit Text
+und Sprechstimme im Mittelpunkt. +
+Das Stück entfaltet eine Oberfläche aus Wort–Klang-Texturen und knüpft dabei an Erfahrungen aus
+_wandern_ (1995) an. Aber anstelle eines Zuspielbands tritt die Stimme hier in Dialog mit einem Live-Cello
+– in leiser Dynamik und am Rande akustischer Verständlichkeit. +
+_Aus dem Zeltbuch_ hinterfragt die Wahrnehmung von Sprache in einem musikalischen Kontext, indem es
+zweisprachige Klangräume schafft. Der Text basiert auf einer Collage von Marianne Schuppe. +
+
+Ich frage mich, wie subtil die Bedeutung von Worten wirken kann, wenn akustische Verständlichkeit fehlt
+oder nur teilweise gegeben ist. Mich interessiert die Instabilität des Verstehens. Die Sprechstimme bewegt
+sich durch Schichten instrumentaler Klänge, wird verdeckt und wieder freigelegt, ohne jemals in eine
+dynamisch stabile Situation zu gelangen. +
+Mehrere Fragen, die mich seit geraumer Zeit beschäftigen, tauchen in _Aus dem Zeltbuch_ wieder auf:
+Welcher Teil, welche Ebene der Sprache verschwindet, wenn das Verstehen fragmentarisch ist? Was
+entsteht, wenn semantische Verständlichkeit verschwindet ? 
+Was ist Verstehen, und wie findet es statt? 
+Was verschwindet, ohne wirklich zu verschwinden ? +
+In meinem Sprechen versuche ich an der Oberfläche der Sprache zu bleiben, um die Bedeutungsräume der
+Worte nicht zu stören. +
+
+https://soundcloud.com/marianne-schuppe/aus-dem-zeltbuch-extrait1[extract on soundcloud]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=== a day in july (2022)
+Marianne Schuppe, voice & text +
+Stefan Thut, cello, pipe, pencil and paper
+
+Developed and conducted with cellist and composer Stefan Thut +
+
+In _a day in July_, words and sounds alternate and overlap in certain dependencies. Decisions are made by
+listening to the decisions and sounds of the partner. One triggers the next in an act of translation. And that
+in turn triggers the next and so on. +
+The words could be seen as a collection from the particular place of each playing. As each realization of
+the piece takes place in a new place, the words also change. And so do the pitches and harmonies of the
+cello, because they relate to each other.
+
+What is left behind is a list of words and numbers, a score that will never be played again.
+The next time a day in July
+continues with the same plan in a yet unknown direction filtered through a new place and time. +
+
+
+a _day in july_ was first performed in Orgelpark Amsterdam in 2023 in the Wandelweiser Festival.
+It was recorded in October 2024 during a residency at GMEA, Albi in the Temple Protestante.
+
+'''
+
+In _a day in july_ folgen und überlagern sich Wörter und Klänge in bestimmten Abhängigkeiten.
+Entscheidungen werden in Konsequenz zu den Entscheidungen und Klängen des Mitspielers getroffen.
+Das eine löst das nächste in einem Akt der Übersetzung aus. Und das wiederum löst das nächste aus und
+so weiter. +
+Die Worte könnten als eine Sammlung des jeweiligen Spielorts gesehen werden. Jede Umsetzung des
+Stücks an einem neuen Ort führt zu neuen Worten. Das gilt auch für die Tonhöhen und Harmonien des
+Cellos, denn sie stehen in Beziehung zu den Wörtern.
+
+Was zurückbleibt, ist eine Liste von Wörtern und Zahlen, eine Partitur, die nie wieder gespielt wird.
+Beim nächstn Mal geht _a day in
+july_ mit demselben Plan in eine noch unbekannte, von Ort und Zeit gefärbte Richtung weiter.
+
+=== entrevoix I (2022-2024)
+
+Was developed for the duo with singer Stefanie Erni. +
+{nbsp} +
+Words are extremly salient as soon as they are there. One possibility to meet that dominance is to reduce
+the number of words and balance them with non-verbal sounds. +
+But are not all vocal utterings somehow linked to language ? +
+I am wondering how far we can go in
+dissolving, drowning words in their own sound. How about just thinking the words while articulating only
+the vowels they contain ? +
+_Entrevoix_ is a step in that direction. The superimposition of the two voices is an act of liquefaction, in
+which a range of vocal colours is unfolded that could be heard as a more abstract vocal sound. +
+_Entrevoix_ went through many stages of rehearsing, warping and adapting and has become a work in
+progress together with Stefanie Erni over more than 3 years. +
+In this process we rediscovered the music of Hildegard von Bingen as a point of reference and developed
+for some of her melodies an arrangement for 2 voices as a counterpart to entrevoix. +
+
+'''
+
+Worte ziehen die Aufmerksamkeit auf sich, sobald sie da sind. Eine Möglichkeit dieser Dominanz zu
+begegnen ist, die Antahl der Wörter zu reduzieren und sie mit nonverbalen Klängen in Schach zu halten.
+Aber sind nicht alle stimmlichen Äußerungen irgendwie Sprache ? +
+Ich frage mich, wie weit wir gehen können, wenn wir die Worte in ihrem eigenen Klang auflösen,
+ertrinken lassen. Wie wäre es, wenn wir die Wörter nur denken und dabei nur die Vokale artikulieren, die
+sie enthalten? +
+_Entrevoix_ ist ein Schritt in diese Richtung. Die Überlagerung der beiden Stimmen ist ein Akt der
+Verflüssigung, durch dem sich ein Spektrum von Stimmfarben entfaltet, das als abstrakterer Vokalklang
+gehört werden könnte. +
+_Entrevoix_ durchlief viele Stufen des Probens, Verwerfens und Anpassens und wurde gemeinsam mit
+Stefanie Erni über mehr als 3 Jahre hinweg zu einem work in progress. +
+In diesem Prozess haben wir die Musik Hildegard von Bingens als Orientierungspunkt wiederentdeckt
+und für einige ihrer Melodien eine zweistimmige Fassung als Counterpart zu entrevoix entwickelt.
+
+
+https://soundcloud.com/marianne-schuppe/entrevoix-2022-fragment/s-HEnXihoOfzW?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&si=78cd9ca7ad6f43a3a2487ae8dd4e8da4[Entrevoix (2022) chapelle st. claire excerpt]
+
+=== two songs and one (2020)
+
+solo for voice, lute, uber-bows +
+{nbsp} +
+During the Covid lockdown, Café Oto in London invited me to release a work on their digital label,
+Takuroku. +
+At that time, when the days were unusually unstructured by external factors, my sense of time changed
+noticeably. It's probably no coincidence that I responded to Café Oto’s invitation with two long, repetitive
+pieces. Both are based on the same bilingual text, written during that period. What is in English in the first
+piece is in German in the second – and vice versa. And in a kind of playful exuberance, I added – as a
+third piece – a short English folk song I had come across at the time. +
+Traditions of "longsongs" such as the Irish Sean-nós or the Mongolian Urtiin Duu have interested me
+since long time and expanded my understanding of song. The two songs deux and un from the Takuroku
+release are a step forward into such broader temporal spaces. It‘s the instrumentation, voice and lute, that
+leads me to call them songs. +
+Technically it‘s a very simple home recording without a single person besides myself in the room,
+incidental and journal-like. +
+
+'''
+
+Während des Covid-Lockdowns, als die Tage wenig von äußeren Faktoren strukturiert waren, veränderte
+sich mein Zeitempfinden deutlich. Es ist vermutlich kein Zufall, dass ich auf die Einladung von Café Oto
+mit zwei langen, repetitiven Stücken reagierte. Beide basieren auf demselben zweisprachigen Text, der in
+diesen Tagen entstanden ist. Was im ersten Stück auf Englisch ist, ist im zweiten auf Deutsch – und
+umgekehrt. Und in einer Art Übermut fügte ich – als drittes Stück – ein kurzes englisches Volkslied hinzu,
+auf das ich in damals gerade gestoßen war. +
+Traditionen von „longsongs“ wie das irische Sean-nós oder das mongolische Urtiin Duu interessieren
+mich seit vielen Jahren. Die beiden Stücke deux und un der Takuroku-Veröffentlichung sind ein Schritt in
+solche größeren Zeiträume. +
+Technisch ist es eine sehr einfache Heimaufnahme ohne einzige andere Person im Raum, beiläufig und
+journalartig.
+
+[%hardbreaks]
+https://www.cafeoto.co.uk/shop/marianne-schuppe-two-songs-and-one/[cafe oto, takuroku]
+https://soundcloud.com/cafeoto/tr024-marianne-schuppe-deux?in=cafeoto/sets/takuroku[cafe oto on soundcloud]
+https://soundcloud.com/marianne-schuppe/un-two-songs-of-one?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&si=1fa3e0b2a1a1492590f2c20d5bcff2d7[Marianne Schuppe on soundcloud]
+
+
+
+=== Salz, Lücke, Zelt (2019)
+[%hardbreaks]
+for 8 mixed voices
+was commissoned by the Basel based Ensemble Voce
+[%hardbreaks]
+23 words in german are given
+the piece consists of parts with and without words, where only consonants are given
+in advance each singer makes her/his own choice of a minimum of 7 words
+and translates them into her/his native language
+the score indicates in which parts words are being sung
+the choice of words is up to the singers
+
+_Salz, Lücke, Zelt_ takes up the movements of der blumen and goes further. Single-consonant-sounds open
+into multilingualism as singers choose their words from a list and translate them into their native
+languages. When the singers in the ensemble change, the text also changes.
+
+'''
+
+_Salz, Lücke, Zelt_ greift die Bewegungen von der blumen auf und geht weiter. Konsonatische Klänge
+münden in Mehrsprachigkeit, da die Sängerinnen und Sänger ihre Worte aus einer Liste wählen und diese
+in ihre Muttersprachen übersetzen. Wenn die Sängerinnen und Sänger im Ensemble wechseln, ändert sich
+auch der Text.
+
+
+https://soundcloud.com/marianne-schuppe/ausschnitt-aufbruch-amsoldingen-16619?si=6582cbf59de9400f93987fc0048e03c5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing[soundcloud]
+
+=== behind I-IV (2018/2020)
+for voice and two instruments
+
+=== slow songs - nosongs (2015/2018)
+
+solo voice with lute and e-ponts +
+
+_slowsongs_, released with edition wandelweiser in 2015 and _nosongs_, released 2018 in the same edition,
+mark a new place in my work. I was diving into the short form of song, reweighing the traditional
+ingredients of this genre. Perhaps below threshold I was connecting with my experience in interpreting the
+song cycles of Franz Schubert, other classical and modern repertoire and folksongs. But I wanted to go
+further. +
+Originally, all _slow_ - and _nosongs_, including the words were improvised. But I wanted to be able to repeat
+and revise them. So after their first go, once they had come to sound, they had to be written down and
+reconsidered. The texts I discovered improvising were completely different from the texts I had been
+writing, they seemed to have come from a different source, from a different layer. I learned that english
+words would jump on my tongue much easier than german ones. And that meaning came after sound.
+
+'''
+
+_slowsongs_, erschienen 2015 bei edition wandelweiser, und _nosongs_, erschienen 2018 im selben Verlag,
+markieren einen neuen Ort in meiner Arbeit. Ich tauchte in die kurze Form des Liedes. Unterschwellig gab
+es vielleicht eine Verbindung zu meiner Erfahrung in der Interpretation der Liederzyklen von Franz
+Schubert, anderem klassischen und modernen Liedrepertoire bis hin zu Volksliedern. Aber ich wollte
+weiter gehen. +
+Ursprünglich waren alle _slow_ - und _nosongs_ einschließlich der Texte improvisiert. Aber ich wollte sie
+wiederholen und überarbeiten können. Also mussten sie nach ihrem ersten Durchgang, aufgeschrieben und überdacht werden. 
+Die Texte, die ich beim
+Improvisieren entdeckte, unterschieden sich völlig von den Texten, die ich geschrieben hatte, sie schienen
+aus einer anderen Quelle, aus einer anderen Schicht zu stammen. Ich lernte, dass mir improvisierend
+englische Wörter viel leichter über die Lippen kamen als deutsche. Und dass die Bedeutung nach dem
+Klang kam.
+
+link:/recording/index.html#nosongs[nosongs] +
+https://www.wandelweiser.de/_e-w-records/_ewr-catalogue/ewr1802.html[edition wandelweiser (2018)] +
+link:/recording/index.html#slowsongs[slow songs] +
+http://www.wandelweiser.de/_e-w-records/_ewr-catalogue/ewr1509.html[edition wandelweiser (2016)]
+
+=== der blumen (2017)
+
+for any number of voices
+{nbsp} +
+I wrote der _blumen_ for my student ensemble. It could be considered an exercise in body resonance in
+three sections. But it was also motivated by my interest in the flexibility of the voice between non-words
+and words. And the fluid or rough transitions from one to the other.. +
+The piece has three parts in which the voices gradually move from humming with closed lips to a slight
+opening and into the articulation of a few words : O Mensch zart bedenck der blumen art. +
+A text I came across in the Notre Dame Museum in Strasbourg, an ‘epitaph with dandelions’ from the
+period 1470-1480. +
+Later the Buffalo based sottovoce ensemble performed der _blumen_ several times on their fall tour.
+Here they write about their process with the https://sottovocevocalcollective.com/2018/08/10/der-blumen-striving-to-become[piece].
+{nbsp} +
+
+'''
+
+Ich habe der _blumen_ für mein Schülerinnenensemble geschrieben. Es könnte als eine Übung zur
+Erfahrung von Körperresonanz in drei Abschnitten gelten. Aber ebenso ist es motiviert durch mein
+Interesse an der Flexibilität der Stimme zwischen Nicht-Worten und Worten und an den fliessenden oder
+rauen Übergängen dazwischen. +
+Das Stück besteht aus drei Teilen, in denen die Stimmen schrittweise vom Summen mit geschlossenen
+Lippen über eine leichte Öffnung bis zur Artikulation einiger Worte gehen, die sich zeitlich ungebunden
+überlagern : O Mensch zart bedenck der blumen art. Ein Text, auf den ich im Museum Notre Dame in
+Straßburg gestoßen bin, ein „Epitaph mit Löwenzahn“ aus dem Zeitraum 1470-1480. +
+Später wurde der _blumen_ vom Sottovoce Ensemble, Buffalo NY auf seiner Herbsttournee mehrmals
+aufgeführt. Hier berichten Sänger:innen des Ensembles über den Prozess mit dem https://sottovocevocalcollective.com/2018/08/10/der-blumen-striving-to-become/[Stück].
+
+=== notes from the hill (2015/2019)
+for voice and one instrument
+
+
+=== erde - denken (2015)
+
+Originally called _sapphosongs_ , a solo piece commissioned by Ute Stoecklin, Basel, for her concert series at Maison 44, Basel, with
+financial support from the Department of Culture of Baselland. +
+It was part of a performance series entitled _The New Sappho_ and required an engagement with texts by
+Sappho. +
+The historical weight of these poems, their emotional intensity, and their fragmentary transmission – in
+parts heavily damaged or largely lost – posed a real challenge for me. +
+And yet, the sparseness of some of the texts attracted me. I selected a small number of extremely short
+fragments from Sappho’s poetry and placed the words between passages of silence and sparse lute sounds. +
+
+'''
+
+wurde als Solostück von Ute Stoecklin, Basel, für ihre Konzertreihe in der Maison 44, Basel, in Auftrag
+gegeben – mit finanzieller Unterstützung der Abteilung Kulturelles Baselland. +
+
+Es war Teil einer Aufführungsreihe mit dem Titel _Die Neue Sappho_ und verlangte die Auseinandersetzung
+mit Texten von Sappho. +
+Das historische Gewicht dieser Gedichte, ihre emotionale Intensität und die fragmentarische
+Überlieferung – teils stark beschädigt oder weitgehend verloren – stellten für mich eine echte
+Herausforderung dar. +
+Die Knappheit einiger Texte hatte dennoch Anziehungskraft. Ich wählte eine kleine Anzahl extrem kurzer
+Fragmente aus Sapphos Dichtung und setzte die Worte zwischen stille Passagen und einzelne
+Lautenklänge. +
+
+
+=== Avers (2010)
+[%hardbreaks]
+voice, lute, uber-bows
+text : witch trial protocol from 1664
+
+_Avers_ was commissioned by Ina Boesch and Corinne Holtz for the opening of their concert series
+Hexperimente in the mountainvillage Avers, Graubünden, Switzerland. +
+The commission was based on the decipherement and translation of an ancient text, a protocol of one of
+the witch-processes, which took place in that valley in the 17th century. +
+I contrasted in my work to the strong and insistent expressions and descriptions of this text with a
+selection of short and inconspicuous words taken from the same source, and from just a few words I built
+a cycle of songs. Most helpful in my research was the book _Traumzeit_. Über die Grenze zwischen
+Wildnis und Zivilisation“ von Hans-Peter Duerr. +
+The complete ‘Early New High German’ text of the witch trial protocol was heard in the first part of the
+evening, read by the actor Wolfram Berger from Vienna. +
+
+'''
+
+_Avers_ wurde von Ina Boesch und Corinne Holtz für die Eröffnung ihrer Konzertreihe Hexperimente im
+Bergdorf Avers, Graubünden, Schweiz, in Auftrag gegeben. +
+Der Auftrag basierte auf der Entzifferung und Übersetzung eines historischen Textes, dem Verhörprotokoll eines
+der Hexenprozesse, die im 17. Jahrhundert in diesem Tal stattfanden. +
+Den starken und eindringlichen Ausdrücken und Schilderungen dieses Textes stellte ich in meiner Arbeit
+eine Auswahl kurzer und schwach wirkender Worte aus demselben Quellentext gegenüber und baute
+daraus einen Lieder - Zyklus. Hilfreich bei meinen Recherchen war das Buch Traumzeit. Über die Grenze
+zwischen Wildnis und Zivilisation von Hans-Peter Duerr. +
+Der vollständige „frühneuhochdeutsche“ Text aus den Hexenprozessakten war im ersten Teil des Abends
+zu hören, gelesen vom Schauspieler Wolfram Berger aus Wien. +
+
+
+[%hardbreaks]
+link:/recording/index.html#hexperiment[recording]
+https://www.hexperimente.ch/hexperiment-1[hexperimente]
+icon:file[link=../int_essay/pdf/Wildnis.pdf] Interview
+
+=== Kärpf (2010)
+[%hardbreaks]
+Marianne Schuppe, voice
+Hans Tamen, electric guitar
+Georg Wolf, doublebass
+Michael Vorfeld, percussion
+https://handaxe.bandcamp.com/album/k-rpf[bandcamp]
+https://soundcloud.com/marianne-schuppe/endgultig?si=e49467756e664df18e38637f243b3f84&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing[soundcloud]
+
+
+
+=== tidstrand (2009)
+[%hardbreaks]
+for voice and instruments
+
+is my first composition for voice and ensemble, encouraged by Jürg Frey and premierred in his concert
+series moments musicaux in Aarau. +
+The voice has a spoken part with single sentences and a refrain consisting of two notes, sung to the
+word _tidstrand_ - the name of a woolen blanket from Sweden. +
+The instruments lay an irregular grid of single notes over the voice, through which the sung passages, but
+not the spoken ones, easily imbue.
+
+'''
+
+_tidstrand_ ist meine erste Komposition für Gesang und Ensemble, die von Jürg Frey angeregt und in seiner
+Konzertreihe moments musicaux in Aarau uraufgeführt wurde. +
+Die Stimme hat einen gesprochenen Part mit einzelnen Sätzen und einen Refrain, bestehend
+aus zwei Noten, der auf das Wort _tidstrand_ gesungen wird - den Namen einer Wolldecke aus Schweden. +
+Die Instrumente legen mit einzelnen Tönen ein durchlässiges Raster über die Stimme, durch welches die
+gesungenen, aber nicht die gesprochenen Passagen, leicht hindurchdringen.
+
+
+=== Hochlandübersetzungen (2007/2008)
+[%hardbreaks]
+Sarah Giger, flute travers
+Marianne Schuppe, voice
+Hans-Jürg Meier, composition
+
+In 2006, the traverso flutist Sarah Giger approached me about a project with composer Hans-Jürg Meier (1964–2015) and herself. As a starting point, she had discovered the collection _Airs_ et _Brunettes_ by Jacques Hotteterre (1674–1763). These melodies for traverso flute were provided with texts by Hotteterre, not to be sung, but as a guide for precise articulation of the flute tone. In addition, each basic melody was accompanied by a double – an ornamented version of the original. +
+
+Together, we developed the project _Hochland Übersetzungen_ ("Highland Translations"). I wrote loosely associated reinterpretations in german of the texts in ancient french, which functioned as spoken intermezzi between the sung and played melodies, or were even retranslated into modern French by me and newly set to music by Hans-Jürg Meier. Furthermore, we layered the basic melody (sung) with the composed double (played on traverso) in a duo version – a technique that created interference patterns and dissonances. +
+
+Later, we expanded the program and the ensemble to include percussionist Balts Nill and a solo piece that Sarah Giger composed for herself. +
+
+'''
+
+Im Jahr 2006 trat die Traversflötistin Sarah Giger mit der Idee eines Projekts an mich heran, das sie gemeinsam mit dem Komponisten Hans-Jürg Meier (1964–2015) und mir realisieren wollte. Als Ausgangspunkt hatte sie die Sammlung _Airs_ et _Brunettes_ von Jacques Hotteterre (1674–1763) entdeckt. Diese Melodien für Traversflöte waren von Hotteterre mit Texten versehen worden – jedoch nicht zum Singen, sondern als Anleitung zur präzisen Artikulation des Flötentons. Zudem war jeder Grundmelodie eine sogenanntes Double beigefügt – eine verzierte Version der Originalmelodie. +
+
+Gemeinsam entwickelten wir das Projekt _Hochland Übersetzungen_. Ich schrieb frei assoziierte Nachdichtungen in deutscher Sprache zu den altfranzösischen Texten, die als gesprochene Intermezzi zwischen den gesungenen und gespielten Melodien fungierten, oder von mir ins moderne Französisch rückübersetzt und von Hans-Jürg Meier neu vertont wurden. Darüber hinaus überlagerten wir die Grundmelodie (Gesang) mit der komponierten Double (Traversflöte) in einer Duoversion, eine Technik, die Schwebungen und Dissonanzen erzeugte. +
+
+Später erweiterten wir das Programm und die Besetzung um den Perkussionisten Balts Nill sowie um ein Solostück, das Sarah Giger für sich selbst komponierte. +
+
+
+icon:file[link=pdf/arbeitsweise.pdf] Programmnotiz zu _Hochland- Übersetzungen_, Hans-Jürg Meier, Sarah Giger, Balts Nill, Marianne Schuppe.
+
+=== temps (1999)
+[%hardbreaks]
+for 8 voices
+was commissioned by Schweizer Tonkünstlerverein for their annual festival.
+
+"Temps" is the same word in French as for "time." +
+The piece was performed by eight speakers, each seated at a small table with their own lamp. Texts from
+weather diaries—from different parts of the world, in various languages, and from different time periods
+—overlapped and interwove. The sources included excerpts from Gerard Manley Hopkins, Virginia
+Woolf, Gertrude Stein, Ulrich Bräker, Captain George E. Tyson, S. A. Andrée, Jean Chacot, Johann Feuz,
+and Ernst. +
+The speakers formed a heterogeneous group of voices, with a wide range of age, accent, timbre, and
+tessitura, most of them without formal voice or speech training. +
+I was interested in how these different voices would intertwine with only a few basic instructions on when
+and how to read, and how their very specific qualities would blend and complement one another. From the
+individual rhythms and speech melodies, extended vocal fields emerged in combinations of two, three,
+and up to eight voices, with textures in many shades. +
+The score was a schedule according to which passages from the respective books were read in changing
+constellations, including solos and canons. Each speaker had spent several weeks engaging with their
+book prior to the performance. +
+
+'''
+
+_Temps_ wurde vom Schweizer Tonkünstlerverein für dessen jährliches Festival in Auftrag gegeben. +
+"Temps" ist auf Französisch dasselbe Wort wie für „Zeit“. +
+Aufgeführt wurde das Stück von acht Sprecher:innen, jede:r saß an einem kleinen Tisch mit einer eigenen
+Lampe. Texte aus Wettertagebüchern - aus verschiedenen Teilen der Welt, in unterschiedlichen Sprachen
+und aus unterschiedlichen Epochen - überlagerten und durchdrangen einander. Die Quellen umfassten
+Textauszüge von Gerard Manley Hopkins, Virginia Woolf, Gertrude Stein, Ulrich Bräker, Captain George
+E. Tyson, S. A. Andrée, Jean Chacot, Johann Feuz und Ernst. +
+Die Sprecher:innen bildeten eine heterogene Gruppe von Stimmen mit großer Bandbreite in Alter, Akzent,
+Timbre und Tessitur, die meisten ohne Stimm- oder Sprechausbildung. +
+Mich interessierte, wie sich diese unterschiedlichen Stimmen mit nur wenigen grundlegenden
+Anweisungen zum Wann und Wie des Lesens miteinander verweben und wie sich ihre sehr spezifischen
+Qualitäten vermischen und ergänzen würden. Aus den individuellen Rhythmen und Sprachmelodien
+entstanden in Kombinationen von zwei, drei und bis zu acht Stimmen ausgedehnte Sprachfelder mit
+Texturen in vielen Schattierungen. +
+Die Partitur war ein Zeitplan, nach dem Passagen aus den jeweiligen Büchern in wechselnden
+Konstellationen gelesen wurden, einschließlich Soli und Kanons. Jede:r Sprecher:in hatte sich mehrere
+Wochen lang vor der Aufführung mit ihrem/seinem Buch befasst. +
+
+
+=== selbdritt - von hier (1996)
+[%hardbreaks]
+Marianne Schuppe, voice
+Sywya Zytynska, vibraphone
+Alfred Zimmerlin, violoncello
+
+this is free improvised music. +
+There was no plan each time we began to play. +
+Where does free improvisation begin ? Where does composition begin ? +
+{nbsp} +
+Each of us has an individual reservoir of sounds, techniques and ideas, that is fed by years of discoveries
+and preferences. It becomes relevant when we play together. Free improvised music arises from a state of
+concentrated listening in the interplay of individual statements and responses. +
+In trio _selbdritt_, I decided to work with a book. A notebook with a collection of glued-in snippets and
+handwritten passages. Compiled and set up just for _selbdritt_. When I started filling this book, it was with
+excerpts from Natalie Sarraute's book “ici”. But with the time this textcorpus grew beyond Natalie
+Sarraute's ici as I added words and sentences of my own. In the end the book became a springboard, and
+after a while it could happen that I no longer opened the book at all. +
+Working with a book in rehearsals and on stage was quite a different situation from other improvised
+music contexts. The book was in my hand, an object outside myself, which the voice never is. Pages could
+be turned as in reading music from scores, though this book was not a score. But it contained the option of
+a score. To open or close the book was already a compositional decision. And it had a theatrical
+dimension, something I had never intended when I decided for the book. It is strongly from this extensive
+experience with _selbdritt_ that I learned about composition entering improvisation or the other way around.
+
+'''
+
+Dies ist frei improvisierte Musik. +
+Wenn wir zu spielen begannen, gab es keinen Plan. +
+Wo beginnt die freie Improvisation? Wo beginnt Komposition ? +
+{nbsp} +
+Jeder von uns hat ein individuelles Reservoir an Klängen, Techniken und Ideen, das sich über Jahre
+hinweg aus Entdeckungen und Vorlieben speist. Im gemeinsamen Spiel wird es relevant. Frei
+improvisierte Musik entsteht aus einem Zustand des konzentrierten Zuhörens im Zusammenspiel
+individueller Aussagen und Entgegnungen. +
+Im Trio _selbdritt_ entschied ich mich, mit einem Buch zu arbeiten. Einem Notizbuch mit einer Sammlung
+von eingeklebten Schnipseln und handgeschriebenen Passagen. Zusammengestellt und eingerichtet nur
+für _selbdritt_. Als ich begann, dieses Buch zu füllen, war es mit Ausschnitten aus Natalie Sarrautes Buch
+„ici“. Aber mit der Zeit wuchs dieser Textkorpus über Natalie Sarrautes ici hinaus. Ich fügte eigene
+Wörter und Sätze hinzu. Sie dienten als Sprungbrett, und nach einer Weile kam es vor, dass ich das Buch
+gar nicht mehr öffnete. +
+Die Arbeit mit einem Buch in Proben und auf der Bühne war eine ganz andere Situation als in anderen
+improvisierten Musikkonttexten. Das Buch lag in meiner Hand, war ein Objekt außerhalb meiner selbst,
+was bei der Stimme niemals der Fall ist. Die Seiten konnten wie beim Lesen einer Partitur gewendet
+werden, obwohl dieses Buch keine Partitur war. Aber es barg die Option einer Partitur. Das Öffnen oder
+Schließen des Buches war bereits eine kompositorische Entscheidung. Und es hatte eine theatralische
+Dimension, die ich nie beabsichtigt hatte, als ich mich für das Buch entschied. Aus dieser langjährigen
+Erfahrung mit _selbdritt_ habe ich viel darüber gelernt, wie Komposition in die Improvisation einfließt oder
+umgekehrt. +
+
+https://soundcloud.com/marianne-schuppe/erixmatt?si=20a3190356ad415584c4a65d40ded4e3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing[soundcloud] +
+https://soundcloud.com/marianne-schuppe/ici-trio-selbdritt-2003?si=538213501f9b41faa27f3713608554df&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing[soundcloud] +
+
+link:/recording/index.html#selbdritt[recording] 
+
+
+
+=== wandern (1995)
+[%hardbreaks]
+for voice and tape
+Marianne Schuppe, voice and text
+Willy Daum, tape
+
+_Wandern_ was commissioned by the Festival Auau in Oberwil BL, which took place in a brick factory
+near Basel. +
+On my first visit, I discovered a long conveyor belt there, producing an ever-changing continuum of
+sounds with a great variety of rhythmic and melodic patterns. +
+As I walked slowly along the belt, I recorded this stream of sounds and asked the composer Willy Daum
+to create a playback tape from the material for a live performance with my speaking voice. +
+The performance took place outdoors on the extensive factory grounds. I was positioned far from the
+audience, seen only as a small silhouette from behind. My voice, however—amplified and transmitted
+through loudspeakers on the official stage—sounded close and immediate. +
+
+_Wandern_ is the first piece in which a nearly monochrome texture evolves through words - in a long text
+band encircling the act of walking and thinking. +
+
+'''
+
+_Wandern_ wurde vom Festival Auau in Oberwil BL in Auftrag gegeben, das in einer nahe Basel gelegenen
+Ziegelei stattfand. +
+Bei meinem ersten Besuch entdeckte ich dort ein langes Förderband, das ein changierendes Kontinuum
+von Klängen erzeugte – mit einer Vielfalt rhythmischer und melodischer Muster. +
+Während ich langsam am Förderband entlangging, nahm ich diesen Klangstrom auf und beauftragte den
+Komponisten Willy Daum, daraus ein Zuspielband für eine Live-Performance mit meiner Sprechstimme
+zu erstellen. +
+Die Aufführung von wandern fand im Freien auf dem weitläufigen Gelände der Fabrik statt. Ich befand
+mich weit entfernt vom Publikum und war nur als kleine Silhouette von hinten zu sehen. Meine Stimme
+aber – verstärkt und über Lautsprecher auf der offiziellen Bühne übertragen – erklang nah und direkt.
+
+_Wandern_ ist meine erste Arbeit, in der aus Sprache eine nahezu monochrome Textur entsteht – in einem
+langen Textband, das den Akt des Gehens und Denkens umkreist.
+
+[%hardbreaks]
+https://soundcloud.com/marianne-schuppe/wandern-extract?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&si=caca69ee8e644bc0b35e4f3196de493a[soundcloud]
+link:/recording/index.html#wandern[wandern CD]
+
+
+
+
+
+=== mundraub (1994)
+[%hardbreaks]
+Marianne Schuppe, voice
+Christoph Schiller, piano
+
+
+=== das imzu plaudern (1993)
+[%hardbreaks]
+for voice and tape
+
+a solo for two voices: one singing, live, and one speaking, on tape, performed by myself. +
+I had had a spell of writing short experimental texts. In parallel with my writing, I was looking for a way
+to give direction to my vocal improvisations. This led me to a simple concept that connected both
+activities: an overlay of my speaking and singing voice in a live performance, in which I improvised along
+with the taped track. There were some long silences on the tape, allowing my two voices to act both
+simultaneously and at different times. +
+
+'''
+
+ein Solo für zwei Stimmen: eine singende, live, und eine sprechende, ab Zuspielband, aufgeführt von mir
+selbst. +
+Ich hatte viele kurze experimentelle Texte geschrieben. Parallel zu meinem Schreiben suchte ich nach
+einer Möglichkeit, meinen Gesangsimprovisationen eine Richtung zu geben. Das führte mich zu einem
+einfachen Konzept, das beide Aktivitäten miteinander verband: eine Überlagerung meiner sprechenden
+und singenden Stimme in einer Live-Performance, in der ich zur Tonbandspur improvisierte. Auf dem
+Tonband gab es einige lange Pausen, so daß meine beiden Stimmen sowohl gleichzeitig als auch zeitlich
+getrennt agieren konnten. +

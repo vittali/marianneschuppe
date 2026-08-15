@@ -1,0 +1,93 @@
+= collective and interdisciplinary works
+:imagesdir: ./images
+:icons: font
+:toc: left
+:toc-title:
+:nofooter:
+:sectnums!:
+:figure-caption!:
+:docinfo: shared
+:linkcss:
+:copycss!:
+:stylesheet: theme.css
+:stylesdir: /current-theme
+
+link:/../index.html[icon:home[]] | link:/works/index.html[works]
+
+.Aus dem Zeltbuch (2023)
+[%hardbreaks]
+Marianne Schuppe, voice, text, composition Deborah Walker, cello, composition,
+_Aus dem Zeltbuch_ (2022/23) unfolds a surface of word-sound-textures on the edge of acoustic intelligibility.
+
+
+
+
+.a day in july (2022)
+[%hardbreaks]
+Marianne Schuppe, voice, text
+Stefan Thut, cello, pipe, pencil, paper
+
+.Die Glocke (2022)
+[%hardbreaks]
+für Lesende, Zuhörende, Spielende
+Komposition: Lukas Huber und Marianne Schuppe
+Konzept: Vincent Hofmann und Simon Kindle
+Kloster Dornach
+
+.still light (2020)
+[%hardbreaks]
+Emmanuelle Waeckerlé & Marianne Schuppe, composition and voices
+Klangraum Düsseldorf
+texts: Emmanuelle Waeckerlé und Marianne Schuppe
+https://soundcloud.com/emmanuelle-waeckerle/still-light-5[on soundcloud]
+_a practise of difference after Luce Irigaray's book "to be two"_
+
+.Laub (2014)
+[%hardbreaks]
+for two voices
+text: Marianne Schuppe
+developed in and for the duo with Regula Konrad, soprano
+
+[%hardbreaks]
+.asunder (2013/2014)
+for vocal-ensemble, live-music with the film The Fall of the House Usher, Theatergarage Basel and Filmpodium Zürich
+{nbsp}
+image:7782.jpg[width=50%,link=images/7782.jpg]
+{nbsp}
+{nbsp}
+
+.das Haus der Erinnerung (2010)
+[%hardbreaks]
+a project with students of Gymnasium Oberwil and Musikschule Basel in cooperation Sylwia Zytynska and Fritz Hauser, Gare des enfants/Gare du Nord Basel.
+text: made up by the students recalling and describing their routes to school and their childrens' bedrooms.
+
+.Die Tarnung (1998)
+[%hardbreaks]
+for two voices
+text: Dorothea Schürch
+developed with and for duo with Dorothea Schürch
+commissioned by Schweizer Tonkünstlerverein and performed on the high rack in the sportsground in Festival neue Musik Rümlingen
+
+.wandern (1995)
+[%hardbreaks]
+Invention for Sampling and Speaking Voice
+text and recording: Marianne Schuppe, sampling and mastering : Willy Daum
+open air performance and commission by Festival Auau Ziegelei Oberwil
+_kleines Kreisen mittleres Kreisen großes Kreisen_
+_ins inländisch Ausländische hinein_
+_ins ausländisch Inländische hinaus_
+
+.Winterreise (1994)
+
+[%hardbreaks]
+a performative approach to Franz Schubert's Winterreise with Dorothea Schürch, Walter Stefan Riedweg and Christoph Schiller, Roxy Birsfelden
+Mediathek FHNW
+_vom Herbeiführen des Affekts zur geeigneten Zeit_
+
+.Es ist bloß die Schnur, die den Blumenstrauss umgibt (1992)
+[%hardbreaks]
+chamberopera with Dorothea Schürch (voice), Thomas Eiffler (video), Christoph Schiller (piano)
+Werkraum Schlotterbeck
+Mediathek FHNW
+
+link:/../index.html[icon:home[]] | link:/works/index.html[works]

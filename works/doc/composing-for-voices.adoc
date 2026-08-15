@@ -1,0 +1,92 @@
+= composing for voices
+:imagesdir: ./images
+:icons: font
+:toc: left
+:toc-title:
+:nofooter:
+:sectnums!:
+:figure-caption!:
+:docinfo: shared
+:linkcss:
+:copycss!:
+:stylesheet: theme.css
+:stylesdir: /current-theme
+
+link:/../index.html[icon:home[]] | link:/works/index.html[works]
+
+.entrevoix
+[%hardbreaks]
+for two voices
+With textfragments from _les chauses_  https://cdla.info/2022/10/27/marianne-schuppe-2/[cdla walking in air]
+https://soundcloud.com/marianne-schuppe/entrevoix-2022-fragment?si=3312bd1a0c1e49ed9f2801fca83d8398&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing[entrevoix]
+
+
+[[summe]]
+.die Summe 1 (2019), die Summe 2 (2021)
+[%hardbreaks]
+https://soundcloud.com/marianne-schuppe/summe[for choirs and more voices], icon:file[link=pdf/summe.pdf]
+commissioned by Basel Festival ZeitRäume
+_a fluid sculpture through the city of Basel formed by smaller and bigger groups of humming voices over a period of ten days_
+icon:file[link=pdf/IZ-ton.pdf] _Der Ton, die andern und ich_ von Isabel Zürcher.
+{nbsp}
+image:summe.jpg[width=50%,link=images/summe.jpg]
+{nbsp}
+{nbsp}
+
+
+.Salz, Lücke, Zelt (2018/2019)
+[%hardbreaks]
+for 8 voices
+text: 23 words from the Bible, translated by every singer in her mothertongue,
+commissioned by Basel based ensemble Voce for a programme reflecting Whitsuntide.
+photo: Yannick Badier
+{nbsp}
+image:voce.jpg[width=50%,link=images/voce.jpg]
+{nbsp}
+{nbsp}
+
+.Aufbruch nach prrr (2018)
+[%hardbreaks]
+for 10 voices and two saxophones
+_an imaginary journey with music-students of Gymnasium Oberwil reading, singing and dwelling through their favorite books._
+{nbsp}
+image:8806.jpg[width=50%,link=images/8806.jpg]
+{nbsp}
+{nbsp}
+
+.streifen (2018)
+[%hardbreaks]
+for 2-4 voices
+
+.der blumen (2017)
+[%hardbreaks]
+for any number of voices
+text: epitaph found on a gravestone in the Strassbourg convent (c.1470-1480).
+_o mensch zart_
+_bedenck der blumen art_
+https://sottovocevocalcollective.com/2018/08/10/der-blumen-striving-to-become/[Sotto Voce Vocal Collective]
+https://soundcloud.com/marianne-schuppe[listen on soundcloud]
+https://youtu.be/j8DA6RD_vAA[Youtube]
+
+.ortlos über die Küste hinaus (2016)
+[%hardbreaks]
+for voices
+
+
+.temps (1998)
+[%hardbreaks]
+for 8 different-rooted voices
+text: weather diaries and logbook-notes from 5 centuries in different languages
+commissioned by Schweizer Tonkünstlerverein
+
+.Fahrzeug (1996)
+[%hardbreaks]
+eighthour composition for 14 voices
+commissioned and performed from 10pm until 6am at Festival Performance Index Basel
+_a sound-line through the night sustained in changing quartetts under a light bulb_
+
+.Gefälle (1995)
+[%hardbreaks]
+for 12 reading voices in different languages, Sudhaus, Werkraum Warteck Basel.
+
+link:/../index.html[icon:home[]] | link:/works/index.html[works]

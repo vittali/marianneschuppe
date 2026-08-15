@@ -1,0 +1,256 @@
+= Reviews
+:includedir: _includes
+:imagesdir: ./images
+:icons: font
+:toc: left
+:toc-title:
+:nofooter:
+:sectnums:
+:figure-caption!:
+:sectnums!:
+:docinfo: shared
+:linkcss:
+:copycss!:
+:stylesheet: theme.css
+:stylesdir: /current-theme
+
+link:/../index.html[icon:home[]] 
+
+
+== nosongs
+
+.The Wire, Tabitha Piseno September 2018 (Issue 415)
+Basel resident Marianne Schuppe has on past occasions applied her finely controlled yet warmly communicative voice to interpretation of music by Feldman and Scelsi. The 11 tracks on Nosongs are restrained without being austere, somewhat repetitions in terms of melody and cadence, yet sufficiently varied overall. Lapping against her voice, swelling and fading among the words are sonorous arcs that radiate briefly from an electronically bowed lute. Like abstract shapes in a figurative painting, they are integral to the composition and cast mysterious shadows around Schuppe's already enicmatic verbal articulations. Her combination of accuracy and elusiveness, intimacy and distance may also bring to mind Samuel Beckett's most radically reductionist  prose works, pure constructions infiltrated by the impure world of given things.
+
+{nbsp} +
+
+.www.allaboutjazz.com,John Eyles January 26, 2019
+icon:link[link="https://www.allaboutjazz.com/nosongs-marianne-schuppe-edition-wandelweiser-review-by-john-eyles.php"] German-born, but based in the Swiss city of Basle, Marianne Schuppe is a musician with a relatively small discography but an impressively broad musical history. She has been associated with the Wandelweiser collective for some years, and Nosongs is her second release on the label, following in the footsteps of Slow Songs (Edition Wandelweiser, 2015). On both albums she performs alone, accompanying her voice with a lute played using e-bows or (the similar) uber-bows, which produces sustained tones that could be mistaken for synthesised sine waves. On each album, the stripped-back soundscapes give the music a stark purity which focusses attention where it most deserves to be—on Schuppe's songs and voice.
+Schuppe has a trained voice that, in the past, has been featured on albums of songs by Giacinto Scelsi and by Morton Feldman. Crucially, her voice does not display any of the stylised pronunciation of classically-trained singers (rolled r's and so forth) which can be a barrier to some listeners' appreciation of them; instead, Schuppe's voice has another kind of purity, that associated with folk or church singing. As a voice, it is an ideal instrument for conveying a wide range of emotions and the subtle nuances of meaning. Highly distinctive, once heard it will never be forgotten.
+Despite the album title, the eleven tracks on Nosongs definitely deserve to be called songs, not least because they are sung by that voice. As on Slow Songs, the songs are comparatively short, with the longest of the eleven, "Calling," falling a bit under seven minutes and the shortest, "In," nudging two minutes. the eleven together total thirty-six minutes. Without conventional verses or choruses, the songs often recall plainsong. Sung in English, their lyrics are laden with portentous phrases ideally suited to Schuppe's voice and delivery which—aided by melodies that are varied and strong—imbues them with drama and intrigue. Given Schuppe's hint of an accent and use of drones, if these songs were to be used in blindfold listening tests, it could only be a matter of time until some unsuspecting victim asked, "Is that Nico ?" Aside from that, Schuppe is distinctively herself, without rival.
+Not only are both Schuppe's Wandelweiser recordings unreservedly recommended, so too is any opportunity to see her sing these songs live in concert. She delivers.
+
+{nbsp} +
+
+.Misfit City, January 2019
+icon:link[link="https://misfitcity.org/?s=marianne+schuppe&submit=Search"] I’ve got to admit, I like a complicated song. ... +
+... Encountering the kind of song which works at the other extreme, though, can be a real head-turner… and if it’s done right, it takes my breath away. The Swiss singer-composer Marianne Schuppe has been making a name for herself with this kind of song, this kind of singing, for about two decades now. It’s not the only thing she does (she’s a member of the Wandelweiser group of avant-garde composers, contributing instrumental and noise work, and she improvises with a variety of other musicians including Alfred Zimmerlin), but this particular aspect of her work stands out in its uncluttered boldness, its Zenlike simplicity and focus on only the necessary elements. ...
+
+{nbsp} +
+
+[[Meyer]]
+.SRF 2 Kultur Kulturtipp 17/2018,Thomas Meyer 02.08.2018
+Diese Musik klingt so, als hätte sie gesagt: Gib mir ein paar Worte zum Singen, ein paar Töne zum Drunterlegen und die Ruhe, diese Worte und Töne in die Zeit zu ­legen. Wunderbar gelassen ziehen so die «nosongs» der Basler Vokalistin Marianne Schuppe vorbei. In dieser Eigen­heit und dem Mut zur ungebrochenen Intimität sind sie einzigartig: erfunden aus dem Moment, poetisch, ­voller Stille, schlicht wie ein Volkslied, berührend.
+
+{nbsp} +
+
+.FLUID RADIO, Nathan Thomas 2018/07
+icon:link[link="http://www.fluid-radio.co.uk/2018/07/marianne-schuppe-nosongs/"] Good news: another album of music by Marianne Schuppe has arrived! The Basel-based singer and composer’s previous collection “slow songs” remains a favourite of mine three years after its release, and the title of her new record, “nosongs”, suggests an even more reduced approach to the song form. Will she be able to uncover even greater riches in the spaces between silence, voice, and uber-bowed lute, or will it prove to be a case of a reduction too far? In what ways can ‘slow songs’ become ‘nosongs’, anyway? Is a ‘nosong’ the same thing as no song?
+For me, one of the tendencies of “slow songs” that finds even fuller expression on the new album is the radical deconstruction or reconfiguration of melody. It is easy to think of melody as a continuous thread, a teleological drive from point A to point B that can easily be traced and recalled in the mind of the listener. Such threads are hard to discern in “slow songs”, and the task is even harder in its follow-up, like trying to track footprints when snowfall and snowdrift have partially obscured them. Rather than running from point to point, Schuppe’s melodies often seem to circle; this is not just a matter of repetition (though this does occur); rather, there is a succession of shapes that seem similar and related, without being identical, in the manner of the crests of a mountain range. The frequent returns to silence underscore this deconstruction; melodic phrases are discontinuous in time, but grouped together in a silent landscape by virtue of a formal kinship. This approach to melody decentres and destabilises the singer: that figure who is so often front and centre of the picture, a reliable guide along a continuous melodic path, now appears only in fleeting glimpses and partial views.
+Schuppe’s biography describes her as being interested in the voice’s ability to move between pure sound and words, and this interest is very much evident in “nosongs”. Diction, duration, timbre, and mouth shape are all variables she plays with. Often, every vowel and consonant is clearly and precisely articulated, sometimes even to the detriment of the intelligibility of the word; at other times, a word or vowel sound dissolves into an illiterate hum, melding with the soft, resonating uber-bowed lute. The lyrics, as far as I can discern them, seem as deconstructed as the melodies that carry them: images flash with dazzling clarity, but linking them together into sentences, ideas, or narratives is fraught with uncertainty. Six fingers, tiny raccoons, snow, sidewalks, forgetfulness, arrest: sequences found in the landscape of some other game.
+Given such a radical re-weighing of all the traditional ingredients of a song, what allows these ‘nosongs’ to still be called songs? Perhaps it is the presence of Schuppe herself, which, refracted and sometimes elusive as it is, remains tangible, in the silences as much as the sounds. “nosongs” takes the ideas and qualities of Schuppe’s previous work and distils and refines them into an even more potent brew. These most tenuous of songs are also song at its most compelling.
+
+== slow songs
+
+.swissmusic.ch, Thomas Meyer January 2018
+A melody! +
+But Saturday evening offered two highpoints. First, there was the poignant, intimate, tautly structured performance of the singer Marianne Schuppe from Basel: she sang "Slow Songs" and "No Songs", alone, supported by just a few soft, extended sounds. These were real songs, at times even modal and reminiscent of mediaeval or Irish music, but emerging out of the moment. Something startling bubbled up here out of the dark that we’d all but forgotten about: you can also improvise a melody that’s very simple and lovely, even melancholic.
+
+{nbsp} +
+
+.swissmusic.ch, Thomas Meyer Januar 2018
+Eine Melodie! +
+Zwei Höhepunkte hingegen am Samstagabend. Zum einen der berührende, intime und in der Zeit gespannte Auftritt der in Basel lebenden Sängerin Marianne Schuppe: Slow Songs und No Songs, allein, gestützt nur von ein paar leisen liegenden Klängen: Tatsächlich Songs, momenteweise modal, an mittelalterliche oder an irische Lieder anklingend, aus dem Moment herauswachsend. Auf verblüffende Weise tauchte etwas Vergessenes aus dem Dunkel auf: dass man auch eine ganz schlichte, schöne oder melancholische Melodie improvisieren kann.
+
+{nbsp} +
+
+.5against4, Simon Cummings Nov 29 2016
+icon:link[link=http://5against4.com/tag/marianne-schuppe/"]Twenty-four hours after Aaron Cassidy’s attempt at recreating the Battle of Jericho, St Paul’s Hall was today filled with its polar opposite: Marianne Schuppe performing her 40-minute cycle slow songs. Her approach in each of the eleven songs is to focus almost entirely on a simple, idiosyncratic melodic line, the vehicle for Schuppe’s equally quirky texts, usually in conjunction with one or more pure, floating pitches that permeate and punctuate the melodies. If one didn’t know better, these pitches would appear to be coming from a sine tone generator but are in fact created using a lute and two of what Schuppe calls ‘uber-bows’, large sturdy makeshift versions of ebows positioned over the lute’s strings and controlled with voltmeters. To look at, it’s all very crude (Schuppe told me that it’s a ‘prototype’) but what it produces is clear and pristine, the perfect complement to her unwavering voice. It’s not insignificant that she has chosen to produce these pitches via a lute, as slow songs essentially has its roots in folk music; one could think of it as an austere, stripped down version of the rich folk luxury of Fovea Hex (and, as i mentioned when reviewing the CD of this piece, Schuppe’s voice bears a striking resemblance to Clodagh Simonds‘).
+The uber-bowed pitches established drones that made each song feel fundamentally rooted, enabling its melody to meander within a modest range of freedom, in a similar way to that of liturgical chant. The solemnity this engendered, coupled with the quietness of Schuppe’s voice, led to a distinctly heightened atmosphere within St Paul’s Hall, as though the air were electrically charged and the daylight slightly darkened. In some of the songs, particularly in ‘Needles’ and ‘Keys I’, Schuppe’s stylised vocal delivery filled the song with more than mere words: by turns halting and lingering over vowels and consonants, emphasising and carefully placing sibilants and fricatives, the English text (now bringing to mind Swedish singer Jonna Lee) was turned into a collections of sounds that retained a connection to their literal meaning while also becoming a strange semi-percussive collection of vocal tics. i said that the lute drones root each song, but not always as a simple ‘tonic’ or place of harmonic ‘rest’, but akin to a soft laser beam, its power providing the music’s impetus. The flipside of this was that, when Schuppe sang unaccompanied, as in sixth song ‘Pretty ride I’, one’s ear started grappling around for sustained pitches it thought ought to be present; the sudden melodic freedom brought about by silencing the lute was startling and, for a time, disorienting. ‘Keys II’ raised the lute’s pitches above Schuppe’s voice, which was very soft and low in this song, creating a nice shift in the interaction between the two elements, and in ‘Pipes’ Schuppe went so far as to explore triadic effects, again startling in this context, sounding remarkably rich. Marianne Schuppe’s recital was all about simplicity, subtlety, artistry and authenticity, captured in eleven songs that manage to grip one’s attention while never obviously seeking to, and which commune something important yet keep their meaning diffuse and at something a distance. It was all captivating.
+
+{nbsp} +
+
+.The Rambler, Tim Rutherford Johnson May 4 2016
+icon:link[link=https://johnsonsrambler.wordpress.com/2016/05/04/cd-review-marianne-schuppe-slow-songs-wandelweiser]
+Eleven songs for voice and lute by the Swiss singer and composer Marianne Schuppe. The instrumentation taps a deep historical channel, back to Dowland and beyond. But Schuppe doesn’t pluck her lute. Instead she uses e-bows to turn a melodic accompanying instrument into an environment, an ancient combination updated to reflect a contemporary preference for objects over stories. The songs are simple melodies, sometimes folklike (ballads and laments more than dances), but with words and music full of unexpected, almost surreal twists: the images used include deer, feathers, sunhats and cameras; the music little scales and motifs, subtle modal shifts. The whole fuses traditional and modern, nature and technology, such that each is indistinguishable.
+
+{nbsp} +
+
+.Le son du grisli, Guillaume Belhomme 8 Janvier 2016
+icon:link[link=http://grisli.canalblog.com/archives/2016/01/08/33181216.html]
+Ce ne sont pas des chansons silencieuses – Wandelweiser aurait pu en promettre – mais des chansons lentes qu’interprète ici Marianne Schuppe. Si elle chanta jadis Giacinto Scelsi (Incantations), ce sont cette fois des pièces qu’elle a elle-même composées.
+Onze, sur lesquelles Schuppe s’accompagne au luth dont elle agace les cordes en usant d’e-bows – voici l’instrument changé en theremin sonnant toujours juste. Chaque note tenue est un fil sur lequel la chanteuse peut choisir d’aller (telle perte d’équilibre précipitera ses vocalises, tel rétablissement commandera une inflexion) ou non – a capella, elle peut rappeler l'Only d'une autre Marianne.
+Mais c’est sans doute quand elle envisage la distance à respecter entre sa voix et le signal électronique, qu’il soit aigu ou grave, que Schuppe gagne toute notre attention : modulant, voire révisant sa trajectoire, elle apprivoise ses airs écrits autant qu’elle les façonne in extremis. Voilà pourquoi ses chansons sont certes lentes mais aussi bien mobiles.
+Mais c’est sans doute quand elle envisage la distance à respecter entre sa voix et le signal électronique, qu’il soit aigu ou grave, que Schuppe gagne toute notre attention..
+
+{nbsp} +
+
+.Jazz'N'More,Thomas Meyer Jan/Febr. 2016
+Eine Frauenstimme, allein, gestützt nur von feinen liegenden Klängen, geschützt nur von der englischen Sprache, eine Stimme und elf Lieder: „slow songs“, schlicht, unmittelbar, Enkelinnen jener „Wonderful Widow of Eighteen Springs“ von John Cage. Jener ruhige Song auf drei Tonhöhen aus dem Jahr 1942 mag hier als Vorbild gedient haben, aber Marianne Schuppe, die in Basel lebende Vokalistin, Improvisatorin und Komponistin, geht einen Schritt weiter, dreht die Lieder allmählich aus der Beschränkung auf Weniges heraus, hin auf Weiteres, singt mutig vorwärts, ganz sicher, aber auch so, dass wir spüren, wo sie abwägt, überlegt, vom Wege abkommt, um anderes Terrain zu betreten, alles bedacht und bedachtsam, ohne Eile, ohne Hast, wunderbar, berührend.
+
+{nbsp} +
+
+.FLUID RADIO, Nathan Thomas Nov 11 2015
+icon:link[link=http://www.fluid-radio.co.uk/2015/11/marianne-schuppe/]
+Marianne Schuppe is a singer known for her own compositions, as well as interpretations of works by Morton Feldman and Giacinto Scelsi. It’s her own pieces that comprises this new release from Edition Wandelweiser, eleven short tracks for voice, lute and e-bows. The lute is played exclusively by e-bowing, creating long, extended notes that gradually fade in and out. For much of the time, however, the lute is absent, and Schuppe’s voice is presented unaccompanied. This creates a sparse, open atmosphere that reminds me in some ways of Sylvain Chauveau’s excellent album “Kogetsudai”, though here it is even more rarefied and takes on something of a folksy tone in the shape of its melodies. It’s this sparseness that perhaps gives rise to the adjective ‘slow’ in the album’s title: the tempos of some songs are actually quite moderate, but the sparse arrangement makes them seem to happen slowly.
+One might think that without the harmonic interactions and interferences happening between multiple simultaneous notes and their overtones, an a capella vocal line would tend to fall back on the single note as its basic founding unit — notes arranged into melodies arranged into songs. But there are many notes on “slow songs” that are broken down such that their internal parts become audibly distinguishable: from the variable attack (or suddenness) of the note, to its vibrato, dynamics, decay, and even the brush sweep of sibilance as it fades, which here becomes musical material rather than unwanted artefact. This ability to hear inside the note is partly assisted by the e-bowed lute’s subtle effects, but it’s mostly due to Schuppe’s talents as a singer, to her ability to control every aspect of her voice’s sounding while retaining a sense of naturalness and musical flow across a melody. The richness and detail that other artists appearing on Wandelweiser achieve with complex harmony is here achieved with a single note. This can clearly be heard by comparing the two versions of the songs ‘key’ and ‘pretty ride’: while the two versions are in different keys, the insides of the notes are also a whole different story.
+The richness and detail of individual notes sometimes obscures the other key aspect of the songs, namely the lyrics. I found many of the words unintelligible, passing by in a blur or murmured below the level of comprehension. This made the few phrases I did manage to pick out seem all the more enigmatic and intriguing: mentions of freckles and computers and foreign languages and seeing a deer in a field. “slow songs” has the surface of an a capella folk album, but much more careful attention is paid to the qualities of individual sounds than in more conventional work, where the sounds are often merely carriers for semantic meaning and performed emotion. Here, each note feels like a new event, a twig snapping or an animal darting through the undergrowth. This is great work from Schuppe, and it’s nice to hear Edition Wandelweiser continue to branch out into new directions.
+
+{nbsp} +
+
+.Nouveaute, Paris 2007
+Un chant aussi subtil qu'apaisé, magnifiquement rendu par la voix de Marianne Schuppe
+
+== Morton Feldmann - ThreeVoices
+
+.oorgetuige, Gent 23. Januar 2013
+Three Voices is, in short, pure hypnotic stillness.
+For the performer a real challenge for you as concertgoers a must hear.
+Implementation is provided by the versatile Swiss singer Marianne Schuppe.
+Schuppe is anything but a LaBarbara-clone, and from an individualistic reflex gives a private key to implementation: refined, light and taken from a classical singing tradition.
+
+{nbsp} +
+
+.dissonanz #99, Stefan Drees  September 2007
+Nicht allzu häufig kommt es vor, dass ich mir nach dem Anhören einer CD die Scheibe gleich noch einmal von vorn anhöre. Mit der neuesten Produktion von Marianne Schuppe ist es mir jedoch so ergangen : nach ihrer Auseinandersetzung mit den archaischen Klängen Giacinto Scelsis hat sich die Sängerin dem gleichsam abstrakten Gebilde von Morton Feldman Three Voices (1982) angenommen und damit neue Massstäbe gesetzt : Im Zusammenwirken von Live-Vortrag und aufgezeichneten Stimmparts leuchtet Schuppe die introvertierte Klangwelt der Komposition aus und erreicht bei der Wiedergabe der unvorhersehbaren Texturänderungen Wirkungen, die unter die Haut gehen. Da werden Augenblicke des minimalen Umschwungs zum grossen Ereignis, etwa dort, wo sich aus den engen Clusterbewegungen des Beginns erstmals die Stimme steil aufsteigend und im Legato in ein höheres Register aufschwingt, aber auch in jenem Moment, wenn nach rund 20 Minuten erstmals der Text "Who'd have thought that snow falls" in die Klänge hineingewoben wird. Die Dichte und intonatorische Exaktheit, aber auch die feinen Wandlungen im Timbre der Stimme und die musikalische Präsenz, mit der Schuppe die zarten Gesten von Feldmans Musik realisiert, sind einfach erstaunlich. Die Sängerin dringt in die Musik ein, bringt Tonhöhenbewegungen und Clusterschichtungen förmlich zum Strahlen, wahrt aber dennoch eine gewisse emotionale Distanz und schafft so das Paradoxon eines sachlich wirkenden Klangbildes von grosser Intensität und Schönheit, das den Hörer nicht kalt lässt.
+
+{nbsp} +
+
+.Klassik com, Patrick Beck 30. Juli 2007
+Marianne Schuppe könnte ,Three Voices’ kontemplativ singen, nach innen gerichtet. Darf man das von einer Interpretin erwarten, die das Werk einmal von der Dachkante eines Theaters sang? Ihr Vortrag ist ein ganzes Theater, im positiven Sinn, allein mit den Möglichkeiten der Stimme. Klar und fein nuanciert hört man Zartes und Zerbrechliches, Dunkles und Wehmütiges, Transzendentes, Heiteres, Keckes oder einfach eine frierende Sängerin. Hat man einmal Marianne Schuppe gehört, so möchte man ,Three Voices’ von keinem anderen Interpreten hören. Sie präsentiert ein überaus farbiges Epitaph, ein Epitaph für Morton Feldman. Eine Referenzaufnahme.
+
+{nbsp} +
+
+.Tagesanzeiger Zürich, Michael Kunkel 8.September 2004
+Zur wohl intensivsten Tonkünstlerfeststunde geriet Musik am Bau mit Marianne Schuppe und Peter Vittali: Schuppe entliess Feldmans "Three Voices" aus seinem Kammerkonzertsaaldasein, als sie das Werk von der Dachkante des Théâtre du Chrochetan aus ins Städtchen hinein sang, die Feldman-Intimität sich mit der freitagabendlichen Monthey-Musik paaren liess.
+
+{nbsp} +
+
+== Giacinto Scelsi
+
+.dissonance #130, Stefan Drees 2015
+icon:file[link=pdf/130_50_cd_std_scelsi.pdf] ...Die Stimme wird zum Anreger für das instrumentale Geschehen und wirkt so aufgrund ihrer Ausdrucksvielfalt auf die Artikulation und Wahl der Instrumente aus, so daß die sieben Gesänge sich als zart ausbalancierte kammermusikalische Situationen mit jeweils individueller Atmosphäre erweisen ...
+
+{nbsp} +
+
+.Point of departure, September 2007
+Marianne Schuppe's lustrous voice imbues the material with a hallowed aura, albeit one without obvious religious hues. Having studied with Scelsi colleague Michiko Hirayama, one can confer a degree of authenticity on to Schuppe's performances, though it should be noted that Scelsi granted substantial interpretative leeway to the performers of his music. Consequently, the line between Scelsi's intentions and Schuppe's conceptions is shrouded. Captivatingly so.
+
+{nbsp} +
+
+.Los Angelos Weekly, April 2007
+An hour's worth of solo "song" on this new disc unaccompanied, or joined by mirror images on tape starts off unsettling but not for long. The singer, Marianne Schuppe, has such remarkable control that you begin to hear her vocal lines, and her incredible range, as a musical language all its own, haunting, powerful and, in its own way, very beautiful.
+
+{nbsp} +
+
+.Il Manifesto, Roma January 17 2006
+Stupefacente l'invenzione melodica, da fare invidia a un free-jazzman con quelle frasi interrote o risolte in modo "non consequenziale". Schuppe si esibice persino in movenze danzanti da "swing asmatico". Mai visto e sentito uno Scelsi così !
+
+{nbsp} +
+
+.positionen, Stefan Drees  August 2006
+Was Marianne Schuppe...in puncto stimmlicher und emotionaler Intensität leistet, ist phänomenal: Indem sie die Klänge und Laute wie einen Tonklumpen mit ihrer Stimme bearbeitet, rückt sie die skulpturhaften Qualitäten in den Vordergrund. In ihrer Interpretation von Sauh I-IV (1973) wird das Zusammenwirken von Stimme und ein- bis dreifachen elektronischen Stimmzuspielungen zu einem immer dichter und plastischer gearbeitetem Klangband, das dennoch aufgrund der nuancierten Farb-und Artikulationsgebungen im Inneren flexibel bleibt. Erstaunlich ist auch, was die Sängerin aus den Zyklen Taiagarù (1962) und Hô (1960) herauszuholen versteht, indem sie ganz bewusst die zerklüfteten Atembögen artikuliert und ihnen einen kraftvollen Anstrich verleiht, der auch viel dazu beitragen könnte, die mystifizierenden Klischees über Scelsis Komponieren auszuräumen.
+
+{nbsp} +
+
+.Neue Zeitschrift für Musik, Helmut Peters Mai 2006
+hat die wohl anerkannteste Interpretin (Scelsis) Vokalmusik, Marianne Schuppe, ihre Einspielung unter das vieldeutige Motto "Die Kunst des Liedes von Giacinto Scelsi" gestellt... Sie überträgt nicht den Instrumentalklang auf ihre Stimme, sondern überführt ihn in eine eigene, eigenen Gesetzen gehorchende Welt von Lautäusserungen, wobei die Klarheit, ja die Reinheit ihres bewegenden Soprans jede phonetische Geste veredelt. Das Rufen und Schreien, das schwere Atmen und figurative Schwanken in Taiagarù überschreitet nicht die von Schuppe, wohlweislich nicht von Scelsi gesteckten Grenzen. Auf diese Art gelingt der Sängerin eine Natürlichkeit, die sich völlig losgelöst von konstruierter, auskomponierter und damit in gewissem Masse auch starrer Musik bewegt.
+
+{nbsp} +
+
+.dissonanz #96, Michael Eidenbenz Dezember 2006
+Das Ergebnis ist Musik, die gleichsam den Moment ihrer Entstehung wiedergibt....Marianne Schuppe hat bei Michiko Hirayama studiert, kann sich also auf Authentizität berufen, sofern dies bei der interpretatorischen Variantenvielfalt überhaupt möglich ist, die Scelsis Partituren anbieten. Dennoch zeugt ihre Einspielung von einer Interpretationshaltung einer "zweiten Generation" gewissermassen. Von einer Phase der Scelsi-Rezeption jedenfalls, die die Heiligsprechung des Meisters ebenso überwunden hat wie jede Neigung zu selbst-darstellerischem und sendungsbewusstem Entdeckerstolz.
+
+{nbsp} +
+
+.Exclaim, Nilan Perera Toronto Dec 2006
+Every once in a while a piece of music comes into your sphere of listening and you wonder how in the world this stuff ever came into being and how you ever missed it. This CD of microtonal voice compositions is possibly one the most intense yet strangely static experiences that have come my way in a long while....The music on this disc is sparse in its execution, being primarily performed by a single voice with the addition of a second on tape for four out of the 13 tracks. This austerity manages to intensify the experience to the point of an almost spiritual level, but at the same time is as ecstatic and pagan as any good orgy. As an insight into the scope of microtonality, it is invaluable as some of the pieces are literally based on one note. Some of the tracks gives one the idea that Diamanda Galas spent some time listening to Scelsi and one of the most interesting things about the CD is that some of these "songs are reinterpretations of instrumental works. Sheer brilliance! (New Albion)
+
+{nbsp} +
+
+.Forced Exposure, Dezember 2005
+The opening "Sauh I-IV" (from 1973, for voice with magnetic tape) features layers of Schuppe's voice, in impressive, polyphonic style - a great antidote for those of those of us living in fear of the "operatic wail". Her technique and intelligence inform an innate ability that allows her to move from 'song' to 'sound' to 'speech' in a lyrical and fluid manner."
+
+{nbsp} +
+
+.Tagesanzeiger Zürich,Michael Kunkel  6.Dezember 2005
+Die introspektive Seite der Musik von Giacinto Scelsi (1905-1988) ist eindeutig überschätzt. Nun präsentiert die in Basel lebende tiefe Sopranistin Marianne Schuppe eine CD mit selten aufgeführten Solo-Gesängen in einer Interpretation, die mit der üblichen Scelsi-Kontemplation kaum etwas gemein hat. Schuppe pflegt Scelsis Vokalmusik in sehr willkommener Betonung ihres Sprachcharakters, ihrer enormen Körperlichkeit. Eine der lebendigsten Scelsi-Aufnahmen im Jubeljahr seines 100. Geburtstags.
+
+{nbsp} +
+
+.Frankfurther Rundschau 8.5.01
+eine Stimmung, die sich in der Interpretation des Klangforums unter der präzisen und fordernden Leitung von Roland Kluttig in Pranam I von G. Scelsi für Stimme, zwölf Instrumente und Tonband fortsetzte. Den schwierigen Gesangspart meisterte Marianne Schuppe in bewundernswerter Sicherheit.
+
+{nbsp} +
+
+.Basler Zeitung, Martina Wohltat 8. Februar 1999
+Marianne Schuppe verfügt über eine leuchtkräftige, wandlungsfähige Stimme, die risikofreudig schwierige Intervalle meisterte und den Raum mit vibrierenden vokalen Linien füllte. Obwohl die beiden vorgestellten Zyklen Hô und Taiagarù unbegleitet und einstimmig waren, erschien der Gesang im Ineinandergreifen der verschiedenen Register gleichsam mehrstimmig. Faszinierend, wie restlos die Stücke sich der Stimme anpassten und wie lückenlos die Sängerin sich Scelsis Musik anverwandelte.
+
+{nbsp} +
+
+.Hannoversche Allg. Zeitung, Ludolf Baucke 15. April 1993
+und diese vier Vokalisen trug Marianne Schuppe mit aller gebotenen Konzentration im neuen Auditorium vor. Sie setzte damit Masstäbe für eine ebenso anregende wie präzise Präsentation musikalischer Moderne.
+
+
+== others
+
+.Die Summe 21, für Chöre und Einzelstimmen
+8.-19. September 21, Festival ZeitRäume, Basel
+icon:file[link=pdf/Summe.pdf] _Der Ton, die anderen und ich_ von Isabel Zürcher.
+
+{nbsp} +
+
+.Basellandschaftliche Zeitung, Anja Wernicke 26.April 2016
+Die Sängerin Marianne Schuppe ließ einmal mehr mit «aus den liedern» von Antoine Beuger (2007/2008) die Magie der leisen Töne hören. Sie steht weit hinten auf der Bühne und singt nur einzelne Silben, fast ohne Vibrato, zart und klar.
+
+{nbsp} +
+
+.Basellandschaftliche Zeitung, Andreas Fatton 1. September 2008
+Marianne Schuppes Vermögen, Texte zu inszenieren, ist einzigartig. Gewichtung, Pausen, Sprech- und Singansatz, die Interaktion mit dem kleinen schwarzen Büchlein, aus dem die Textkerne entspringen, stellen die Mittel der Inszenierung dar, die durch Vibraphon und Cello eine passende klangliche Rahmung erhält.
+
+{nbsp} +
+
+.Tages Anzeiger Zürich und MusikTexte 119, Thomas Meyer Dezember 2008
+Ein, wenn nicht der Höhepunkt des Festivals schliesslich der Auftritt des Schweizer Trios "selbdritt"; Die Vokalistin Marianne Schuppe, der Cellist Alfred Zimmerlin und die Vibraphonistin Sylwia Zytynska proben seit Jahren miteinander, haben auch schon eine Cd beim Schweizer Tonkünstlerverein herausgegeben, sind aber gerade erst ein halbes Dutzend mal live aufgetreten. Ja, fast scheint es, als sei ein Publikum für diese spezielle Art der Imrpovisation (ohne jegliche Vorgaben) gar nicht notwendig, so intim, wenn auch keineswegs abweisend klingt diese Musik. Schuppe spricht, singt et cetera aus einem Buch voller Notizen, die beiden Instrumente sprechen, singen....auf ihre Weise dazu, und der Klang von Vibraphon und Violoncello korrespondiert dabei auf erstaunliche Weise. Das Trio bewegte sich mit so traumwandlerischer Sicherheit durch die Zeit, dass es eine Freude war. Folgerichtig schloss ihre Darbietung auf dem Wörtchen "Glück".
+
+{nbsp} +
+
+.dissonanz #99,Stefan Drees September 2007
+Schuppe setzt ihre Fähigkeiten bei der feinen Modulation von Stimmenklängen auch dort ein, wo es weniger um das Singen als um den Umgang mit der Sprechstimme geht. Auf der CD selbdritt - von hier trägt sie zusammen mit den Mitgliedern ihres Improvisationstrios selbdritt Sylwia Zytynska (Vibraphon) und Alfred Zimmerlin (Violoncello) zur Schaffung von Klängen bei, die sich an der Grenze von Musik und Hörstück bewegen. Der von Schuppe meist sprechend vorgetragene Text, collagiert nach Zitaten aus ici von Nathalie Sarraute, führt aufgrund des Umgangs mit den Sprachbruchstücken zu einem ständigen Spiel mit Bedeutungen. Mit feinem instrumentalem Spürsinn kommentieren die beiden Partner die Wortkaskaden oder Loops, die von der Sängerin präzise und durchsichtig vorgetragen werden, wobei die emotional unterschiedlich eingefärbten Stimmsplitter dazu beitragen, die instrumentalen Klänge zu konnotieren, diese aber umgekehrt auch auf den Text zurückwirken und ihm bestimmte emotionale Richtungen verleihen. Die klanglich sehr unterschiedlichen Komponenten aller drei Musiker werden dabei zu einem erstaunlich kohärenten Ergebnis verschmolzen und fügen sich zu einer narrativen Ganzheit, die sich als Suche nach den Möglichkeiten und Koexistenzen von Wort- und Klangbedeutung erweist.
+
+{nbsp} +
+
+.Basler Zeitung,Benjamin Herzog 22. Mai 2001
+Wirkliche Freiheit indessen vernahm man in der Improvisation von Marianne Schuppe (Stimme), Sylwia Zytynska (Perkussion) und Alfred Zimmerlin (Violoncello). Das eingespielte Trio schuf konzis umrissene Stimmungs- und Aktionsbilder, demonstrierte Spiellust und die Ueberraschungsgabe blitzschnellen Reagierens. Ihre Musik hatte Delikatesse, Charakter, Groove.
+
+{nbsp} +
+
+.Dissonanz Nr.50, Christina Omlin November 1996
+Es gibt noch ungewöhnliche Positionierungen neben der Bühne, die unverbraucht wirken. Die beiden Frauen (Dorothea Schürch und Marianne Schuppe) setzten sich hoch oben über dem Publikum in die zwei entgegengesetzten Ecken auf die Galeriekante; dahinter liess eine Fensterscheibe das blaue helle Himmelslicht eines Septembertages einfallen, und die Zuschauer konnten Flugzeuge auf dem Weg nach Irgendwohin betrachten. So wie sich die beiden Frauen in ihre Umgebung einbetteten, so scheinen sie auch ein offenes Ohr für ihre direkte Umwelt zu haben. Ihre Wort- und Silbenspiele sind exakt auf die lautmalerische Seite untersucht und ausgehorcht. Zum ersten Mal in diesem Stimmenfestival nahm man auch zischende, sprudelnde, gurgelnde, schwabernde und vor allem nackte Stimmen wahr - eine Wohltat nach so viel gepflegtem Kunstgesang; faszinierend, wie sich die Vokalistinnen in den Texten einrichteten, ...
+
+{nbsp} +
+
+.Badische Zeitung, 24. März 1993
+Die Sopranstimme gleitet in sphärische Höhen, schwebt sirenengleich. Oder sie vollführt abenteuerliche Intervallsprünge, geht auch ins Geräuschhafte über. Sie beherrscht bewundernswert die Gesangstechniken der Neuen Musik und die Praktiken des Avantgarde-Jazz, der improvisierten Musik....Dieses Trio um die Basler Sängerin Marianne Schuppe gehörte sicher zu den Höhepunkten der"off lines two".....
+
+{nbsp} +
+
+.Jazzpodium, Mai 1993
+...wie die sensationelle Stimme der Baslerin Marianne Schuppe. Mit flirrenden Vokalisen durchschreitet ihre Stimme ungeahnte Gefühlswelten. Ihr beachtliches Sopran, unterstrichen durch gewagte Intervallsprünge, geht fliessend in Geräuschhaftes über.
+
+{nbsp} +
+
+.Badische Zeitung, 30. Januar 1992
+Marianne Schuppe brilliert mit einem virtuosen Instrumentalgesang, der auf eine klassische Schulung, auf Techniken zeitgenössischer Musik weist. Mühelos springende, glissandierende Vokalisen, die bei aller "Sprödigkeit" sinnlich, hautnah bleiben.
+
+{nbsp} +
+
+.Zürcher Oberländer, 29.Oktober 1991
+"Die Stimme (Marianne Schuppe ist eine ebenso exellente Sprecherin wie Sängerin) wird hier zum Instrument aller Instrumente, gibt strahlend, seufzend, flüsternd, lallend, zischend, schnalzend, summend oder in abgerissenen Silben, frei strömend oder akustisch verändert durch Bewegungen mit der vorgehaltenen Hand alles wieder, was menschliche Empfindung umschreibt.
+
+{nbsp} +
+
+.Der Bund, 21.Januar 1990
+Da Marianne Schuppe vom ersten bis zum letzten Ton ihres Programms ohne jegliche Begleitung singt, kommt ihr beachtliches stimmliches können voll zur Geltung.Die dargebotenen Entwicklungen einzelner Töne, verbunden mit Intervallen und der Artikulation verschiedener Vokale und Konsonanten, entfalten sich in den besonderen akustischen Gegebenheiten des Gewölbes zu immer neuen Klängen voller Klarheit und Kraft.
+
+link:/../index.html[icon:home[]] 

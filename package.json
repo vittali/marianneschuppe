@@ -1,0 +1,14 @@
+{
+  "name": "marianneschuppe",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "./scripts/build-site.sh",
+    "check:dist": "node ./scripts/check-dist.mjs",
+    "preview": "wrangler pages dev dist",
+    "deploy": "./scripts/with-cloudflare-env.sh pages deploy dist --project-name=marianneschuppe --branch=master"
+  },
+  "devDependencies": {
+    "wrangler": "4.123.0"
+  }
+}

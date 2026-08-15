@@ -1,0 +1,40 @@
+= works
+:includedir: _includes
+:imagesdir: ./images
+:icons: font
+:toc: left
+:toc-title:
+:nofooter:
+:sectnums:
+:figure-caption!:
+:sectnums!:
+:docinfo: shared
+:linkcss:
+:copycss!:
+:stylesheet: theme.css
+:stylesdir: /current-theme
+
+link:/../index.html[icon:home[]] 
+
+Most of my work is with and for voices. Voices from different backgrounds, each carrying its own history
+of speaking, singing, listening, and being heard. I am drawn to the traces that experience leaves in every
+voice and how they come to sound.
+
+I am interested in how different modes of listening reveal different qualities of the voice. Words invite
+understanding through a shared vocabulary, while sound may draw attention to timbre, texture and rhythm.
+Yet words are always sound, and sound is never without meaning.
+
+Words and sound are interweaving layers in the voice. My work unfolds in their interplay and in how
+listening changes what a voice becomes.
+
+[.works-links]
+--
+link:/works/composer-performer.html[composer-performer] +
+link:/works/composing-for-voices.html[composing for voices] +
+link:/works/collective-and-interdisciplinary-work.html[collective and interdisciplinary works]
+
+link:/works/passing-through-words.html[passing through words] +
+link:/works/extending.html[ways of gathering]
+--
+
+link:/../index.html[icon:home[]]

@@ -1,0 +1,24 @@
+
+
+image:summe-flyer2.jpg[flyer2,300,300,float="left", link=images/summe-flyer2.jpg]
+image:summe-flyer3.jpg[flyer3,300,300,float="left", link=images/summe-flyer3.jpg]
+image:summe-flyer4.jpg[flyer4,300,300,link=images/summe-flyer4.jpg]
+
+
+image:joana.jpg[width=50%, link=images/joana.jpg]
+
+[cols="a,a,a"]
+|===
+| Bridging words and music | Extending the idea of concert | Sharing experiences in mentoring
+
+| image::bridge-luth-epont.png[link="../bridge/index.html"[Briding music and poetry]]
+| image::extend-basel.png[link="../extend/index.html"[Extending the idea of concert]]
+.2+| image::mentor-hoch.jpg[link="../mentor/index.html"[Sharing experiences in mentoring]]
+
+| image::bridge-buch.jpg[link="../bridge/index.html"[Briding music and poetry]]
+| image::extend-laconex.png[link="../extend/index.html"[Extending the idea of concert]]
+
+| image::bridge-ms.jpg[link="../bridge/index.html"[Briding music and poetry]]
+| image::extend-prrr.png[link="../extend/index.html"[Extending the idea of concert]]
+| image::mentor-quer.jpg[link="../mentor/index.html"[Sharing experiences in mentoring]]
+|===

@@ -1,0 +1,83 @@
+= Marianne Schuppe
+:includedir: _includes
+:imagesdir: ./images
+:icons: font
+:nofooter:
+:sectnums:
+:figure-caption!:
+:sectnums!:
+:docinfo: shared
+:linkcss:
+:copycss!:
+:stylesheet: theme.css
+:stylesdir: /current-theme
+
+++++
+<style>
+/* Home page: tighten vertical spacing to fit ~768px viewport */
+#header > h1:first-child { margin-top: 1.25rem; }
+#content { margin-top: 0.5em; }
+/* Home page: add upper-left watermark beside title, keep right-bottom one */
+body {
+  background:
+    radial-gradient(ellipse 14em 9em at calc(50% - 30em) 7em, rgba(255,254,249,0.50) 0%, rgba(255,254,249,0.95) 100%),
+    url(/inkscape/3-22-1.svg) calc(50% - 36em) 3.5em / 12em auto no-repeat,
+    url(/inkscape/3-22-1.svg) right bottom / 30em auto no-repeat,
+    #fffef9;
+  background-attachment: fixed, fixed, fixed;
+}
+</style>
+++++
+
+=== Singer Composer Writer
+
+My interest in voice draws me toward the space between music and language.
+An area where the grain of words merges with the fluidity of sound. +
+This oscillation has guided my work since the eighties, when I began singing the music of link:/recording/index.html#scelsi[Giacinto Scelsi] and link:/recording/index.html#feldman[Morton Feldman].
+I have pursued it through various forms and collaborations:
+link:/recording/index.html#selbdritt[improvisation], interpretation,
+                                                         reweighing the traditional ingredients of link:/recording/index.html#nosongs[song], developing
+                                                         projects with and link:/works/index.html#summe[for voices], link:/mentor/index.html#summe[teaching] and writing.
+In recent years, I have turned more specifically to the borderlands where music passes into link:/now/index.html#buch[poetry].
+In this vein,  link:/csl/index.html[colline sur livre]  has been an ongoing work since 2022.
+
+
+
+
+[.axis-row,cols="<a,<a,<a", frame=none, grid=none]
+|===
+
+| [.axis]#link:/bridge/index.html[Bridging]# +
+words and music
+| [.axis]#link:/extend/index.html[Extending]# +
+the idea of concert
+| [.axis]#link:/mentor/index.html[Sharing]# +
+experiences in mentoring
+|===
+
+
+[cols="3,>1", frame=none, grid=none]
+|===
+
+| | link:/now/index.html[Now & Then]
+| | link:/path/index.html[Path]
+| | link:/recording/index.html[Recordings]
+| march 2026: CD https://www.elsewheremusic.net/store/p152/Two_Paths.html[_Two Paths_] elsewhere 038| link:/int_essay/index.html[Conversations]
+|Éliane Radigue, Deborah Walker, Marianne Schuppe   | link:/works/index.html[Works]
+|  | link:/review/index.html[Reviews]
+| | link:/contact/index.html[Contact]
+|===
+
+{nbsp} +
+{nbsp} +
+{nbsp} +
+
+
+
+
+
+
+
+
+
+

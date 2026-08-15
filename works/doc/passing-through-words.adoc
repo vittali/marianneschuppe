@@ -1,0 +1,23 @@
+= passing through words
+:imagesdir: ./images
+:icons: font
+:toc: left
+:toc-title:
+:nofooter:
+:sectnums!:
+:figure-caption!:
+:docinfo: shared
+:linkcss:
+:copycss!:
+:stylesheet: theme.css
+:stylesdir: /current-theme
+
+link:/../index.html[icon:home[]] | link:/works/index.html[works]
+
+Most of my works pass through words in their process of becoming. Sometimes words are articulated and come to sound through a voice or an instrument. Sometimes they are transmitted orally, and sometimes they are shared as a text score. Words rarely remain in their initial form. They are spoken, sung, remembered, translated, misheard, or disappear altogether.
+
+My attention is with what words become as they move between listening, writing, speaking, and singing, and as they pass from one person to another.
+
+include::../../bridge/doc/index.adoc[lines=46..681]
+
+link:/../index.html[icon:home[]] | link:/works/index.html[works]

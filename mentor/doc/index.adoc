@@ -1,0 +1,122 @@
+= Voice & Words - mentoring for composer-performers
+:includedir: _includes
+:imagesdir: ./images
+:icons: font
+:toc: left
+:toc-title:
+:nofooter:
+:sectnums:
+:figure-caption!:
+:sectnums!:
+:docinfo: shared
+:linkcss:
+:copycss!:
+:stylesheet: theme.css
+:stylesdir: /current-theme
+
+link:/../index.html[icon:home[]] 
+
+<<de>> 
+
+Since the mid-eightees I have enjoyed passing on my experiences as a singer, performer and
+teacher to others.
+
+.My background in teaching
+I have trained singers, dancers, teachers and other enthusiasts in developing their voices in
+groups and individual lessons. I have worked in theatre-and dance-productions as a voice
+teacher and musical advisor and have given masterclasses and lectures on my work in Europe and Asia. 
+From 1995-2010 I have educated singers and speakers in the Atem-Tonus-Ton-
+method in Switzerland, Germany and Japan. Between 2012 and 2022 I have been working as a
+guest-lecturer for voice and improvisation at the FHNW University of Music in Basel and other
+swiss university-music departments. I also have been the director of a voice
+ensemble, focused on improvisation and staged several performance-projects.
+
+
+.My approach to words in music and to the music of words 
+_began years after I had experimented with
+the instrumental sounds and qualities of voice. I had been reluctant to accept the weight of meaning and
+its tradition. Only when I realized how endless sound and meaning are intertwined my curiosity
+awoke and my attitude changed._
+
+_It is this experience that I propose to share in one-to-one sessions with individuals or small
+groups of composer-performers._
+
+
+With the term of composer-performers I refer to musicians and performers that want to
+develop their own music or built something new with existing elements.
+In these mentoring sessions we agree on a set of goals - based on a short description of
+your project (voice or voice and instrument) - including but not limited to:
+
+* develop a new perspective on words in music
+* widen your understanding of the connection of sound and meaning
+* challenge your attitude towards the perfection of voice
+* deepen your experience of voice and body resonance
+* find ways to perform your words 
+
+image:ms5.jpg[link=images/ms5.jpg, width=80%] 
+
+
+.Conditions
+Sessions take place in a series of 3 or 5 meetings in Basel, one to one
+and are based on your personal needs and questions.
+We meet in person in my atelier in Basel. 
+
+If you wish to come in an ensemble working on a piece, we will work out an arrangement.
+
+Financial terms to be discussed on a case by case basis.
+
+If you are interested please link:/../index.html#contact[write] me.
+If you need a place to stay in Basel I can help finding accomodation.
+
+{nbsp} +
+
+'''
+
+{nbsp} +
+
+[[de]]
+Seit Mitte der achtziger Jahre gebe ich meine Erfahrungen als Sängerin, Performerin und Lehrende mit
+Freude an andere weiter.
+
+.Mein Hintergrund als Lehrende
+Sängerinnen, Tänzerinnen, Lehrende und andere Interessierte habe ich in Gruppen und im
+Einzelunterricht in der Entwicklung ihrer Stimmen begleitet. In Theater- und Tanzproduktionen habe ich
+als Stimm- und musikalische Beraterin gearbeitet und Masterclasses sowie Vorträge über meine Arbeit in
+Europa und Asien gegeben. Von 1995 bis 2010 habe ich Sänger:innen und Sprecher:innen in der Atem-
+Tonus-Ton-Methode in der Schweiz, in Deutschland und in Japan ausgebildet. Zwischen 2012 und 2022
+war ich als Gastdozentin für Stimme und Improvisation im Masterstudiengang Freie Improvisation an der
+Musikhochschule der FHNW in Basel sowie an weiteren Schweizer Musikhochschulen tätig. Außerdem
+habe ich viele Jahre lang ein Vokalensemble mit Schwerpunkt Improvisation geleitet und dafür
+Performance-Projekte entwickelt.
+
+.Mein Zugang zu Worten in der Musik und zur Musik der Worte
+_begann Jahre, nachdem ich mit instrumentalen und extended-voice Klängen der Stimme experimentiert
+hatte. Dem Gewicht von Bedeutung und Tradition gegenüber war ich lange widerständig. Erst als ich
+entdeckte, wie endlos Klang und Bedeutung miteinander verwoben sind, wurde ich neugierig und meine
+Haltung änderte sich._
+
+_Diese Erfahrung möchte ich im Mentoring mit einzelnen Personen oder in kleinen Gruppen an Composer-
+Performer:innen weitergeben._
+
+Mit dem Begriff Composer-Performer:innen spreche ich Musiker:innen und Performer:innen an, die ihre
+eigene Musik entwickeln oder aus bestehenden Elementen etwas Neues erfinden möchten. Zu Beginn
+vereinbaren wir anhand einer kurzen Beschreibung deines Projekts (mit Stimme oder mit Stimme und
+Instrument) eine Reihe von Zielen, wie z.B.:
+
+* eine neue Perspektive auf Wörter im Kontext von Musik entwickeln
+* das Verstehen der Verbindung von Klang und Bedeutung erweitern
+* die Haltung zur Perfektion der Stimme hinterfragen
+* die Erfahrung von Stimm- und Körperresonanz vertiefen
+* Wege finden, deine Worte aus- und aufzuführen
+
+.Konditionen
+Das Mentoring findet in einer Serie von 3 oder 5 Treffen in Basel statt und basiert auf deinen
+persönlichen Bedürfnissen und Fragen. Wir arbeiten in meinem Atelier in Basel.
+Wenn ihr als Ensemble an einem Stück arbeiten möchtet, finden wir gemeinsam eine passende Lösung.
+
+Die finanziellen Bedingungen werden von Fall zu Fall besprochen.
+
+Wenn du interessiert bist, schreibe mir. Falls du eine Unterkunft in Basel benötigst, kann ich dir bei der
+Suche helfen.
+
+link:/../index.html[icon:home[]] 

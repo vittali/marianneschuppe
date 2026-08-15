@@ -1,0 +1,11 @@
+.playwright-mcp/
+.claude/session-handoff.md
+.idea/
+.env
+.env.*
+!.env.example
+dist/
+node_modules/
+vendor/bundle/
+.bundle/
+.wrangler/

@@ -1,0 +1,252 @@
+= recordings
+:includedir: _includes
+:imagesdir: ./images
+:icons: font
+:toc: left
+:toc-title:
+:nofooter:
+:sectnums:
+:figure-caption!:
+:sectnums!:
+:docinfo: shared
+:linkcss:
+:copycss!:
+:stylesheet: theme.css
+:stylesdir: /current-theme
+
+link:/../index.html[icon:home[]] 
+
+== solo
+
+.two songs and one
+[none]
+* Marianne Schuppe, voice, lute, uber-bows
+* Digital Cd (Mai 2020)
+* label : https://www.cafeoto.co.uk/shop/marianne-schuppe-two-songs-and-one/[Takuroku]
+* https://www.cafeoto.co.uk/shop/marianne-schuppe-two-songs-and-one/[order]
+* image:cover-2-songs-1.jpg[width=25%,link=https://www.cafeoto.co.uk/shop/marianne-schuppe-two-songs-and-one/]
+
+[[nosongs]]
+.nosongs
+[none]
+* Marianne Schuppe, voice, lute, uber-bows
+* Audio Cd (Mai 2018)
+* Anzahl Disks/Tonträger: 1
+* label : https://www.wandelweiser.de/_e-w-records/_ewr-catalogue/ewr1802.html[edition wandelweiser (2018)]
+* icon:file[link=pdf/text nosongs.pdf] lyrics
+* link:/../index.html#contact[order via email]
+* image:ewr1802.jpg[link=https://www.wandelweiser.de/_e-w-records/_ewr-catalogue/ewr1802.html]
+
+[[slowsongs]]
+.slow songs
+[none]
+* Marianne Schuppe, voice, lute, e-bows
+* Audio Cd (November 2015)
+* Anzahl Disks/Tonträger: 1
+* label : http://www.wandelweiser.de/_e-w-records/_ewr-catalogue/ewr1509.html[edition wandelweiser (2016)]
+* nominated for Preis der Deutschen Schallplattenkritik 2016
+* icon:file[link=pdf/text slow songs.pdf] lyrics
+* link:/../index.html#contact[order via email]
+* image:ewr1509.jpg[link=http://www.wandelweiser.de/_e-w-records/_ewr-catalogue/ewr1509.html]
+
+[[feldman]]
+.Three Voices / Morton Feldman
+[none]
+* Marianne Schuppe, Stimme
+* Audio CD (1. Januar 2007)
+* Anzahl Disks/Tonträger: 1
+* Label: Col Legno
+* Dauer: 50'
+* icon:file[link=pdf/booklet three voices.pdf] booklet (extract) by Thomas Meyer
+* link:/../index.html#contact[order via email]
+* image:feldmanCD.jpg[link=images/feldmanCD.jpg]
+
+[[scelsi]]
+.Incantations / Giacinto Scelsi
+[none]
+* Marianne Schuppe, Stimme
+* Audio CD (1. Januar 2005)
+* Anzahl Disks/Tonträger: 1
+* Label: New Albion
+* Dauer: 51'
+* Hô - Taiagarù - Sauh I-IV: The Art of Song of Giacinto Scelsi (1905-1988)
+* icon:file[link=pdf/booklet scelsi.pdf] booklet (extract) by Michael Kunkel
+* link:/../index.html#contact[order via email]
+* image:scelsiCD.jpg[link=images/scelsiCD.jpg]
+
+[[hexperiment]]
+.Hexperiment I
+[none]
+* Wolfram Berger, Lesung
+* Marianne Schuppe, Avers - für Stimme und Laute
+* Audio CD (2010)
+* Anzahl Disks/Tonträger: 1
+* Label: Hexperimente
+* Dauer: 51'
+* icon:file[link=pdf/Interview hexperimente.pdf] booklet (interview) by Corinne Holz
+* image:hexperiment1CD.jpg[link=images/hexperiment1CD.jpg]
+
+== Duo / Trio
+
+.a direction out there, readwalking (with) thorau
+[none]
+* by Emmanuelle Waeckerlé, Marianne Schuppe, Voice, Stefan Thut, Viol
+* Edition Wandelweiser https://www.wandelweiser.de/_e-w-records/_ewr-catalogue/ewr2109-10.html[2109/10]
+* June 2021
+* image:ewr2109-10.jpg[link=images/ewr2109-10.jpg, width=35%]
+
+[[selbdritt]]
+.selbdritt - von hier / Trio Selbdritt
+[none]
+* Marianne Schuppe, Stimme, Sylwia Zytynska, Vibraphon, Alfred Zimmerlin , Violoncello
+* Audio CD (12. Januar 2007)
+* Anzahl Disks/Tonträger: 1
+* Label: stv/asm experimentell
+* Dauer: 52'
+* icon:file[link=pdf/booklet selbdritt.pdf] booklet (extract) by Edu Haubensak
+* link:/../index.html#contact[order via email]
+* image:selbdrittCD.jpg[link=images/selbdrittCD.jpg]
+
+[[wandern]]
+.wandern
+[none]
+* Marianne Schuppe, Stimme und Text, Willy Daum, Tonband
+* Audio CD (1996)
+* Anzahl Disks/Tonträger: 1
+* Dauer: 38'48"
+* image:wandernCD.jpg[link=images/wandernCD.jpg]
+
+.mundraub
+[none]
+* Marianne Schuppe, Stimme, Christoph Schiller, Klavier
+* Audio CD (1994)
+* Anzahl Disks/Tonträger: 1
+* Label: hybid
+* Dauer: 59'14"
+* link:/../index.html#contact[order via email]
+* image:mundraubCD.jpg[link=images/mundraubCD.jpg]
+
+== Ensemble
+
+.Laconnex series
+[none]
+* insub ensemble and Marianne Schuppe
+* composition and voice: Marianne Schuppe
+* https://insub.bandcamp.com/track/marianne-schuppe-laconnex-serie-insub8tet-1[digital release]
+* image:Laconnex.jpg[link=images/Laconnex.jpg, width=35%]
+
+.Rito / G. Scelsi - Pranam I & II, Khoom a.o.
+[none]
+* Marianne Schuppe, voice, Ensemble Phoenix Basel directed by Jürg Henneberger
+* Audio Cd (2014)
+* Dauer : 56:19
+* Label : telos
+* link:/../index.html#contact[order via email]
+* image:rito.jpg[link=images/rito.jpg]
+
+.Kärpf
+[none]
+* Schuppe, Tammen, Vorfeld, Wolf
+* Audio CD (2010)
+* Anzahl Disks/Tonträger: 1
+* Dauer : 58:28
+* Label: handaxe
+* link:/../index.html#contact[order via email]
+* image:handaxe.jpg[link=images/handaxe.jpg]
+
+
+.Rhön ensemble 2 INCQ
+[none]
+* Marianne Schuppe, Stimme, Joachim Zoepf, Sopransaxophon, Bassklarinette, Margrit Trescher, Querflöte, Dirk Marwedel, Erweitertes Saxophon, Hans Tammen, Gitarre, Elektronik, Ulrich Böttcher, Elektronik, Ulrich Phillipp, Kontrabass, Georg Wolf, Kontrabass, Michael Vorfeld, Perkussion, Wolfgang Schliemann, Perkussion
+* Audio CD (2006), Anzahl Disks/Tonträger: 1
+* Label: NURNICHTNUR, Dauer: 66'19"
+* link:/../index.html#contact[order via email]
+* image:incqCD.jpg[link=images/incqCD.jpg]
+
+.Markus Eichenberger's Domino concept for Orchestra
+[none]
+* Marianne Schuppe, voice, Dorothea Schürch, voice, Carlos Baumann, trumpet, Paul Hubweber, trombone, Carl Ludwig Hübsch, tuba, Markus Eichenberger, clarinets, Dirk Marwdel, extended saxophones, Helmut Bieler-Wendt, violin, Charlotte Hug, viola, Peter K Frey, double bass, Daniel Studer, double bass, Frank Rühl, electric guitar, Ivano Torre, percussion
+* Audio CD (2003), Anzahl Disks/Tonträger: 1
+* Label: emanem, Dauer: 59'03"
+* link:/../index.html#contact[order via email]
+* image:dominoCD.jpg[link=images/dominoCD.jpg]
+
+== interdisciplinary works
+
+.Hitzewelle
+[none]
+* Andrea Wolfensberger, Konzept und Bild, Marianne Schuppe, Komposition und Stimme, Peter Vittali, Tontechnik
+* 5er Video DVD (s/w) Auflage (2004)
+* Anzahl Disks: 1
+* Dauer: 29'
+* icon:file[link=pdf/hitzewelle.pdf] text
+* image:hitzewelleDVD.jpg[link=images/hitzewelleDVD.jpg]
+
+
+.Luftbeschriftungen - Unterwegs in Kyrgyzstan, Aufzeichnungen einer musikalischen Forschungsreise Kyrgyzstan 2001
+[none]
+* CD 1
+[none]
+** Improvisationen, Kyrgyzstan 2001
+** Marianne Schuppe, Stimme, Sebastian Mattmüller, Stimme
+** Willy Daum, Bandoneon, Michael Maierhof, Cello
+** Wolfgang Schliemann, Perkussion, Nurlan Nyshanov, Flöten, Okarina
+** Temir Komuz, Maultrommel, Kniegeige
+* CD 2
+[none]
+** Fundstücke zentralasiatischer Musik
+** Feldaufnahmen aus Kyrgyzstan mit Musik aus Kyrgyzstan , Kazachzstan, Usbekistan, Tadschikistan, Aserbaidschan, Mongolei
+* Hardcover, 53 Seiten mit Tonträger Audio CD (2002)
+* Anzahl Disks/Tonträger: 2
+* Dauer: CD1 54'16" , CD2 51'32"
+* link:/../index.html#contact[order via email]
+* image:kyrg.jpg[link=images/kyrg.jpg]
+
+.Jakobs Stimme
+Jakob Tschopp erzählt aus seinem Leben als Beobachter, Protokollant und Sympathisant der Werkräume Basel.
+Ein Tondokument zur Geschichte des Werkraums Warteck Basel
+[none]
+* Jakob Tschopp,Text und Stimme
+* Marianne Schuppe, Konzept und Realisation
+* Audio CD (2000), Anzahl Disks/Tonträger: 1
+* Dauer: 66'
+* image:jakob.jpg[link=images/jakob.jpg]
+
+
+https://soundcloud.com/marianne-schuppe[Marianne Schuppe on soundcloud]
+
+.edition wandelweiser
+[none]
+* http://www.wandelweiser.de/_e-w-records/_ewr-catalogue/ewr1509.html[slow songs]
+* https://www.wandelweiser.de/_e-w-records/_ewr-catalogue/ewr1802.html[nosongs]
+
+
+.col legno
+[none]
+* Morton Feldman-Three Voices
+
+
+.soundcloud
+[none]
+* https://soundcloud.com/cafeoto/ewr1509-marianne-schuppe-i-see-a-deer[cafe oto - slow songs]
+* https://soundcloud.com/cafeoto/ewr-1802-marianne-schuppe-april-from-nosongs[cafe oto - nosongs]
+* https://soundcloud.com/cafeoto/tr024-marianne-schuppe-deux?in=cafeoto/sets/takuroku[cafe oto - deux]
+
+
+
+.Youtube
+[none]
+* https://www.youtube.com/watch?v=3Kml5kW9nJE[Giacinto Scelsi / Taiagarù I]
+* https://www.youtube.com/watch?v=wjguTpbOvdo[Giacinto Scelsi / Taiagaru II]
+* https://www.youtube.com/watch?v=8C4zzonQ5IM[Giacinto Scelsi / Sauh I-IV]
+* http://www.youtube.com/watch?v=33WK3zcUgkg[Luigi Nono / Guai ai gelidi mostri]
+* http://www.youtube.com/watch?v=-5esds9MCls[Roland Dahinden / Das Blatt von Agnes]
+
+
+
+.More
+[none]
+* http://www.ccma.cat/catradio/alacarta/espais-oberts/marianne-schuppe/audio/926842/[Portrait on Espais oberts Catalunya Radio June 28, 2016]
+
+
+link:/../index.html[icon:home[]] 

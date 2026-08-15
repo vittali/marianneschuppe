@@ -1,0 +1,921 @@
+= now & then
+:includedir: _includes
+:imagesdir: ./images
+:icons: font
+:toc: left
+:toc-title:
+:nofooter:
+:sectnums:
+:figure-caption!:
+:sectnums!:
+:docinfo: shared
+:linkcss:
+:copycss!:
+:stylesheet: theme.css
+:stylesdir: /current-theme
+
+link:/../index.html[icon:home[]]
+
+[%hardbreaks]
+.little luggage residency
+august 24/25
+Elisabeth Smalt, viola
+Reinier van Houdt, keyboard instruments
+Marianne Schuppe, voice, composition
+NL - Orgelpark Amsterdam
+
+[%hardbreaks]
+.little luggage
+august 18-22
+Klangraum Düsseldorf
+Himmelgeisterstr. 107g
+40225 Düsseldorf
+
+[%hardbreaks]
+.music from words
+rencontre de la création musicale GMEA
+June 30–July 2
+Abbaye de Sylvanès, France
+
+[%hardbreaks]
+.translating übersetzen
+Symposion Le Puid
+June 25–28
+88210 Le Puid, France
+
+[%hardbreaks]
+.petit baggage
+{sp}31. Mai, 18.30
+in der Ausstellung _derive_ von Anne-Do Hubert
+Kraftstr 11, 4058 Basel
+
+[%hardbreaks]
+.only
+Alice Belugou, Lukas Huber, Marianne Schuppe
+March 27, 2026, Theatergarage Basel
+March 30, 2026, Theater Lübeck
+
+[%hardbreaks]
+.Two Paths - Cd relase 
+_Aus dem Zeltbuch_ - Marianne Schuppe, Deborah Walker
+Occam River XXIX - Eliane Radigue
+March 30, 2026
+https://www.elsewheremusic.net/news/upcoming-release-elsewhere-038[elsewhere records]
+
+[%hardbreaks]
+.Residency 
+Denis Schuler, composition
+Juliet Fraser, voice
+Marianne Schuppe, voice
+Clara Levy, violin
+February 10-12, 2026 
+GMEM Marseille
+
+== 2025
+
+[%hardbreaks]
+.little luggage
+neue Textveröffentlichung im Klingental Verlag
+Lesung Sonntag, 7.12. 19h
+Klingentalstrasse 72, 4057 Basel
+
+
+[%hardbreaks]
+.only
+Samstag, 15.11.25, 20h30
+Kammeroper von und mit Lukas Huber, Alice Belugou, Marianne Schuppe, Stimmen
+ignm Zürich, Kunstraum Walcheturm 
+Kanonengasse 20, 8004 Zürich
+
+
+[%hardbreaks]
+.Doubleconcert
+November 1, 8pm
+Marianne Schuppe, voice, lute, bows
+and
+Marina Tantanozi, flute, bass flute
+Frantz Loriot, viola
+Philipp Eden, prepared piano, objects
+Musikatelier Warteck
+Burgweg15, 4058 Basel
+
+
+[%hardbreaks]
+.symposion 'shared authorship'
+August 28-31
+Yannick Guédon (BE)
+Sébastien Roux (F)
+Marianne Schuppe (CH)
+Stefan Thut (CH)
+Deborah Walker (D)
+Le Puid, France
+
+[%hardbreaks]
+.only 
+Samstag, 24.5.25, 20h
+Fachwerk Allschwil
+Kammeroper von und mit Lukas Huber, Alice Belugou, Marianne Schuppe, Stimmen
+
+[%hardbreaks]
+.only 
+Dienstag, 20.5.25, 20h 
+Gare du Nord Basel
+Kammeroper von und mit Lukas Huber, Alice Belugou, Marianne Schuppe, Stimmen
+
+[%hardbreaks]
+.entrevoix
+Sonntag, 18.5.25, 11h Klosterkirche Sursee
+Sonntag, 18.5.25, 17h Kapelle Ermensee
+Stefanie Erni und Marianne Schuppe, Stimmen
+
+[%hardbreaks]
+.Marianne Schuppe - Salz, Lücke, Zelt
+Montag, 5.5.25, 19h
+Zwinglikirche Biel-Bözingen
+Ensemble Voce, Stimmen
+
+[%hardbreaks]
+.Marianne Schuppe, Stimme solo
+Sonntag, 27.4.25, 16h
+Kirche Küstrinchen, D - 17279 Küstrinchen
+
+[%hardbreaks]
+.Aus dem Zeltbuch
+Dienstag, 11.2.25, 20h30
+Marianne Schuppe, voice
+Deborah Walker, cello 
+Doppelkonzert mit Yannick Guédon, solo voice
+KM 28
+Karl-Marx-Straße 28 12043 Berlin
+
+[%hardbreaks]
+.wippe
+Samstag, 25.1.25, 19h30
+neue Textpublikation im Verlag Klingenthal
+Lesung
+Klingentalstr. 72, 4057 Basel
+
+== 2024
+
+[%hardbreaks]
+.occam river XXIX / Aus dem Zeltbuch
+Eliane Radigue / Walker/Schuppe 
+Marianne Schuppe, voice
+Deborah Walker, Cello
+November 2
+Festival https://zoominfestival.ch/html/2024/[Zoom in]
+Große Reithalle Bern
+
+[%hardbreaks]
+.a day in july
+https://www.gmea.net/artistes/article/marianne-schuppe[Residenz GMEA]
+with Stefan Thut
+October 20-25
+Albi, France
+
+[%hardbreaks]
+.colline en air
+solo, 27.September
+https://www.literatursommer.de/de/auftakt-des-lautpoesie-festivals-2024[Lautpoesiefestival Literaturhaus Freiburg]
+
+[%hardbreaks]
+.colline sur livre
+solo, 21. September, 17 Uhr
+Maison 44, Steinenring 44, 4051 Basel
+
+[%hardbreaks]
+.Salz, Lücke, Zelt (2018)
+Ensemble Voce
+22. September, 17h00
+Predigerkirche, Basel
+
+[%hardbreaks]
+.Salz, Lücke, Zelt (2018)
+Ensemble Voce
+15. September 16h00
+Klosterkirche, Ilanz CH
+
+[%hardbreaks]
+.entrevoix
+Stefanie Erni, voice
+Marianne Schuppe, voice
+21. Juni, 20h
+Atelierkonzert Alemannengasse 44 4058 Basel
+
+[%hardbreaks]
+.Salz, Lücke, Zelt (2018)
+Ensemble Voce
+26. Mai 17h00
+Kirche Ligerz, CH
+
+[%hardbreaks]
+.Cornelius Cardew - The Great Learning
+Performance of all 7 parts with 7 choirs and soloists
+May 26,10am - 10 pm
+Pauluskirche Basel 
+https://www.ignm-basel.ch/[ignm Basel]
+
+[%hardbreaks]
+.entrevoix
+Stefanie Erni and Marianne Schuppe, Schuppe, voices
+Festival https://archipel.org/fr/program/entrevoix[Archipel], Genève
+April 21, 7 pm, 2024
+Théâtre Pitoeff, Genève
+
+[%hardbreaks]
+.coline sur livre - we need change she says
+premiered and commissioned by Festival https://archipel.org/fr/program/marianne-schuppe[Archipel], Genève
+April 14, 7 pm, 2024
+Théâtre Pitoeff, Genève
+{nbsp}
+image:archipel.jpg[link=images/archipel.jpg, width=50%]
+{nbsp}
+{nbsp}
+
+== 2023
+
+[%hardbreaks]
+.CD release Dante Boon - duos
+_ruht nicht aus_,
+Marianne Schuppe, voice & piano
+Dezember 2023
+https://wandelweiser.de/_e-w-records/_ewr-catalogue/ewr2304.html
+
+
+[[buch]]
+[%hardbreaks]
+.The gently contested area between words and music
+Konzert und Buchpräsentation _colline en air_, 
+Marianne Schuppe, Stefanie Erni, Stefan Thut, Andrea Wolfensberger
+{sp} 8.11.2023 19.30 Uhr
+Gare du Nord Basel
+
+[%hardbreaks]
+.colline en air
+Erscheinungsdatum der Buchveröffentlichung: colline en air; mit Zeichnungen von Andrea Wolfensberger
+{sp} 30. Oktober 2023
+http://www.editionhoweg.ch/schuppe-marianne/[Edition Howeg Zürich]
+Photo: Vincent Hofmann
+
+image::buch.jpg[width=30%, align="center",link=images/buch.jpg]
+{nbsp}
+{nbsp}
+
+[%hardbreaks]
+.behind (2020).
+for voice and two instrumensts
+October 21, 2023
+Portland, Oregon
+https://extraditionpdx.com[extradition]
+
+
+[%hardbreaks]
+.entrevoix
+Stefanie Erni und Marianne Schuppe, Stimmen
+Atelierkonzert zum 30 jährigen Juniläum Werkraum Warteck
+Sonntag, 17.9. 11 Uhr 
+Burgweg 15, 4058 Basel
+
+[%hardbreaks]
+.Ersungene Lieder.
+Portrait von Thomas Meyer in der Septemberausgabe von https://jazznmore.ch/archiv/[Jazzn'more, Ausgabe 05-2023, Seite 54]
+
+[%hardbreaks]
+.lyrics of nosongs
+https://wryawry.bigcartel.com/product/luigi-ten-co-3[poetry journal] Luigi Ten Co Issue no.3, 
+August 23
+Colorado 
+
+[%hardbreaks]
+.occam river XXIX (UA)
+von Eliane Radigue
+sowie _Aus dem Zeltbuch_ von Walker/Schuppe (UA)
+{sp} 26. April 20h30
+Kunstraum Walcheturm, Zürich
+ignm Zürich
+
+[%hardbreaks]
+.a day in july
+Stefan Thut, Marianne Schuppe
+{sp} 25. März
+Zieblandstraße 45, 80798 München
+Klang im Dach, München
+
+[%hardbreaks]
+.a day in july ( 2022)
+Stefan Thut, Violoncello
+Marianne Schuppe, Stimme
+{sp} 12. Februar 19h00, 2023
+Theater Delly, Gerberngasse 11, Solothurn
+Doppelkonzert mit Tao Vrhovec Sambolec
+Margins of listening (2015)
+
+== 2022
+
+[%hardbreaks]
+.entrevoix
+Stefanie Erni, Stimme
+Marianne Schuppe, Stimme
+{sp} 10. Dezember 17h00, 2022
+Schlosserei Nenniger, Zürich
+
+[%hardbreaks]
+.Solo Duo Trio
+Eva-Maria Karbacher, Saxophone
+Lara Süss, Stimme, FX
+Marianne Schuppe, Stimme
+{sp} 19. November 17h00
+Wilde Gallery, Angensteinerstrasse 37, 4052 Basel
+
+[%hardbreaks]
+.Salz, Lücke, Zelt (2018)
+Ensemble Voce
+{sp} 13. November 17h00
+Konzertzyklus St. Franziskus Zürich
+
+[%hardbreaks]
+.Rebecca Lane, Catherine Lamb, Stefan Thut, Marianne Schuppe, Clara de Asis
+November 6, 19h00
+Säulenhalle Solothurn
+
+[%hardbreaks]
+.Stefan Thut and Marianne Schuppe
+{sp} October 29th, 20h15
+Amsterdam Wandelweiser Festival
+Orgelpark Amsterdam
+
+
+[%hardbreaks]
+.residency walking in air
+Will Montgomery, Stefan Thut, Emmanuelle Waeckerle, Carol Watts, Silvia Alexandra Schimag, Antoine Beuger, Leni Dipple, Marianne Schuppe
+Centre de Livres des artistes
+September 8-11
+St. Yrieux la Perche, France
+
+[%hardbreaks]
+.composers meet composers
+Els van Riel, Stefan Thut, Emmanuelle Waeckerle, Antoine Beuger, Marianne Schuppe
+August 8-14
+Le Puid, France
+
+[%hardbreaks]
+.entrevoix
+Stefanie Erni, voice
+Marianne Schuppe, voice
+{sp}10. Juli
+Biennale d'Art, sentier des passeurs
+F- 88210 Quiex / Le Saulcy
+
+[%hardbreaks]
+.Salz, Lücke, Zelt (2018)
+von Marianne Schuppe
+Ensemble https://vokalkunst.ch/vokalkunst/termine/[Voce]
+Samstag, 2. Juli, 19:30: Stadtkirche, Aarau
+Mittwoch, 29. Juni, 19:30: Herz-Jesu-Kirche, Laufen
+Sonntag, 26. Juni, 17:00: Kulturkirche am See, Berlin
+
+[%hardbreaks]
+.Laconnex series (UA)
+for and with https://insub.org/polytopies/[insub] ensemble
+{sp}19.-21. Juni
+recording and performance
+Laconnex /GE
+
+[%hardbreaks]
+.Die Glocke (UA)
+Konzeption : Vincent Hofmann und Simon Kindle
+Partitur : Lukas Huber und Marianne Schuppe
+mit Lukas Huber, Vincent Hofmann, Simon Kindle, Barbara van der Meulen, Marianne Schuppe
+{sp}17./18. Juni
+Kloster Dornach, Amthausstrasse 7, 4143 Dornach
+
+[%hardbreaks]
+.Ungehörte Ordnungen
+Marianne Schuppe, Stimme
+Sergej Tchirkov, Akkordeon
+Alfred Zimmerlin, Violoncello
+{sp}20. Mai 19.30
+Maison 44, Steinenring 44, 4051 Basel
+
+[%hardbreaks]
+.colline sur livre
+_Knickse Fäden Windpapier_
+Marianne Schuppe, Stimme, Laute, Uber-bows
+{sp}25. März 19.30, 2022
+Maison 44, Steinenring 44, 4051 Basel
+
+== 2021
+
+[%hardbreaks]
+.anon - inner core - colline sur livre
+Thut - Schuppe - Kilchenmann
+spielen eigene Stücke
+Marianne Schuppe, Stimme
+Stefan Thut, Cello
+Marc Kilchenmann, Fagott und mikrotonales Glockenspiel
+6.Dezember  19 Uhr
+_Montags um Sieben_
+Alleestr. 11, 2503 Biel/Bienne
+
+[%hardbreaks]
+.Die Summe
+13.November  17 Uhr
+Sud, Werkraum Warteck
+Burgweg 7, 4058 Basel
+
+[%hardbreaks]
+.Zwei Stimmen
+Stefanie Erni, Marianne Schuppe
+24.Oktober  17 Uhr
+Atelier Judith Eckert
+Kirchgasse 7, 4118 Rodersdorf
+
+[%hardbreaks]
+.Die Summe 21, für Chöre und Einzelstimmen
+8.-19. September 21, Festival ZeitRäume, Basel
+
+[%hardbreaks]
+.colline sur livre
+Marianne Schuppe, Stimme
+{sp}3.-8. August, Klangraum Düsseldorf, Himmelsgeisterstr.107, 40225 Düsseldorf
+
+[%hardbreaks]
+.Salz. Lücke, Zelt (2018)
+von Marianne Schuppe
+Ensemble https://vokalkunst.ch/vokalkunst/termine/[Voce]
+{sp}4. Juli, 17h00 Predigerkirche Basel
+
+[%hardbreaks]
+.readwalking - a direction out there
+by Emmanuelle Waeckerlé
+with Marie-Cécile Reber, electronics, Emmanuelle Waeckerlé, voice
+Stefan Thut, viol, Marianne Schuppe, voice
+{sp}6. Juni, 19h00 Säulenhalle Solothurn
+
+[%hardbreaks]
+.Salz. Lücke, Zelt (2018)
+von Marianne Schuppe
+Ensemble https://vokalkunst.ch/vokalkunst/termine/[voce]
+{sp}5. Juni, 19.30 Predigerkirche Basel
+
+[%hardbreaks]
+.afore - inner core - behind
+Thut - Schuppe - Kilchenmann +
+play works by themselves
+Marianne Schuppe, voice +
+Stefan Thut, cello +
+Marc Kilchenmann, bassoon and microtonal chimes +
+November 5  http://www.serenawey.ch/index.php?id=2[Theatergarage Basel]
+September 3  https://www.walcheturm.ch/agenda/trio-thut-schuppe-kilchenmann-afore-inner-core-behind[Kunstraum Walcheturm Zürich]
+
+== 2020
+
+.workshop Stimmimprovisation im Masterstudiengang Freie Improvisation FHNW Basel
+30.10 - 1.11. 2020 +
+Werkstattkonzert der Studierenden +
+{empty}1. November 15h00, Klaus Linder Saal, Leonhardstrasse 6, 4009 Basel
+
+.Stimme - Körper- Räume
+[%hardbreaks]
+Keynote Hochschule für Architektur Basel FHNW
+Masterstudiengang Architektur
+{sp}29. Mai 2020
+
+.still light
+[%hardbreaks]
+Emmanuelle Waeckerle and Marianne Schuppe, composition and voices
+Klangraum Düsseldorf,  Himmelsgeisterstr.107, 40225 Düsseldorf
+{sp}27.7-2.8. 2020
+
+.Improvisation
+[%hardbreaks]
+Stefanie Erni, Voice, Marianne Schuppe, Voice
+https://klangbang.wordpress.com/[Klangbang], Solothurnerstr.4, 4053 Basel
+{sp}14. Februar 2020
+
+== 2019
+
+.Giacinto Scelsi (Hô) and a new work by myself
+[%hardbreaks]
+Solo Concert in der Ausstellung von Andrea Wolfensberger
+Rotonde, Große Kunstschau, Worpswede
+{sp}6. Dezember 2019
+
+.so what? ein Endstück
+[%hardbreaks]
+Bettina Helmrich, Miranda Glickson,
+Tanz, Marianne Schuppe, Sprache, Georg Wolf, Kontrabass, Wolfgang Schliemann, Perkussion
+Dok 4 Halle, Kassel
+28./29./30.November 2019
+
+.Marianne Schuppe - der blumen
+[%hardbreaks]
+weitere Werke von Eva- Maria Houben, Karin Rehnqvist, Kassia, Yoko Ono, Meredith Monk u.a.
+Chor Superterz, Ltg. Antoine Beuger
+Johanneskirche Köln-Brück
+17.{sp} November 2019
+
+.Hausen
+[%hardbreaks]
+Leo Hofmann und Benjamin van Bebber
+mit den Gästen Jürg Kienberger, Alla Poppersoni und Marianne Schuppe,
+11.{sp} - 20. Oktober 2019
+Cabaret Voltaire, Zürich
+
+image:Hausen.jpg[width=40%,link=images/Hausen.jpg]
+
+.Die Summe 19 (UA)
+[%hardbreaks]
+für Chöre und Einzelstimmen
+in öffentlichen Räumen
+10.-19. September 2019
+Festival ZeitRäume Basel
+
+.composers meet composers
+[%hardbreaks]
+https://www.wandelweiser.de/composers_meet_composers/composers_meet_composers_2019.html[heim.art Neufelden,A]
+mit Antoine Beuger, Jürg Frey, Emmanuelle Waeckerle, Joachim Eckl, Marianne Schuppe
+June 23-30, 2019
+
+.Marianne Schuppe - Salz, Lücke, Zelt (UA) für 8 Stimmen
+[%hardbreaks]
+weitere Werke von Yagüe, Rautavaara, Pärt, Handl, Palestrina u.a.
+https://vokalkunst.ch/vokalkunst/projekte/[Ensemble Voce]
+15.Juni 2019 19.30 Uhr La Collégiale St. Ursanne
+16.Juni 2019 17 Uhr Kirche Amsoldingen
+17.Juni 2019 19.30 Uhr Predigerkirche Basel
+
+
+.Marianne Schuppe - der blumen
+[%hardbreaks]
+weitere Werke von Eva- Maria Houben, Karin Rehnqvist, Kassia, Yoko Ono, Meredith Monk u.a.
+Chor Superterz, Ltg. Antoine Beuger
+Epiphaniaskirche Köln-Bickendorf
+16.{sp} Juni 2019
+
+.afore - inner core - behind
+[%hardbreaks]
+Marianne Schuppe, Stimme, Marc Kilchenmann, Fagott, Stefan Thut, Violoncello
+Münster Bern, Gewölbessal Daniel Heintz
+17.{sp} Mai 2019
+
+
+.Marianne Schuppe - Slow songs, nosongs
+[%hardbreaks]
+Solo
+Dock Basel
+25.{sp} Januar 2019
+
+.Marianne Schuppe - notes from the hill and other works
+[%hardbreaks]
+solo and duo with Antoine Beuger
+cosy nook, London
+January 12. 2019
+
+.Marianne Schuppe - Slow songs, nosongs
+[%hardbreaks]
+https://www.cafeoto.co.uk/events/marianne-schuppe-slow-songs-nosongs/[slow songs], https://www.cafeoto.co.uk/events/marianne-schuppe-slow-songs-nosongs/[nosongs]
+Cafe Oto, London
+January 9, 2019
+
+== 2018
+
+.workshop Stimmimprovisation im Masterstudiengang, Freie Improvisation FHNW Nordwestschweiz
+[%hardbreaks]
+Musikakademie Basel
+26.-28. Oktober 2018
+Werkstattkonzert Sonntag, 28.10.
+
+.afore - inner core - behind, to collect and to recite
+[%hardbreaks]
+Marianne Schuppe Stimme, Marc Kilchenmann, Fagott, Stefan Thut, Cello
+und Antoine Beuger, Stimme
+{sp}17. Juni 2018
+
+.Marianne Schuppe - der blumen (UA)
+[%hardbreaks]
+Sotto Voce Vocal Collective, Buffalo NY, 2018
+St. John's Ohio City in Cleveland OH, USA, June 9th
+Fairchild Chapel in Oberlin OH , USA, June 8th
+Unitarian Universalist Church of Buffalo NY, April 29th
+
+.Ungehörte Ordnungen
+[%hardbreaks]
+Marianne Schuppe, Stimme, Alfred Zimmerlin, Violoncello
+Maison 44, Steinenring 44, 4051 Basel
+23.{sp} April, 2018
+
+.Marianne Schuppe - streifen, Improvisationen
+[%hardbreaks]
+Stefanie Erni, Stimme, Marianne Schuppe, Stimme
+Atelier Alemanengasse 44, 4018 Basel
+{sp}22. April 2018
+
+.Aufbruch nach prrrr
+[%hardbreaks]
+Ein Gesangsprojekt von Marianne Schuppe mit Schülerinnen des Gymnasiums Oberwil
+Gare du Nord, Basel
+{sp}2. März 2018
+
+.Marianne Schuppe - slow songs, nosongs
+[%hardbreaks]
+Marianne Schuppe, Stimme, Laute, Uber-bows
+Festival Zwei Tage Zeit
+Theater Rigiblick, Germaniastrasse 99, CH - 8044 Zürich
+20.{sp} Januar 2018
+
+.Morton Feldman - Three Voices
+[%hardbreaks]
+Marianne Schuppe, Stimme
+Rheinisches Landesmuseum Bonn
+13.{sp}Januar 2018
+
+== 2017
+
+.Marianne Schuppe - nosongs
+[%hardbreaks]
+Marianne Schuppe, Stimme, Laute, Uber-bows
+Musikwissenschaftliches Seminar der Universität Basel
+18.{sp}Dezember 2017
+
+.Komponistinnengespräch im Musikwissenschaftlichen Seminar
+[%hardbreaks]
+mit Marianne Schuppe
+Musikwissenschaftliches Seminar der Universität Baael
+6.{sp}November 2017
+
+.Selbdritt
+[%hardbreaks]
+Marianne Schuppe, Stimme, Sylwia Zytynska, Perkussion, Alfred Zimmerlin, Cello
+Exploratorium Berlin
+19.{sp}Oktober 20 Uhr
+
+== 2016
+
+.workshop Stimmimprovisation im Masterstudiengang, Freie Improvisation FHNW Nordwestschweiz
+[%hardbreaks]
+Hochschule für Musik Basel
+9.-11. Dezember 2016
+Werkstattkonzert 11. Dezember
+
+.Marianne Schuppe - halbhell (UA)
+[%hardbreaks]
+Erik Carlson, violin
+St. Diego, USA
+December 9, 2016
+
+.Marianne Schuppe - slow songs
+[%hardbreaks]
+for voice, lute, uber-bows
+http://hcmf.co.uk/[Huddersfield Contemporary Music Festival]
+St. Paul's Hall, Huddersfield, England
+November 24, 2016
+
+.Marianne Schuppe - slow songs
+[%hardbreaks]
+for voice, lute, uber-bows
+Konzertreihe Pavillon Wels, Austria
+November 16, 2016
+
+.Morton Feldman - Three Voices
+[%hardbreaks]
+Marianne Schuppe, voice
+Helsinki Tulkinnanvaraista Festival
+Korjaamo Cultural Factory, Helsinki
+November 6, 2016
+
+.Marianne Schuppe - notes from the hill
+[%hardbreaks]
+Sarah Cranfield, soprano, Josten Myburgh, sine-tones
+Perth, Australia
+October 8, 2016
+
+.Interpretationsforum der Hochschule für Musik Basel mit Marianne Schuppe
+[%hardbreaks]
+_you and the tube_ - Subjektive Positionen der Song-Interpretation zwischen den beiden Weltkriegen in ausgewählten Beispielen
+Hochschule für Musik Basel
+27.{sp} September 2016
+
+.Marianne Schuppe - notes from the hill (UA)
+[%hardbreaks]
+Antoine Beuger, voice, Josten Myburgh, sine-tones
+Klangraum Düsseldorf 2016
+August 21, 2016
+
+.Marianne Schuppe - ortlos über die Küste hinaus (UA)
+[%hardbreaks]
+für Stimmensemble
+RAUM, Palmenstr. 4, 4054 Basel
+8.{sp} Juni 2016
+
+.Hans-Jürg-Meier - les mots jaunes
+[%hardbreaks]
+und andere Werke
+Sarah Giger, Traversflöte, Marianne Schuppe, Stimme
+Musikpodium Zürich, Alte Cigarettenfabrik, Sihlquai 268
+27.{sp} Mai 2016
+
+.Marianne Schuppe - slow songs
+[%hardbreaks]
+101.{sp} Atelierkonzert
+Atelier Christoph Schiller, Klingentalstr. 72, 4057 Basel
+10.{sp} Mai 2016
+
+.Antoine Beuger - aus den liedern
+[%hardbreaks]
+Marianne Schuppe, Stimme
+Basel Sinfonietta
+Leitung Jonathan Stockhammer
+Stadtcasino Basel
+24.{sp} April 2016
+
+.Morton Feldman - Three Voices
+[%hardbreaks]
+Marianne Schuppe, Stimme
+Overbeckgesellschaft Lübeck, 22.{sp} Januar 2016
+Tinguely Museum Basel, 20.{sp}Januar 2016
+Kunstraum Walcheturm Zürich, 10.{sp}Dezember 2015
+
+== 2015
+
+.Marianne Schuppe - Sapphosongs (UA)
+[%hardbreaks]
+Zürcher Hochschule der Künste, 30. November 2015
+Archäologische Universität Freiburg i.B., 24. November 2015
+Mendelssohn Haus Leipzig, 13. November 2015
+Skulpturhalle Basel, 1. November 2015
+
+
+.Marianne Schuppe - slow songs, Antoine Beuger - aus den liedern
+[%hardbreaks]
+Marianne Schuppe, Stimme, Antoine Beuger, Flöte, Jürg Frey, Klarinette, Robyn Streb, Viola
+Klangraum Düsseldorf
+9.{sp}August 2015
+
+.Morton Feldman - Three Voices
+[%hardbreaks]
+Marianne Schuppe, Stimme
+Musikhochschule Zürich
+5.{sp}Juni 2015
+
+.Laub
+[%hardbreaks]
+Regula Konrad, Stimme, Marianne Schuppe, Stimme
+GNOM Baden, Berufsfachschule Martinsberg, 23. April 2015
+Centre PasqArt Biel/Bienne, 22. April 2015
+Maison 44, Basel, 18. Januar 2015
+
+.Marianne Schuppe - slow songs
+[%hardbreaks]
+Marianne Schuppe, Stimme, Laute und Uber-Bows
+Atelier im Hof, Wilhelmsstr. 21, 42781 Haan
+26.{sp}Februar 2015
+
+== 2014
+
+.Stirrings Still / Immer noch nicht mehr
+[%hardbreaks]
+nach Samuel Beckett
+mit Serena Wey und Marianne Schuppe
+Theatergarage Basel
+4.{sp}und 6. Dezember 2014
+8., 9., 10. November 2013
+30., 31. Oktober 2013
+
+.the crucial crux of words
+[%hardbreaks]
+Marianne Schuppe, Stimme, Laute, Uber-Bows
+Symposium _performing voice_ Hochschule der Künste Bern
+Dampfzentrale Bern
+27.{sp}November 2014
+
+.Die Geschichte der Musik ist die Geschichte der Dissonanz
+[%hardbreaks]
+Markus Eichenberger im Gespräch mit Thomas Meyer und Marianne Schuppe
+Alte Spinnerei Suhr
+26.{sp} November 2014
+
+.Marianne Schuppe - things in singing
+[%hardbreaks]
+Marianne Schuppe, Stimme, Laute, Uber-Bows
+Theatergarage Basel, 4.,7.,8,November 2014
+in the exhibition of Hanne Tyrmi, Haugar Verstfold Kunstmuseum, Tonsberg/Norway
+
+.Nicht bei Trost. Mikrologien. Lesung für 2 + 1 Stimme
+[%hardbreaks]
+Marianne Schuppe und Franz Dodel
+Maison 44 Basel
+3.{sp}Mai 2014
+
+.Yonder
+[%hardbreaks]
+Regula Konrad, Stimme, Marianne Schuppe, Stimme
+Maison 44 Basel
+11.{sp} April 2014
+
+.Marianne Schuppe - am Fenster
+[%hardbreaks]
+Marianne Schuppe, Stimme
+Malzsilo, Werkraum Warteck Basel
+10.{sp} April 2014
+
+.Hitzewelle
+[%hardbreaks]
+Andrea Wolfensberger (Bild) und Marianne Schuppe (Ton)
+Kunstmuseum Solothurn Werkhofstrasse 30, 4500 Solothurn
+22.{sp}2.-27. 4. 2014
+
+== 2013
+
+.Marianne Schuppe - asunder
+[%hardbreaks]
+eine Musik für Stimmen zum Stummfilm _La chute de la maison Usher_ (Jean Epstein 1928)
+Theatergarage Basel, 11. Februar 2014
+Filmpodium Zürich Zürich, 5. November 2013
+
+.Markus Eichenbergers Domino Orchestra
+[%hardbreaks]
+mit Ute Wassermann und Marianne Schuppe, Stimmen
+Exploratorium Berlin
+14.{sp} Dezember 2013
+
+.Hoffnung - Vortrag und Musik
+[%hardbreaks]
+Musik von Giacinto Scelsi und Hildegard von Bingen
+Brigitte Hillmer, Wort, Marianne Schuppe, Gesang
+Predigerkirche Basel
+9.{sp}Dezember 2013
+
+.Amparo
+[%hardbreaks]
+Marianne Schuppe, Stimmme, Dias&Riedweg, Video
+Villa de 25 de Agosto, Uruguay
+August 25, 2013
+
+.beinah
+[%hardbreaks]
+Regula Konrad und Marianne Schuppe, Stimmen
+R.A.U.M, Palmenstr.4, 4054 Basel, 24. Mai 2013
+Alte Papiermühle, Benkenstr.61, 5024 Küttigen, 25. Mai 2013
+
+.Luigi Nono - Guai Ai Gelidi Mostri
+[%hardbreaks]
+Ensemble Diagonal für Zeitgenössische Musik der Hochschule Basel,
+Leitung Jürg Henneberger
+Ulrike Andersen und Marianne Schuppe, Stimmen
+Cornelius Bohn, Live-Elektronik
+Volkshaus Basel
+19.{sp} und 20. März 2013
+
+.Morton Feldman - Three Voices
+[%hardbreaks]
+OPENING Festival für Aktuelle Klangkunst Trier
+Kultur-und Kommunikationszentrum Trier, 1.{sp} Februar 2013
+http://www.logosfoundation.org/[Stichting Logos], Gent (B), January 30, 2013
+
+== 2012
+
+.Marianne Schuppe interpretiert Giacinto Scelsi
+[%hardbreaks]
+Konzert und Lecture
+Hochschule der Künste Bern
+27.{sp}November 2012
+
+.Marianne Schuppe - solo
+[%hardbreaks]
+_zoom in_ Festival für Improvisierte Musik
+Berner Münster, Bern, 13.Oktober 2012
+Kirche Deiderode, 7.Oktober 2012
+Kirche Hubenrode / Witzenhausen, 6.{sp} Oktober 2012
+raum 22, Kilchberg BL
+Soesterkirkene pa gran, Oslo, August 18, 2012
+Villa Renata, Basel, 18. Mai 2012,
+Moments musicaux, Aarau, Sonntag, 13. November 2011
+
+.GNOM Baden, Performance _MARTINSBERG I_
+[%hardbreaks]
+Hans Koch, Bassklarinette, Jonas Kocher, Akkordeon, Hans-Jürg Meier, akustische Installation
+Dorothea Rust, Tanz, Marianne Schuppe, Stimme, Nadine Schwarz, Tanz, Ivan Wolfe, Tanz
+GNOM Baden, Haus Martinsberg, Berufsfachschule Baden BBB,
+17.{sp} Juni 2012
+
+.Giacinto Scelsi
+[%hardbreaks]
+Khoom for 7 Instruments and Voice
+Pranam I for 12 Instruments, Voice and Tape
+Ensemble Phönix Basel, Leitung Jürg Henneberger, Marianne Schuppe, Stimme
+Musée d'Art moderne et contemporain Strassbourg
+9.{sp}Februar 2012
+
+== until 2011
+
+.Morton Feldman - Three Voices
+[%hardbreaks]
+Marianne Schuppe, Stimme
+Kunsthaus Wiesbaden
+3.{sp}Dezember 2011
+
+icon:file[link=pdf/arbeiten.pdf]
+Archiv ausgewählter Arbeiten 1986-2011 / selected works 1986 - 2011
+
+link:/../index.html[icon:home[]] 

@@ -1,0 +1,417 @@
+= Extending the idea of concert
+:includedir: _includes
+:imagesdir: ./images
+:icons: font
+:toc: left
+:toc-title:
+:nofooter:
+:sectnums:
+:figure-caption!:
+:sectnums!:
+:docinfo: shared
+:linkcss:
+:copycss!:
+:stylesheet: theme.css
+:stylesdir: /current-theme
+
+link:/../index.html[icon:home[]] 
+
+
+Music began in homes, fields, courts, churches and allowed ways of gathering. Events and moments of
+singing, playing and listening, embedded in everyday life. I am looking to connect with these ways of
+gathering in a form and with a mindset, which is suitable to our time with diminishing resources and
+shifting challenges. "Ways of gathering" in my practise is:
+
+- developing performances for and with people with heterogeneous backgrounds
+- inviting to playing and listening occasions outside concert halls, in semi-private, private or public
+spaces, outdoors or indoors,
+- extending or concentrating the duration beyond well-known concert length
+- scaling down the financial and organisational overhead by radically local concepts
+
+
+'''
+
+Musik entstand in Häusern, auf Feldern, an Höfen und in Kirchen und eröffnete Möglichkeiten des
+Zusammenkommens, des Singens, Spielens und Zuhörens, eingebettet in den Alltag. Ich suche nach
+Verbindungen zu dem Gestus dieser Zusammenkünfte, in einer Form und mit einer Haltung, die unserer
+Zeit mit schwindenden Ressourcen und sich wandelnden Herausforderungen entspricht. "Ways of
+gathering" verstehe ich als:
+
+- Aufführungen für und mit Menschen mit unterschiedlichen Erfahrungshintergründen zu entwickeln
+- außerhalb von Konzerthallen, in halbprivaten, privaten oder öffentlichen Räumen, drinnen wie
+draußen, zu Hör- und Spielanlässen einzuladen
+- die Dauer über die gewohnte Konzertlänge hinaus auszudehnen oder zu verdichten
+- den finanziellen und organisatorischen Aufwand durch radikal lokale Konzepte klein zu halten
+
+== Die Summe
+
+
+image:summe1.jpg[link=images/summe1.jpg]
+
+
+*Die Summe (2019 / 2021)* +
+*Bienale ZeitRäume Basel* +
+
+10.-19.9. 2019
+und
+8.-19.9.2021
+
+Orte : Theaterplatz, Elisabethenanlage, Innenhof Kunstmuseum, Rheinsprung, Rheinufer, Münsterplatz, Bahnhof SBB, Solitudepark, Kirchplatz St. Clara, Andreasplatz, Rümelinsplatz, 
+Garten des Staatsarchiv, Rappazhof,  Rathaus Innenhof, Markthalle, Pauluskirche
+
+
+*Komposition -  Marianne Schuppe* +
+
+mit : Chor Gymnasium Oberwil, Chor Gymnasium Leonhard, Cantate Chor, Chor Kultur&Volk,  Fassnachtsclique Seibi Mysli, Ensemble Millefleurs, ChorBasel, kor., Sündicats, Junger Kammerchor Basel, pour Choeur, Jugendchor A'Tempo!, Chor Vivo, Neuer Basler Kammerchor, Alpha Singers Basiliensis, Musikklasse des Wirtschaftsgymnasiums, Musikklase des Gymnasiums Kirschgarten
+
+
+Für die Basler Biennale ZeitRäume entstand 2019 das Stimmenprojekt _Die Summe_. An zehn öffentlichen Orten in Basel versammelten sich in einem Zeitraum von 10 Tagen zu unterschiedlichen Tageszeiten größere und kleinere Menschengruppen. Sie bildeten jeweils 9 Minuten lang einen klingenden Corpus, indem sie einen einzigen Ton summten, der sich als leise tragende Klangfläche  mit den Geräuschen der Stadt mischte. Die Summe dieser 10 Töne ergab eine Melodie, die sich als fluide Skulptur punktuell durch die Stadt Basel zog.
+
+The voice project _Die Summe_ was created for the Basel Biennale ZeitRäume in 2019. Over a period of 10 days large and small groups of people gathered in ten public spaces in Basel at different times of day. They formed a sounding corpus for 9 minutes by humming a single note, blending into the sounds of the city as a quietly carrying sound surface. The sum of these 10 tones resulted in a melody that travelled through the city of Basel as an ephemeral sculpture.
+
+
+
+
+Insgesamt waren mehrere hundert Menschen an dieser Melodie beteiligt. 
+Basler Chöre und Ensembles, Schülerinnen und Schüler, eine Fassnachtsclique,
+Museumsangestellte, Menschen jeden Alters und Passant:innen.
+
+
+image:summe3.png[link=images/summe3.png]
+
+
+In total, several hundred people participated in this melody. 
+Basel choirs and ensembles, students, a Fassnacht clique,
+museum employees, people of all ages and passers-by. 
+
+
+image:summe4.png[link=images/summe4.png]
+
+9 Minuten lang lag der Ton in der Luft und verschwand dann so plötzlich wie er aufgetaucht war. 
+Ein gemeinschaftlicher Akt, der sich vielen Beteiligten so stark einprägte, daß Die Summe an der nächsten Biennale 2021 an weiteren Orten und mit einer integralen 90minütigen Aufführung der Melodie in der Basler Pauluskirche fortgesetzt wurde. 
+
+'''
+
+The sound lingered in the air for 9 minutes and then disappeared as suddenly as it had appeared. 
+A collaborative act that was so memorable for many of those involved that Die Summe was continued at the next Biennale in 2021 in other locations and with an integral 90-minute performance of the melody in St Paul's Church in Basel.
+
+image:summe5.png[link=images/summe5.png]
+
+
+Als eine Praxis des “scaling down” lädt Die Summe mitten in der Stadt zu einer musikalischen Erfahrung ein, die mit einfachsten Mitteln realisiert werden kann und einen Gegenpol zum aufwändigen Konzertbetrieb markiert.
+
+'''
+
+As a practice of ‘scaling down’ offers Die Summe a musical experience that can be realised with the simplest of means and marks an antithesis to the elaborate concert business.
+
+image:summe6.png[link=images/summe6.png]
+
+.Partitur
+
+
+image:summe8.png[link=images/summe8.png, width=50% ]
+image:summe7.png[link=images/summe7.png, width=50%]
+
+
+.Reaktionen
+Welche Wirkungen Die Summe 2019 an der Bienale ZeitRäume hinterliess, beschreibt die
+Kulturwissenschaftlerin Anja Wernicke wie folgt [1]:
+
+_Die Menschen waren berührt von der Flüchtigkeit des Summens, dem ebenso flüchtigen Gruppen-gefühl und
+der veränderten, poetischen Wahrnehmung des jeweiligen Ortes. Viele nahmen mehrfach teil, um die
+Entwicklung der Performance zu verfolgen (mal mit nur 30, mal mit 200 Summenden). Das Summen hat bei
+Mitwirkenden wie bei Zuhörenden jeweils zu einem Innehalten geführt, einem plötzlich ästhetischen Erleben
+eines ansonsten profanen Alltagsortes. Das Summen an der Grenze des Hörbaren hat etwas Zerbrechliches,
+Verletzliches, sehr Zartes transportiert und so zu einer gesteigerten Aufmerksamkeit geführt._ +
+
+{nbsp}
+Die Teilnehmerin und Kunsthistorikerin Isabel Zürcher schreibt in ihrem Rückblick auf Die Summe 2019 “Der
+Ton, die anderen und ich” [2]:
+
+_...da war kein Auditorium, unter uns Summerinnen und Summern die Grenze zwischen Mitwirken und
+Zuhören aufgehoben. Eine Meditation? Ein Selbstversuch? Die situative Komposition zur Erkundung eines
+neuen Begriffs von Gemeinschaft? Wir probten ein introvertiertes Teilen, wir summten antikonzertant, wir
+waren für ganze neun Minuten ein Bündel unauffälliger, friedfertiger Einmischung....
+Konzentriertes Innehalten überstimmt dabei den Takt zielstrebiger Tagespläne. Wann war ich
+zuletzt in der Stadt, nur so?..._ +
+
+
+Es liegt doch tatsächlich ein Widerstand im geschlossenen Mund – und im wortlos klingenden Atem zugleich
+ein Stück Gemeinschaft, die nur scheinbar stärkeren Kräften trotzt.
+
+1. Anja Wernicke - Die Summe in : Neue Musik zwischen Kuhweide und Stadtpalais S. 183-185
+in : Das Konzertpublikum der Zukunft, Hrsg. Irena Müller-Brozovic, Barbara Balba Weber.
+
+2. https://zeitraeumebasel.com/produktionen[Zeiträume]
+3. https://zeitraeumebasel.com/sites/default/files/2021-09/ZeitRa%CC%88ume%20Basel%20Katalog%202019_Innen.pdf[Katalog] S. 42-43
+4. Isabel Zürcher - Der Ton, die anderen und ich - ZeitRäume Festivalmagazin 2021 +
+icon:file[link=../works/pdf/IZ-ton.pdf] _Der Ton, die andern und ich_ von Isabel Zürcher.
+5. https://soundcloud.com/marianne-schuppe/summe?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&si=ba18a486ec7c4baa94898ad6447c3473[soundcloud]
+6. https://www.youtube.com/watch?v=FzARMc6bdE0[Trailer ZeitRäume Basel: Die Summe 21]
+
+{nbsp} +
+{nbsp} +
+{nbsp} +
+
+== Laconnex series
+
+
+Laconnex Series for 7 instrumentalists and 2 voices was created on commission by https://insub.org/[Insub Ensemble,
+Geneve] in 2022 as part of the field project https://insub.org/projet/polytopies-1/[Insub.polytopies 1].
+
+Insub.polytopies is an encounter of a musician collective and farmland looking into possible relationships
+musicians can draw with land and the potential overlapping of their specific fields as new ways of making
+music.
+
+Ensemble : Christophe Berthet, Cyril Bondi, Anouck Genthon, Antoine Läng, Rodolphe Loubatière,
+Violeta Motta, Raphaël Ortis, Laurent « d’incise » Peter, guest : Marianne Schuppe
+
+Laconnex Series took place in the night of June 20 until early morning June 21st 2022. In the hours
+between 7pm and 3am a single note was being played for 9 minutes intently balancing the
+volume with the surrounding sounds. As the environment was calming down with night falling in, the
+volume of the ensemble was accordingly getting softer towards the edge of audibility.
+Over the 8 hours of the performance a melody with long rests unfolded slowly.
+
+The performance of Laconnex Series was released with 
+https://insub.bandcamp.com/track/marianne-schuppe-laconnex-serie-insub8tet-1[insub records].
+
+
+image:extend-laconex.png[width=50%, link=images/extend-laconex.png]
+
+
+'''
+
+Laconnex series for insub ensemble
+
+In 9 parts played between 7pm and 3am. Each part is based on a single pitch.
+Players choose a place in the field* for each part in ear-distance to each other. Maybe no speaking
+between parts in the field.
+Each part consists of a sustaining soundline on one pitch with a duration of 9 minutes in unison.
+
+Any player may start. Any octaves may be chosen.
+Durations of individual sounds are long or rather long.
+Dynamics are aligned and balanced with the sound-level in the air and around the field, becoming softer
+to very soft when local sounds ease.
+Pauses are possible.
+Ending after 9 minutes without sharp cut.
+
+Voices choose vowels and consonants interacting and merging with instrumental sounds, preferably
+between the vowels a, e, i, o, u or consonants as m, n , l. Instruments without pitch-indication play white
+noise sounds.
+In 2 of the 9 parts - chosen by the 2 vocalists - voices add a texture within the instrumental sounds on the
+edge of understandability by continuos speaking in low dynamics and fluent speed. Text may be an instant
+translation or description of local sounds or situation or whatever comes to mind.
+
+All playing is embedding and superimposing the local sounds, covering and exposing them, opaque and
+transparent at the same time.
+
+[literal]
+part    I       II      III     IV      V       VI      VII     VIII    IX
+begin   7:00pm  7:50pm  8:30pm  9:25pm  10:05pm 11:10am 0:05am  1:15am  1.55am
+pitch   b       e flat  b flat  d       f       e       f       b       g
+
+If necessary times may be adjusted to weather circumstances or any other rural or urban outdoor-situation
+
+'''
+
+{nbsp} +
+{nbsp} +
+Laconnex Series für 7 Instrumentalist:innen und zwei Stimmen entstand im Auftrag des Genfer
+ https://insub.org/[Ensembles Insub], 2022 als Teil des Feldprojekts
+https://insub.org/projet/polytopies-1/[Insub.polytopies 1].
+
+Im Projekt _Insub.polytopies_ werden Beziehungen zwischen den Musiker:innen und einem Feld
+als potentielle Wege des Musikmachens erkundet.
+
+Ensemble : Christophe Berthet, Cyril Bondi, Anouck Genthon, Antoine Läng, Rodolphe Loubatière,
+Violeta Motta, Raphaël Ortis, Laurent « d’incise » Peter, Gast : Marianne Schuppe
+
+Laconnex-Series fand in der Nacht vom 20. Juni bis zum frühen Morgen des 21.Juni 2022 statt. In den
+Stunden zwischen 19 Uhr und 3 Uhr morgens wurde jeweils ein Klang 9 Minuten lang gespielt.
+Dynamisch war dieser Klang an der Umgebung zu orientieren, so daß mit zunehmender Dunkelheit die
+Lautstärke bis an die Grenze der Hörbarkeit zurückging.
+Über den Zeitraum von 8 Stunden entstand eine langsame Melodie mit langen Unterbrechungen.
+
+Laconnex Series ist beim
+https://insub.bandcamp.com/track/marianne-schuppe-laconnex-serie-insub8tet-1[Label Insub Records] erschienen.
+
+'''
+
+{nbsp} +
+{nbsp} +
+{nbsp} +
+
+== Aufbruch nach Prrr
+
+
+image:pr1.png[link=images/pr1.png]
+
+Ein Gesangsprojekt mit Schülerinnen des Gymnasiums Oberwil
+
+Aufführungen am 1. März im Gymnasium Oberwil und am 2. März 2018 im Gare du Nord, Basel
+
+Konzeption und Probenleitung : Marianne Schuppe
+
+Stimmen : Léa Angerer, Levinia Dieterle-Schneider, Laura Mächler, Aviva Rosenbaum, Alexa Rosenthaler, Kimberley Rahn, Sabrina Strösslin, Joana Trosi, Emma Wilson
+
+Saxophone : Remo Schnyder und Tobias Huber 
+
+Dauer : 50 Minuten 
+
+image:pr2.png[link=images/pr2.png]
+
+
+Eine Gruppe junger mehr oder weniger unausgebildeter Stimmen tritt in einen professionellen
+zeitgenössischen Musikkontext. Jedoch nicht mit einem bekannten Komponist*innennamen, sondern mit
+einem gemeinsam entwickelten Stück. Die von den Sängerinnen selbst gewählten unterschiedlichen Texte
+wurden in einem halbjährigen Prozess zu einem polyphonen Sprech- und Gesangsstück verwoben, in dem
+die Stimmen periodisch von zwei Saxophonen getragen wurden.
+
+
+image:pr3.png[link=images/pr3.png]
+
+
+Mit Spaß und Skepsis machen sich neun junge Frauen unter der Leitung von Marianne Schuppe 
+ins Unbekannte an den Rändern der Wörter auf. Abreiseort sind Chorprojekt und Gesangsunterricht, wie sie es aus der Schule kennen. Jetzt aber geht es woanders hin, jetzt werden Fragen gestellt. 
+Jetzt geht es dahin, wo wir noch nicht wissen, was wir singen werden und selbst Entscheidungen treffen.
+Die neun jungen Frauen sind abfahrtsbereit, sitzen - sagen wir -  im Warteraum eines Bahnhofs. 
+Sie stellen Fragen, sie tauchen in wundersame Klangfelder, sie wissen nicht weiter, es bleiben Leerstellen und es entstehen Antworten, neue Ordnungen und Inseln, im Chor, zu dritt, zu zweit, und manchmal sogar ganz allein. Begleitet werden sie von zwei Saxophonen und ihren eigenen Sprech- und Singstimmen.
+
+image:pr4.png[link=images/pr4.png]
+
+{nbsp} +
+
+*Aufbruch nach Prrrr*
+
+----
+Ich war noch nicht überall, aber es steht definitiv auf meiner Liste. Als dann aber der
+Aufbruch nach Prrrr immer näher kam, war ich mehrmals kurz davor, dieses Ziel von meiner
+Liste zu streichen. Ich wusste nicht, was mich dort und auf dieser Reise erwarten würde.
+Als unsere Reiseführerin hatte Marianne Schuppe keine leichte Aufgabe. Sie wollte uns
+dieses Abenteuer schmackhaft machen, dies aber auf eine ganz eigene Art. Frau Schuppe
+legte uns keinen ganzen Plan vor, sie gab uns lediglich Abfahrtszeiten und eine Richtung.
+Damit konnte ich zu Beginn nichts anfangen, meine Neugier wurde aber geweckt. Ich war
+sehr skeptisch, doch schliesslich sagte ich ja zu diesem Abenteuer. Nicht nur ich hatte mich
+mit dieser Reise auseinander gesetzt. Sechs Mädchen die ich aus den Gesangsstunden am
+Gymnasium Oberwil kannte, sassen mit mir im selben Boot und mit ihnen noch zwei
+Saxophonisten. Mit vielen Fragen im Gepäck machten wir uns also auf die Reise und
+betraten Neuland. Doch was wäre eine Reise ohne die Reiseführerin? So machte sich auch
+Marianne Schuppe mit uns auf den Weg.
+Im Warteraum lasen wir alle in unseren Lieblingsbüchern, es herrschte eine wunderschöne
+geheimnisvolle Stimmung. Neue und für mich unbekannte Klänge ergaben sich aus unseren
+Stimmen. Die Saxophone bildeten einen neuen Boden, den wir mit unseren Stimmen zu
+erforschen schienen. So wagten es die Ersten den Warteraum zu verlassen und bewegten
+sich so mit verschiedenen Worten auf neues Terrain, bis sich zum Schluss jeder von uns
+ihnen anschloss. Auch hier stützten uns die Saxophone. Unsere Wörter waren wie kleine
+Inseln auf dem Meer. Diese Inseln konnten nicht untergehen, weil sie von den starken Tönen
+der Saxophone gehalten wurden. Das Sprechen verwandelte sich in das Singen und das
+Singen verwandelte sich in das singende Lesen, bis wir uns aus unseren gewählten Worten
+unsere eigene Insel bauten. Als wir uns dann wieder zurück im Warteraum befanden, lasen
+wir nicht aus unseren Büchern vor, wir sangen daraus vor.
+Gemeinsam waren wir auf einer unvergesslichen Reise, die viel Konzentration und Präsenz
+erforderte. Ich bin mir nicht sicher, ob wir Prrrr wirklich gefunden haben und somit an unser
+Reiseziel gekommen sind. Dies wird wohl eine Frage sein, die jeder für sich selbst
+beantworten sollte. Für mich war Prrrr das Einlassen auf etwas Neues, auf ein Abenteuer.
+Für mich war diese Reise das Ziel und die neu gewonnene Erfahrung der Erfolg.
+----
+
+Text : Joana Trosi, Gymnasium Oberwil Klasse 3B, für die Schulzeitung _Blickfeld_ 
+
+{nbsp} +
+
+image:pr5.png[link=images/pr5.png]
+
+
+Aufbruch nach prrrr
+
+A voice project with students from the Oberwil high school
+performed March 2, 2018 in Gare du Nord Nasel
+
+Composed and directed by Marianne Schuppe
+
+Voices : Léa Angerer, Levinia Dieterle-Schneider, Laura Mächler, Aviva Rosenbaum, Alexa Rosenthaler, Kimberley Rahn, Sabrina Strösslin, Joana Trosi, Emma Wilson
+
+Saxophones : Remo Schnyder and Tobias Huber 
+
+Duration : 50 minutes 
+
+A group of young, more or less untrained voices enter a professional contemporary music context. Not
+with a well-known composer's name, however, but with a jointly developed piece. In a six-month process,
+the various texts chosen by the singers themselves were woven into a polyphonic spoken and sung piece
+in which the voices are periodically carried by two saxophones.
+
+With enthusiasm and scepticism, nine young women set off into the unknown at the edge of words. The departure point is a choir project and singing lessons, as they know it from school. But now we are going somewhere else, now we are asking questions. Now we are going somewhere where we don't yet know what we are going to sing and are making our own decisions.
+The nine young women are ready to start, sitting - shall we say - in the waiting room of a railway station. They ask questions, they dive into wondrous fields of sound, they don't know how to continue, facing gaps and answers. New orders and islands emerge, in the choir, in threes, in twos, and sometimes even completely alone. Accompanied by two saxophones and their own speaking and singing voices they encounter the edges of words.
+
+
+
+Fotos : Ute Schendel
+
+'''
+
+{nbsp} +
+{nbsp} +
+{nbsp} +
+
+
+== En plein champs
+
+_Three Voices_ - Théâtre du Crochetan, Monthey, Switzerland (2004)
+
+For the annual festival of the Swiss Composers’Association, I set the performance of _Three Voices_ into
+the evening atmosphere of a small town. While the festival programme was taking place in the concert
+hall of the Théâtre du Crochetan in Monthey, I positioned myself on the roof of the theater. When the
+programme had ended and the audience left the building and stepped out into the surrounding park, I
+began to sing _Three Voices_ from above. The speakers were placed directly below the spot where I was
+sitting. A few chairs invited people to sit down, others wandered through the park or listened from a bench
+farther away. Dusk had just begun to fall, and the sounds of the town drifted in from the distance,
+blending with my three voices.
+
+
+image:monthey.jpg[link=images/monthey.jpg, width=100%]
+
+
+Für das Jahresfestival des Schweizer Komponistenverbands versetzte ich die Aufführung von _Three
+Voices_ in die abendliche Atmosphäre einer Kleinstadt. Während das Festivalprogramm im Konzertsaal des
+Théâtre du Crochetan in Monthey stattfand, richtete ich mich auf dem Dach des Theaters ein. Als das
+Programm beendet war und das Publikum das Gebäude verließ und in den umliegenden Park hinaustrat,
+begann ich vom Dach aus _Three Voices_ zu singen. Die Lautsprecher waren unter dem Punkt platziert, an
+dem ich saß. Einige Stühle luden die Menschen zum Sitzen ein, andere gingen im Park umher oder hörten
+von einer weiter entfernten Parkbank aus zu. Die Dämmerung hatte gerade eingesetzt, und die Geräusche
+der Stadt mischten sich mit meinen drei Stimmen.
+
+
+icon:file[link=pdf/monthey.pdf] _Three Voices_ - Théâtre du Crochetan, Monthey.
+{nbsp} +
+{nbsp} +
+{nbsp} +
+
+
+== fahrzeug
+
+[%hardbreaks]
+for 14 voices
+{nbsp}
+fahrzeug was commissioned by Festival Performance Index, Basel 1995, curated by Heinrich Lüber
+{nbsp}
+an 8 hour performance from 10pm to 6am the next morning,
+Werkraum Warteck, Basel, September 9, 1995
+----
+der ton könnte die zeit sein
+der raum könnte das fahrzeug sein
+die insassen wären die gefährten
+die zuhörer die fahrzeugen
+----
+
+[%hardbreaks]
+4 people are sitting around a table under a lamp in a slightly lit room.
+A continuous soft frequency is heard. It is unclear from where that sound comes, but one might discover
+that it is just the sound of voices.
+Listeners come and go, stay, wake, sleep.
+{nbsp}
+With Christoph Schiller, Anne Schmid, Georgette Maag, Henk Tinga, Eugen Imhoff, Marianne Schuppe
+a.o.
+
+image:fahrzeug.jpg[link=images/fahrzeug.jpg, width=100%]
+
+Foto : Georg Anderhub

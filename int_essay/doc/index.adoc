@@ -1,0 +1,109 @@
+= Conversations
+:includedir: _includes
+:imagesdir: ./images
+:icons: font
+:toc: left
+:toc-title:
+:nofooter:
+:sectnums:
+:figure-caption!:
+:sectnums!:
+:docinfo: shared
+:linkcss:
+:copycss!:
+:stylesheet: theme.css
+:stylesdir: /current-theme
+
+link:/../index.html[icon:home[]]
+
+== essays
+
+
+
+.words-music-words / Wörter-Musik-Wörter
+[%hardbreaks]
+_words music words_: icon:file[link=pdf/words-music-words.pdf]
+_Wörter Musik Wörter_: icon:file[link=pdf/Wörter-Musik-Wörter.pdf], erschienen in _improfil_, Theorie und Praxis improvisierter Musik, Nr. 83, Dezember 2020
+_mots musique mots_: icon:file[link=pdf/mots-musique-mots.pdf]
+
+
+.Leuchtende Losgelöstheit
+icon:file[link=pdf/Hirayama.pdf] Nachruf auf Michiko Hirayama (1923 bis 2018) von Marianne Schuppe.
+
+.Aufzeichnen und Erinnern
+[%hardbreaks]
+https://www.diaphanes.de/titel/aufzeichnen-und-erinnern-performance-chronik-basel-19872006-3372[Musik - Performance - Bewegungen / Ein schleichender Ruck]
+Performance Chronik Basel Band II (1987-2006)
+Hg. v. Sabine Gebhardt Fink, Muda Mathis, Margarit von Büren
+Diaphanes Verlag Zürich/Berlin 2016
+
+.Without
+[%hardbreaks]
+http://www.dissonance.ch/en/archive/main_articles/1147[dissonance #134, 2016]
+Nachdenken über ein «Singen ohne ...» am Beispiel von fünf Songs des 20. Jahrhunderts
+
+.Man kann ihnen auch einfach zuhören
+icon:file[link=pdf/bürgin.pdf] Zur Arbeit der Weberin und Textildesignerin Isabel Bürgin, 2016.
+
+.Die Ahnung als Motor
+Potentiale des Vergessens
+Hrsg.von André Blum, Theresa Georgen, Wolfgang Knapp, Veronika Sellier, Königshausen und Neumann, Würzburg 2012
+
+.Die doppelte Stelle, Singen und Sprechen in der Musik G. Scelsis
+icon:file[link=pdf/Doppelte Stelle.pdf] _Verkörperungen_, Max-Planck-Institut für Wissenschaftsgeschichte, preprint 416, André Blum et al. [Hrsg.], 2011 und im Akademie Verlag, Berlin 2012
+
+.Übersetzen als Arbeitsweise
+icon:file[link=pdf/arbeitsweise.pdf] Programmnotiz zu _Hochland- Übersetzungen_, Hans-Jürg Meier, Sarah Giger, Balts Nill, Marianne Schuppe
+
+.Der Wohnwagen, Die Vorbereitung der Musik
+icon:file[link=pdf/Dieter-Nanz-Aspekte-der-freien-Improvisation.pdf] _Aspekte der freien Improvisation_ in der Musik, Hrsg. Dieter Nanz, Wolke Verlag, 2011
+
+== interviews
+
+.Parler, c'est une façon de chanter 6/2026
+Un entretien avec Marianne Schuppe par Yannick Guédon +
+icon:file[link="pdf/R&C_148_Juin 2026_Marianne Schuppe.pdf"] revue & corrigée 148 Juin 2026
+
+.Q & A with Yuko Zama and Deborah Walker about
+https://www.elsewheremusic.net/qa-with-marianne-schuppe-and-deborah-walker.html[Two Paths], Januar 2026
+
+.DIE SUMME Neun Fragen an Marianne Schuppe
+icon:file[link=pdf/summe.pdf] Zeiträume Basel 2019
+
+.Die Indianer kommen näher
+icon:file[link=pdf/dissonanz106.pdf]
+Ein Gespräch in Emails mit Michael Kunkel +
+dissonanz # 106 Juni 2009
+
+.Potentiale des Vergessens
+Ein Gespräch mit Aleida Assmann, André Blum, Wolfgang Knapp, Theresa Georgen, Marianne Schuppe und Veronika Sellier +
+du magazin, Januar/Februar 2011
+
+.Zwischen Wildnis und Zivilisation
+icon:file[link=pdf/Wildnis.pdf]
+Marianne Schuppe im Gespräch mit Corinne Holtz.
+
+
+.podcast by Krzysztof Dziuba
+Polish Radio about Slow Songs
+
+.Radio SRF: Corinne Holtz im Gespräch mit Marianne Schuppe, April 2007 – Teil 1
+audio::reflexe-part1.mp3[]
+.Teil 2
+audio::reflexe-part2.mp3[]
+
+.Radio SRF: Genie oder Scharlatan, G. Scelsi zum 100. Geburtstag, 2008 – Teil 1a
+audio::scelsi1-part1.mp3[]
+.Teil 1b
+audio::scelsi1-part2.mp3[]
+.Teil 1c
+audio::scelsi1-part3.mp3[]
+.Teil 2a
+audio::scelsi2-part1.mp3[]
+.Teil 2b
+audio::scelsi2-part2.mp3[]
+Schweizer Radio DRS 2, Corinne Holtz im Gespräch mit Fred van der Kooij und Marianne Schuppe
+
+
+© Copyright 1985-2025 by Marianne Schuppe.  All Rights Reserved. +
+link:/../index.html[icon:home[]]

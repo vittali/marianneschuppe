@@ -1,0 +1,81 @@
+= Path
+:includedir: _includes
+:imagesdir: ./images
+:icons: font
+:toc: left
+:toc-title:
+:nofooter:
+:sectnums:
+:figure-caption!:
+:sectnums!:
+:docinfo: shared
+:linkcss:
+:copycss!:
+:stylesheet: theme.css
+:stylesdir: /current-theme
+
+link:/../index.html[icon:home[]]
+
+image::erni-2-as.jpg[width=60%,link=images/erni-2-as.jpg]
+
+© Samuel Erni
+
+
+
+.english
+Marianne Schuppe is a German/Swiss performer and composer of music for voice, based in Basel. +
+Her work unfolds in the borderlands between music and language, drawing on her studies in visual arts
+and music (Hochschule Hildesheim, DE, 1979–82), Carnatic music in South India (1984), and
+contemporary vocal music with Jolanda Rodio (CH, 1984-86) and Michiko Hirayama (IT, 1988-2003). +
+Since the mid-1980s she has performed internationally as a singer of contemporary music – focussing on
+the music of Giacinto Scelsi and Morton Feldman - appearing as a soloist with ensembles such as
+Klangforum Wien and Basel Sinfonietta, and collaborating with composers including Caroline Wilkins,
+Antoine Beuger, and most recently with Éliane Radigue. +
+As a composer, she develops projects for voices, often expanding the traditional concert format.
+Her ongoing solo work for voice, lute, and a minimal set of wireless electronics ( a device called e-ponts)
+explores since 2010 a rebalancing of the ingrediants of song : slow songs (2015), nosongs (2018) and
+colline sur livre (since 2020). +
+Her catalogue includes text scores, poems, essays, and ensemble pieces, published by Col Legno, New
+Albion, Edition Wandelweiser, Telos Records, Akademie Verlag Berlin, and Edition Howeg Zürich. +
+For many years she has taught and lectured on voice and improvisation in various institutions in Switzerland, Germany, and
+Japan, and curated a concert series as president of IGNM (International Society of Contemporary Music) Basel. +
+
+'''
+
+.deutsch
+Marianne Schuppe ist eine deutsch/schweizerische Sängerin und Komponistin mit Wohnsitz in Basel. +
+Ihr Arbeitsgebiet sind die Übergänge von Musik und Sprache. Sie studierte Bildende Kunst und Musik
+(Hochschule Hildesheim, DE, 1979–82), Karnatische Musik in Südindien (1983) sowie zeitgenössische
+Vokalmusik bei Jolanda Rodio (CH, 1984-88) und Michiko Hirayama (IT, 1988-2003). +
+Seit Mitte der 1980er Jahre tritt sie international als Sängerin zeitgenössischer Musik auf – mit einem
+Schwerpunkt auf den Werken Giacinto Scelsis und Morton Feldmans – und war als Solistin mit
+Ensembles wie dem Klangforum Wien und der Basel Sinfonietta zu hören. Außerdem arbeitete sie mit
+Komponist*innen wie Caroline Wilkins, Antoine Beuger und in den letzten Jahren mit Éliane Radigue
+zusammen. +
+Als Komponistin entwickelt sie Projekte für Stimmen, oft unter Erweiterung des traditionellen
+Konzertformats. +
+Seit 2010 entwickelt sie eine solistische Arbeit mit Stimme, Laute und einem minimalen Set kabelloser
+Elektronik (ein Gerät namens e-ponts) : slow songs (2015), nosongs (2018) und colline sur livre (seit
+2020). +
+Ihre Arbeiten umfassen Textpartituren, Gedichte, Essays und Ensemblewerke, veröffentlicht bei Col
+Legno, New Albion, Edition Wandelweiser, Telos Records, Akademie Verlag Berlin und Edition Howeg
+Zürich. +
+Über viele Jahre war sie Dozentin für Stimme und Improvisation an diversen Institutionen in der Schweiz, Deutschland und Japan,
+und kuratierte als Präsidentin der IGNM (Internationale Gesellschaft Neue Musik) Basel eine Konzertreihe. +
+
+
+image::2715-as.jpg[width=60%,link=images/2715-as.jpg]
+
+© Ute Schendel
+
+image::Sylvanes.jpg[width=60%,link=images/Sylvanes.jpg]
+
+©GMEA-CNCM-Albi
+
+.Portrait von Stefan Drees
+icon:file[link=pdf/sd.pdf,label="Neue Zeitschrift für Musik März 2017"] Marianne Schuppes vokale Kunst der feinen Übergänge
+
+.Portrait von Thomas Meyer
+https://jazznmore.ch/archiv/[Jazzn'more, Ausgabe 05-2023, Seite 54]
+
+link:/../index.html[icon:home[]]
