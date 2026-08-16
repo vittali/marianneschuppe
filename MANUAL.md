@@ -1,177 +1,103 @@
-# Site Manual — marianneschuppe.com
+# Site editing manual
 
-## Quick Start
+See [README.md](README.md) for production architecture, deployment, DNS, migration,
+credentials, and rollback details.
 
-```bash
-./build.sh                        # build entire site
-python3 -m http.server 8080       # serve locally at http://localhost:8080
-```
-
-## Themes
-
-Four visual themes are available. The active theme lives in `current-theme/theme.css`.
-
-| Theme        | Description                                      |
-|--------------|--------------------------------------------------|
-| `shore`      | Warm cream background, brown tones, Lora font    |
-| `manuscript` | Near-white, small-caps headings, Crimson Text     |
-| `silence`    | Pure white, gray tones, system fonts, wide margins|
-| `dusk`       | Dark background, muted gold links, EB Garamond    |
-
-### Switching themes
+## Quick start
 
 ```bash
-./switch-theme.sh manuscript
+fnm use
+bundle install
+npm ci
+npm run build
+npm run preview
 ```
 
-Reload the browser — no rebuild needed. The CSS is linked externally, so the change is instant.
+Preview serves the clean `dist/` publication through local Wrangler. Do not serve
+or deploy the repository root.
 
-To switch back:
+## Editing content
 
-```bash
-./switch-theme.sh shore
-```
+Section sources live in `<section>/doc/*.adoc`. Generated section HTML is build
+output and should not be hand-edited. The root `index.html` is the deliberate
+exception: it is handcrafted and must be edited directly. Never generate
+`doc/index.adoc` over it.
 
-### Editing a theme
+### Add a Colline sur livre recording
 
-Open any file in `themes/` with a text editor. The CSS is organized in labeled sections:
-
-- **Body** — background color, text color, base font
-- **Typography** — headings, links, paragraphs, line-height
-- **TOC** — sidebar table of contents (appears on section pages)
-- **Tables** — used heavily on the home page layout
-- **Site navigation footer** — the cross-section nav bar
-- **Print** — print-specific overrides
-
-After editing, copy it to the active slot:
-
-```bash
-cp themes/shore.css current-theme/theme.css
-```
-
-Or create a new theme by copying an existing one:
-
-```bash
-cp themes/shore.css themes/my-theme.css
-# edit themes/my-theme.css
-./switch-theme.sh my-theme
-```
-
-## Building
-
-| Command              | What it does                                  |
-|----------------------|-----------------------------------------------|
-| `./build.sh`        | Build all sections + home page                |
-| `./build-top.sh`    | Build only the home page                      |
-| `cd csl && ./build.sh` | Build a single section                     |
-| `./propagate-style.sh` | Copy shared docinfo files to all sections  |
-
-Run `./propagate-style.sh` before `./build.sh` whenever you change:
-- `doc/docinfo.html` (head injections)
-- `doc/docinfo-footer.html` (navigation footer)
-
-## Editing Content
-
-Content lives in `<section>/doc/index.adoc` files, written in Asciidoctor markup.
-
-### Adding a new entry to Colline sur livre
-
-Open `csl/doc/index.adoc` and add below the `[[colline]]` anchor:
+Edit `csl/doc/index.adoc` and add an entry such as:
 
 ```asciidoc
 .15.2.2026
 audio::15-2-26.mp3[]
 ```
 
-Place the corresponding `.mp3` file in `csl/doc/images/`, then build:
+Place the audio in `csl/doc/images/`, then run `npm run build`. Files larger than
+25 MiB fail validation and must be compressed appropriately, hosted externally,
+or split losslessly at MP3 frame boundaries with consecutive players added to the
+source. Do not split arbitrary byte ranges.
 
-```bash
-cd csl && ./build.sh
-```
+### Add an image
 
-### Adding an image
-
-Place the image in the section's `doc/images/` directory, then reference it:
+Place it in the section's `doc/images/` directory and reference it with:
 
 ```asciidoc
 image::filename.jpg[alt text, width=50%, align="center"]
 ```
 
-For clickable full-size images:
+For a clickable full-size image:
 
 ```asciidoc
 image::filename.jpg[link=images/filename.jpg, width=50%, align="center"]
 ```
 
-Keep images under 1400px on the longest side and JPEGs at quality 80 to avoid bloating the site.
+Prefer images no larger than 1400 px on the longest side and JPEG quality around
+80 unless the work requires otherwise.
 
-## Responsive Design
+## Add a section
 
-The site targets two reference screen sizes:
+Create:
 
-- **Desktop**: 16" laptop — navigation footer is fixed at the bottom with all links visible
-- **Mobile**: 6.56" smartphone — navigation footer collapses behind a hamburger menu icon (pure CSS, no JavaScript)
+```text
+newsection/
+  doc/
+    index.adoc
+    docinfo.html
+    docinfo-footer.html
+    images/
+    pdf/
+```
 
-The mobile breakpoint is 767px. The hamburger toggle uses a checkbox hack for CSS-only interactivity.
+The production build discovers top-level directories containing `doc/*.adoc`, so
+there is no central section array to edit. Copy a current section's Asciidoctor
+header, update navigation in `doc/docinfo-footer.html`, propagate the shared
+docinfo files with the existing styling utility if needed, then run `npm run build`.
 
-## Navigation Footer
+## Themes and shared styling
 
-Every page has a footer with links to all sections. To edit the links, modify `doc/docinfo-footer.html`, then:
+The active stylesheet is `current-theme/theme.css`; theme candidates live under
+`themes/`. Switch using the existing theme utility, then build and preview:
 
 ```bash
-./propagate-style.sh
-./build.sh
+./switch-theme.sh manuscript
+npm run build
+npm run preview
 ```
 
-## Adding a New Section
+Section sources link `/current-theme/theme.css`, so only the active stylesheet is
+published. Shared `docinfo.html` and `docinfo-footer.html` files supply page-level
+styling and navigation. The `inkscape/` directory is published because those
+styles use `/inkscape/3-22-1.svg` as a watermark.
 
-1. Create the directory structure:
-   ```
-   newsection/
-     doc/
-       index.adoc
-       images/
-     build.sh
-   ```
+## Release procedure
 
-2. Use this header in `doc/index.adoc`:
-   ```asciidoc
-   = Section Title
-   :includedir: _includes
-   :imagesdir: ./images
-   :icons: font
-   :toc: left
-   :toc-title:
-   :nofooter:
-   :sectnums:
-   :figure-caption!:
-   :sectnums!:
-   :docinfo: shared
-   :linkcss:
-   :copycss!:
-   :stylesheet: theme.css
-   :stylesdir: /current-theme
-   ```
+1. Run `npm run build` and resolve every validation error.
+2. Run `npm run preview` and inspect affected desktop/mobile pages and media.
+3. Commit source, asset, build-script, and documentation changes only; never
+   commit `dist/`, `.env.cloudflare`, `node_modules/`, or unrelated files.
+4. Push `master` to `origin`.
+5. Verify the GitHub Actions deployment and its immutable `*.pages.dev` URL.
+6. Verify the canonical `www` URL, apex redirect, TLS, and affected media.
 
-3. Copy `build.sh` from an existing section.
-
-4. Add the section to:
-   - `build.sh` (main build script)
-   - `propagate-style.sh` (SECTIONS array)
-   - `doc/docinfo-footer.html` (navigation)
-
-5. Run `./propagate-style.sh && ./build.sh`
-
-## File Overview
-
-```
-current-theme/theme.css    Active theme (do not edit directly)
-themes/*.css               Theme files (edit these)
-switch-theme.sh            Switch active theme
-propagate-style.sh         Distribute shared files to sections
-build.sh                   Build entire site
-doc/docinfo-footer.html    Navigation footer HTML
-doc/docinfo.html           Head injection (currently empty)
-<section>/doc/index.adoc   Section content source
-<section>/index.html       Generated output (do not hand-edit)
-```
+Manual `npm run deploy` exists for recovery but routine production deployments
+should go through GitHub Actions.

@@ -30,7 +30,7 @@ if (( ${#sections[@]} == 0 )); then
 fi
 
 cp index.html "$stage_dir/"
-for root_asset_dir in current-theme images pdf; do
+for root_asset_dir in current-theme images inkscape pdf; do
   if [[ -d "$root_asset_dir" ]]; then
     cp -R "$root_asset_dir" "$stage_dir/"
   fi

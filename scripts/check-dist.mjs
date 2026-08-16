@@ -6,6 +6,7 @@ const maxFileSize = 25 * 1024 * 1024;
 const forbiddenExtensions = new Set(['.adoc', '.sh', '.md', '.rb']);
 const forbiddenNames = new Set(['.env', '.git', 'CNAME', 'Gemfile', 'Gemfile.lock', 'package.json', 'package-lock.json']);
 const failures = [];
+const checkedTargets = new Set();
 
 function walk(directory) {
   return fs.readdirSync(directory, { withFileTypes: true }).flatMap((entry) => {
@@ -37,24 +38,48 @@ for (const file of files) {
   }
 }
 
-const urlPattern = /\b(?:href|poster|src)\s*=\s*["']([^"']+)["']/gi;
+function validateUrl(sourceFile, url) {
+  if (/^(?:[a-z]+:|#|\/\/)/i.test(url)) return;
+
+  let clean;
+  let browserPath;
+  try {
+    clean = decodeURIComponent(url.split(/[?#]/, 1)[0].replaceAll('&amp;', '&'));
+    if (!clean) return;
+    const sourcePath = `/${path.relative(root, sourceFile).split(path.sep).join('/')}`;
+    browserPath = decodeURIComponent(new URL(clean, `https://site.invalid${sourcePath}`).pathname);
+  } catch {
+    failures.push(`${path.relative(root, sourceFile)}: invalid local URL: ${url}`);
+    return;
+  }
+
+  const target = path.join(root, browserPath);
+  const checkKey = `${sourceFile}\0${target}`;
+  if (checkedTargets.has(checkKey)) return;
+  checkedTargets.add(checkKey);
+
+  if (!target.startsWith(`${root}${path.sep}`) && target !== root) {
+    failures.push(`${path.relative(root, sourceFile)}: link escapes publish directory: ${url}`);
+  } else if (!fs.existsSync(target)) {
+    failures.push(`${path.relative(root, sourceFile)}: missing local target: ${url}`);
+  } else if (fs.statSync(target).isDirectory() && !fs.existsSync(path.join(target, 'index.html'))) {
+    failures.push(`${path.relative(root, sourceFile)}: directory link has no index.html: ${url}`);
+  }
+}
+
+const htmlUrlPattern = /\b(?:href|poster|src)\s*=\s*["']([^"']+)["']/gi;
+const cssUrlPattern = /\burl\(\s*["']?([^"')]+)["']?\s*\)/gi;
+
 for (const htmlFile of files.filter((file) => path.extname(file) === '.html')) {
   const html = fs.readFileSync(htmlFile, 'utf8');
-  for (const match of html.matchAll(urlPattern)) {
-    const url = match[1];
-    if (/^(?:[a-z]+:|#|\/\/)/i.test(url)) continue;
-    const clean = decodeURIComponent(url.split(/[?#]/, 1)[0].replaceAll('&amp;', '&'));
-    if (!clean) continue;
-    const pagePath = `/${path.relative(root, htmlFile).split(path.sep).join('/')}`;
-    const browserPath = decodeURIComponent(new URL(clean, `https://site.invalid${pagePath}`).pathname);
-    const target = path.join(root, browserPath);
-    if (!target.startsWith(`${root}${path.sep}`) && target !== root) {
-      failures.push(`${path.relative(root, htmlFile)}: link escapes publish directory: ${url}`);
-    } else if (!fs.existsSync(target)) {
-      failures.push(`${path.relative(root, htmlFile)}: missing local target: ${url}`);
-    } else if (fs.statSync(target).isDirectory() && !fs.existsSync(path.join(target, 'index.html'))) {
-      failures.push(`${path.relative(root, htmlFile)}: directory link has no index.html: ${url}`);
-    }
+  for (const match of html.matchAll(htmlUrlPattern)) validateUrl(htmlFile, match[1]);
+  for (const match of html.matchAll(cssUrlPattern)) validateUrl(htmlFile, match[1]);
+}
+
+for (const cssFile of files.filter((file) => path.extname(file) === '.css')) {
+  const css = fs.readFileSync(cssFile, 'utf8');
+  for (const match of css.matchAll(cssUrlPattern)) {
+    validateUrl(cssFile, match[1]);
   }
 }
 

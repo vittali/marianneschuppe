@@ -23,7 +23,7 @@ body {
 }
 ```
 
-No new image files were added. All drawings are sourced from the existing `inkscape/` directory, which is served by GitHub Pages at `/inkscape/`.
+No new image files were added. All drawings are sourced from the existing `inkscape/` directory, which is included in the clean Cloudflare Pages publication and served at `/inkscape/`.
 
 ### How to adjust
 
@@ -35,7 +35,7 @@ No new image files were added. All drawings are sourced from the existing `inksc
 | Watermark opacity | `doc/docinfo.html` | Change `0.95` in `rgba(255,254,249,0.95)` (lower = more visible) |
 | Watermark position | `doc/docinfo.html` | Change `right bottom` to e.g. `right center` or `center bottom` |
 | Watermark fixed to viewport | `doc/docinfo.html` | Add `background-attachment: fixed` (note: disabled on iOS) |
-| Propagate changes to all sections | — | Run `./propagate-style.sh` then `./build.sh` |
+| Propagate changes to all sections | — | Run `./propagate-style.sh` then `npm run build` |
 
 ### Available drawings
 

@@ -1,0 +1,53 @@
+; Archival DNS inventory captured from the authoritative GoDaddy-hosted zone.
+; Domain: marianneschuppe.com
+; Exported: 2026-08-16 04:59:20
+; DO NOT IMPORT: the SOA, NS, and GitHub Pages web records are obsolete.
+
+$ORIGIN marianneschuppe.com.
+
+; SOA
+@ 3600 IN SOA ns65.domaincontrol.com. dns.jomax.net. (
+  2020091003 28800 7200 604800 3600
+)
+
+; GitHub Pages apex records (replaced during migration)
+@ 3600 IN A 185.199.108.153
+@ 3600 IN A 185.199.109.153
+@ 3600 IN A 185.199.110.153
+@ 3600 IN A 185.199.111.153
+
+; Google verification (preserved)
+@ 3600 IN TXT "google-site-verification=kWRekD2SeAMOQlzqJuPKxvuaX2a8OFC2TZwS5HQxmX0"
+
+; Service CNAMEs (preserved except www, which was replaced)
+calendar 3600 IN CNAME ghs.google.com.
+docs 3600 IN CNAME ghs.google.com.
+mail 3600 IN CNAME ghs.google.com.
+start 3600 IN CNAME ghs.google.com.
+www 3600 IN CNAME mschuppe.github.io.
+_domainconnect 3600 IN CNAME _domainconnect.ss.domaincontrol.com.
+
+; Google Jabber/XMPP SRV records (preserved)
+_jabber._tcp.@ 3600 IN SRV 20 0 5269 xmpp-server1.l.google.com.
+_jabber._tcp.@ 3600 IN SRV 20 0 5269 xmpp-server2.l.google.com.
+_jabber._tcp.@ 3600 IN SRV 20 0 5269 xmpp-server3.l.google.com.
+_jabber._tcp.@ 3600 IN SRV 20 0 5269 xmpp-server4.l.google.com.
+_jabber._tcp.@ 3600 IN SRV 5 0 5269 xmpp-server.l.google.com.
+_xmpp-server._tcp.@ 3600 IN SRV 20 0 5269 xmpp-server1.l.google.com.
+_xmpp-server._tcp.@ 3600 IN SRV 20 0 5269 xmpp-server2.l.google.com.
+_xmpp-server._tcp.@ 3600 IN SRV 20 0 5269 xmpp-server3.l.google.com.
+_xmpp-server._tcp.@ 3600 IN SRV 20 0 5269 xmpp-server4.l.google.com.
+_xmpp-server._tcp.@ 3600 IN SRV 5 0 5269 xmpp-server.l.google.com.
+
+; Former authoritative nameservers (replaced during migration)
+@ 3600 IN NS ns65.domaincontrol.com.
+@ 3600 IN NS ns66.domaincontrol.com.
+
+; Legacy Google Workspace MX records (preserved)
+@ 3600 IN MX 10 aspmx.l.google.com.
+@ 3600 IN MX 20 alt1.aspmx.l.google.com.
+@ 3600 IN MX 20 alt2.aspmx.l.google.com.
+@ 3600 IN MX 30 aspmx2.googlemail.com.
+@ 3600 IN MX 30 aspmx3.googlemail.com.
+@ 3600 IN MX 30 aspmx4.googlemail.com.
+@ 3600 IN MX 30 aspmx5.googlemail.com.
