@@ -5,6 +5,7 @@
 .env.*
 !.env.example
 dist/
+.dist.*/
 node_modules/
 vendor/bundle/
 .bundle/

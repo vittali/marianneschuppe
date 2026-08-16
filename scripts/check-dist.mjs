@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 
-const root = path.resolve('dist');
+const root = path.resolve(process.argv[2] ?? 'dist');
 const maxFileSize = 25 * 1024 * 1024;
 const forbiddenExtensions = new Set(['.adoc', '.sh', '.md', '.rb']);
 const forbiddenNames = new Set(['.env', '.git', 'CNAME', 'Gemfile', 'Gemfile.lock', 'package.json', 'package-lock.json']);
@@ -10,8 +10,17 @@ const failures = [];
 function walk(directory) {
   return fs.readdirSync(directory, { withFileTypes: true }).flatMap((entry) => {
     const absolute = path.join(directory, entry.name);
+    if (entry.isSymbolicLink()) {
+      failures.push(`${path.relative(root, absolute)}: symbolic links must not be published`);
+      return [];
+    }
     return entry.isDirectory() ? walk(absolute) : [absolute];
   });
+}
+
+if (!fs.existsSync(root) || !fs.statSync(root).isDirectory()) {
+  console.error(`Publish directory does not exist: ${root}`);
+  process.exit(1);
 }
 
 if (!fs.existsSync(path.join(root, 'index.html'))) {
@@ -28,7 +37,7 @@ for (const file of files) {
   }
 }
 
-const urlPattern = /(?:href|src)=["']([^"']+)["']/g;
+const urlPattern = /\b(?:href|poster|src)\s*=\s*["']([^"']+)["']/gi;
 for (const htmlFile of files.filter((file) => path.extname(file) === '.html')) {
   const html = fs.readFileSync(htmlFile, 'utf8');
   for (const match of html.matchAll(urlPattern)) {
@@ -43,6 +52,8 @@ for (const htmlFile of files.filter((file) => path.extname(file) === '.html')) {
       failures.push(`${path.relative(root, htmlFile)}: link escapes publish directory: ${url}`);
     } else if (!fs.existsSync(target)) {
       failures.push(`${path.relative(root, htmlFile)}: missing local target: ${url}`);
+    } else if (fs.statSync(target).isDirectory() && !fs.existsSync(path.join(target, 'index.html'))) {
+      failures.push(`${path.relative(root, htmlFile)}: directory link has no index.html: ${url}`);
     }
   }
 }
@@ -52,4 +63,4 @@ if (failures.length) {
   process.exit(1);
 }
 
-console.log(`Validated ${files.length} deployable files in dist.`);
+console.log(`Validated ${files.length} deployable files in ${path.relative(process.cwd(), root) || '.'}.`);

@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "./scripts/build-site.sh",
-    "check:dist": "node ./scripts/check-dist.mjs",
+    "build": "npm run build:site && npm run validate",
+    "build:site": "./scripts/build-site.sh",
+    "validate": "node ./scripts/check-dist.mjs dist",
+    "check:dist": "npm run validate",
     "preview": "wrangler pages dev dist",
     "deploy": "./scripts/with-cloudflare-env.sh pages deploy dist --project-name=marianneschuppe --branch=master"
   },

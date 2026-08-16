@@ -3,29 +3,61 @@ set -euo pipefail
 
 repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 publish_dir="$repo_root/dist"
-sections=(bridge contact csl extend int_essay mentor now path recording review works)
+stage_dir="$(mktemp -d "$repo_root/.dist.XXXXXX")"
+
+cleanup() {
+  if [[ -n "${stage_dir:-}" && -d "$stage_dir" && ! -L "$stage_dir" ]]; then
+    find "$stage_dir" -xdev -mindepth 1 -delete
+    rmdir "$stage_dir"
+  fi
+}
+trap cleanup EXIT
 
 cd "$repo_root"
 
-if [[ "${SKIP_ASCIIDOCTOR:-0}" != "1" ]]; then
-  for section in "${sections[@]}"; do
-    while IFS= read -r source; do
-      bundle exec asciidoctor -D "$section" "$source"
-    done < <(find "$section/doc" -maxdepth 1 -type f -name '*.adoc' | sort)
+mapfile -t sections < <(
+  find . -mindepth 2 -maxdepth 2 -type d -name doc -print \
+    | sed -E 's#^\./##; s#/doc$##' \
+    | while IFS= read -r section; do
+        find "$section/doc" -maxdepth 1 -type f -name '*.adoc' -print -quit | grep -q . && printf '%s\n' "$section"
+      done \
+    | sort
+)
 
-    for asset_dir in images pdf; do
-      if [[ -d "$section/doc/$asset_dir" ]]; then
-        mkdir -p "$section/$asset_dir"
-        rsync -a "$section/doc/$asset_dir/" "$section/$asset_dir/"
-      fi
-    done
-  done
-
-  # These pages reuse assets from their legacy source sections.
-  rsync -a extend/images/ works/images/
-  rsync -a extend/pdf/ works/pdf/
-  rsync -a bridge/pdf/ works/pdf/
+if (( ${#sections[@]} == 0 )); then
+  echo "No Asciidoctor sections found." >&2
+  exit 1
 fi
+
+cp index.html "$stage_dir/"
+for root_asset_dir in current-theme images pdf; do
+  if [[ -d "$root_asset_dir" ]]; then
+    cp -R "$root_asset_dir" "$stage_dir/"
+  fi
+done
+
+for section in "${sections[@]}"; do
+  section_output="$stage_dir/$section"
+  mkdir -p "$section_output"
+
+  while IFS= read -r source; do
+    bundle exec asciidoctor -D "$section_output" "$source"
+  done < <(find "$section/doc" -maxdepth 1 -type f -name '*.adoc' | sort)
+
+  for asset_dir in images pdf; do
+    if [[ -d "$section/doc/$asset_dir" ]]; then
+      cp -R "$section/doc/$asset_dir" "$section_output/"
+    fi
+  done
+done
+
+# These pages intentionally reuse assets from their legacy source sections.
+cp -R extend/doc/images/. "$stage_dir/works/images/"
+cp -R extend/doc/pdf/. "$stage_dir/works/pdf/"
+cp -R bridge/doc/pdf/. "$stage_dir/works/pdf/"
+
+# Validate staging before replacing the last known-good publish directory.
+node scripts/check-dist.mjs "$stage_dir"
 
 # The home page is handcrafted and must never be generated from doc/index.adoc.
 if [[ -L "$publish_dir" ]]; then
@@ -37,23 +69,5 @@ if [[ -e "$publish_dir" ]]; then
   find "$publish_dir" -xdev -mindepth 1 -delete
   rmdir "$publish_dir"
 fi
-mkdir "$publish_dir"
-
-cp index.html "$publish_dir/"
-for root_asset_dir in current-theme images pdf; do
-  if [[ -d "$root_asset_dir" ]]; then
-    cp -R "$root_asset_dir" "$publish_dir/"
-  fi
-done
-
-for section in "${sections[@]}"; do
-  mkdir "$publish_dir/$section"
-  find "$section" -maxdepth 1 -type f -name '*.html' -exec cp {} "$publish_dir/$section/" \;
-  for asset_dir in images pdf; do
-    if [[ -d "$section/$asset_dir" ]]; then
-      cp -R "$section/$asset_dir" "$publish_dir/$section/"
-    fi
-  done
-done
-
-node scripts/check-dist.mjs
+mv "$stage_dir" "$publish_dir"
+stage_dir=""
